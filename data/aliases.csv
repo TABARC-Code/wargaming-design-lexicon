@@ -1,0 +1,2947 @@
+term_id,alias
+WG-0001,miniature
+WG-0001,figure
+WG-0002,model
+WG-0002,figure
+WG-0003,squad
+WG-0003,group
+WG-0003,element
+WG-0004,model
+WG-0004,soldier
+WG-0005,hero
+WG-0005,leader
+WG-0005,named model
+WG-0006,commander
+WG-0006,officer
+WG-0007,controlling player
+WG-0008,owning player
+WG-0009,friendly model
+WG-0009,friendly unit
+WG-0009,allied side
+WG-0010,enemy model
+WG-0010,hostile unit
+WG-0011,allied model
+WG-0011,allied unit
+WG-0012,uncontrolled
+WG-0012,neutral element
+WG-0013,hostile element
+WG-0014,selected target
+WG-0014,defender
+WG-0015,initiator
+WG-0015,attacking model/unit
+WG-0016,resister
+WG-0016,target
+WG-0017,stat line
+WG-0017,datasheet
+WG-0017,warscroll
+WG-0017,stat card
+WG-0017,unit profile
+WG-0018,attribute
+WG-0018,stat
+WG-0018,value
+WG-0019,tag
+WG-0019,trait
+WG-0019,label
+WG-0020,tag
+WG-0020,property
+WG-0021,tag
+WG-0022,special rule
+WG-0022,power
+WG-0022,skill
+WG-0023,order
+WG-0023,activity
+WG-0024,result
+WG-0024,outcome
+WG-0025,spend
+WG-0025,requirement
+WG-0026,prerequisite
+WG-0026,condition
+WG-0027,limitation
+WG-0027,prohibition
+WG-0028,legal
+WG-0028,valid
+WG-0029,apply
+WG-0029,carry out
+WG-0030,announce
+WG-0030,choose
+WG-0031,when
+WG-0031,whenever
+WG-0031,after
+WG-0032,interrupt
+WG-0032,response
+WG-0032,ARO
+WG-0032,overwatch
+WG-0033,timing window
+WG-0033,step
+WG-0034,precedence
+WG-0034,override
+WG-0035,battle
+WG-0035,match
+WG-0036,battle round
+WG-0036,game round
+WG-0037,player turn
+WG-0038,step
+WG-0038,phase of turn
+WG-0039,sub-step
+WG-0039,timing step
+WG-0040,activate
+WG-0040,activation phase
+WG-0041,current player
+WG-0042,active unit
+WG-0042,activated unit
+WG-0043,priority
+WG-0043,first player
+WG-0044,initiative
+WG-0044,first player
+WG-0045,alternate activation
+WG-0045,unit-by-unit activation
+WG-0046,order-dice activation
+WG-0046,bag draw
+WG-0047,command
+WG-0047,order die
+WG-0048,command ability
+WG-0048,command action
+WG-0049,skip
+WG-0049,forgo activation
+WG-0050,unexhausted
+WG-0050,available
+WG-0051,spent
+WG-0051,used
+WG-0051,tapped
+WG-0052,ready
+WG-0052,reset
+WG-0052,recover
+WG-0053,cleanup phase
+WG-0053,end step
+WG-0054,1/turn
+WG-0055,1/round
+WG-0056,limited
+WG-0056,single use
+WG-0057,bonus action
+WG-0057,zero-action
+WG-0058,actions per activation
+WG-0059,AP
+WG-0059,action resource
+WG-0060,measurement
+WG-0060,separation
+WG-0061,weapon range
+WG-0061,effect range
+WG-0062,short
+WG-0062,medium
+WG-0062,long
+WG-0062,extreme
+WG-0063,close range
+WG-0064,extended range
+WG-0065,maximum band
+WG-0066,dead zone
+WG-0067,max range
+WG-0068,close-range threshold
+WG-0069,inside range
+WG-0069,at most
+WG-0070,completely within
+WG-0071,outside range
+WG-0072,base edge
+WG-0072,footprint
+WG-0073,base-to-base
+WG-0073,B2B
+WG-0074,volume
+WG-0074,size template
+WG-0075,Sz
+WG-0075,scale
+WG-0075,size class
+WG-0076,Ht
+WG-0076,elevation
+WG-0077,orientation
+WG-0078,front 180
+WG-0078,frontal arc
+WG-0079,flank arc
+WG-0080,rear
+WG-0080,back arc
+WG-0081,weapon arc
+WG-0081,fire arc
+WG-0082,area
+WG-0082,region
+WG-0083,ZoC
+WG-0083,control radius
+WG-0084,melee range
+WG-0084,combat range
+WG-0085,melee zone
+WG-0085,engagement range
+WG-0086,formation spacing
+WG-0086,unit cohesion
+WG-0087,unit spacing
+WG-0088,table centre
+WG-0088,midpoint
+WG-0089,midline
+WG-0090,battlefield edge
+WG-0091,battlefield half
+WG-0092,quadrant
+WG-0092,battlefield quarter
+WG-0093,friendly territory
+WG-0093,enemy territory
+WG-0094,movement
+WG-0094,MV
+WG-0094,M
+WG-0094,speed move
+WG-0095,MV
+WG-0095,M
+WG-0095,Speed
+WG-0095,Sp
+WG-0095,SPD
+WG-0096,Sp
+WG-0096,SPD
+WG-0096,movement rate
+WG-0097,standard move
+WG-0097,walk
+WG-0097,move
+WG-0098,normal move
+WG-0099,move
+WG-0099,basic move
+WG-0100,move-and-fire
+WG-0100,accelerated move
+WG-0101,rush
+WG-0101,sprint
+WG-0101,dash
+WG-0102,run
+WG-0102,dash
+WG-0103,run
+WG-0103,sprint
+WG-0104,road move
+WG-0105,open-ground dash
+WG-0106,rough-terrain dash
+WG-0107,full speed
+WG-0107,triple move
+WG-0108,assault move
+WG-0108,charge move
+WG-0109,reactive charge
+WG-0110,charge
+WG-0110,close assault
+WG-0111,retreat
+WG-0111,withdraw
+WG-0111,disengage
+WG-0112,fall back
+WG-0112,withdraw
+WG-0113,disengage
+WG-0113,retreat
+WG-0114,withdraw
+WG-0114,break contact
+WG-0115,combat move
+WG-0115,engage move
+WG-0116,post-combat move
+WG-0117,shift
+WG-0117,tactical move
+WG-0118,forced movement
+WG-0118,shove
+WG-0119,drag
+WG-0119,draw toward
+WG-0120,teleport
+WG-0120,reposition without moving
+WG-0121,blink
+WG-0121,redeploy
+WG-0122,leap
+WG-0123,climbing
+WG-0124,flying
+WG-0124,flight
+WG-0125,step over
+WG-0125,vaulting
+WG-0126,turn
+WG-0126,rotate
+WG-0127,back up
+WG-0127,reverse move
+WG-0128,pre-game move
+WG-0128,vanguard move
+WG-0129,reposition deployment
+WG-0130,forward deploy
+WG-0130,infiltrators
+WG-0131,drop deployment
+WG-0131,teleport reserve
+WG-0132,reserve ambush
+WG-0132,opportunity fire order
+WG-0133,LoS
+WG-0133,sight line
+WG-0134,LoF
+WG-0134,fire line
+WG-0135,in sight
+WG-0135,can see
+WG-0136,concealed
+WG-0136,hidden state
+WG-0137,camouflage
+WG-0137,camo state
+WG-0138,concealment
+WG-0138,obscured
+WG-0139,obscuring
+WG-0139,blocked visibility
+WG-0140,benefit of cover
+WG-0140,partial cover
+WG-0141,light cover
+WG-0141,partial concealment
+WG-0142,hard cover
+WG-0142,strong cover
+WG-0143,ignores cover
+WG-0144,target condition
+WG-0144,legal target
+WG-0145,nearest enemy
+WG-0145,nearest model
+WG-0146,priority target
+WG-0146,threat priority
+WG-0147,target lock
+WG-0147,lock on
+WG-0148,aim action
+WG-0148,aim token
+WG-0148,aimed shot
+WG-0149,spot
+WG-0149,observe
+WG-0149,spotter
+WG-0150,observer
+WG-0150,forward observer
+WG-0151,indirect
+WG-0151,indirect attack
+WG-0152,blind fire
+WG-0152,indirect guess shot
+WG-0153,field of fire
+WG-0153,sector
+WG-0154,strike
+WG-0154,offensive action
+WG-0155,combat attack
+WG-0155,close-combat attack
+WG-0156,shooting attack
+WG-0156,missile attack
+WG-0157,fire
+WG-0157,shooting action
+WG-0158,shoot
+WG-0158,fire order
+WG-0159,melee
+WG-0159,combat
+WG-0160,dice pool
+WG-0160,weapon pool
+WG-0161,defense dice pool
+WG-0162,A
+WG-0162,attacks
+WG-0162,shots
+WG-0163,ROF
+WG-0163,shots
+WG-0164,B
+WG-0164,burst value
+WG-0165,Range
+WG-0165,Rng
+WG-0166,Acc
+WG-0166,to-hit value
+WG-0167,BS
+WG-0167,shooting skill
+WG-0168,WS
+WG-0168,melee skill
+WG-0169,Me
+WG-0169,melee value
+WG-0170,Ra
+WG-0170,ranged value
+WG-0171,skill
+WG-0171,Q
+WG-0172,S
+WG-0172,attack strength
+WG-0173,attack power
+WG-0173,effect strength
+WG-0174,AP
+WG-0174,penetration
+WG-0174,pierce
+WG-0175,Rending
+WG-0175,armour reduction
+WG-0176,AT
+WG-0176,anti-tank
+WG-0176,anti-armour
+WG-0177,FP
+WG-0177,kill rating
+WG-0178,D
+WG-0178,damage value
+WG-0179,D
+WG-0179,damage stat
+WG-0180,to-hit roll
+WG-0180,attack roll
+WG-0181,damage roll
+WG-0181,injury roll
+WG-0182,combat roll
+WG-0182,strike roll
+WG-0183,save roll
+WG-0183,armour save
+WG-0184,SV
+WG-0184,armour save
+WG-0184,defence save
+WG-0185,Defense
+WG-0185,DEF
+WG-0186,Armor
+WG-0186,ARM
+WG-0187,T
+WG-0187,Tough
+WG-0188,HP
+WG-0188,wounds
+WG-0188,stamina
+WG-0189,W
+WG-0189,wound capacity
+WG-0190,health
+WG-0190,endurance
+WG-0191,internal structure
+WG-0191,hull
+WG-0192,crit
+WG-0192,natural critical
+WG-0193,critical damage result
+WG-0194,auto-hit
+WG-0194,automatically hits
+WG-0195,auto-wound
+WG-0196,re-roll
+WG-0196,reroll die
+WG-0197,MOD
+WG-0197,bonus
+WG-0197,penalty
+WG-0198,natural roll
+WG-0198,natural result
+WG-0199,pool
+WG-0199,attack dice
+WG-0200,area weapon
+WG-0200,blast attack
+WG-0201,blast weapon
+WG-0201,explosion
+WG-0202,AOE radius
+WG-0202,explosion radius
+WG-0203,area of effect
+WG-0203,area template
+WG-0204,blast template
+WG-0204,flame template
+WG-0204,impact template
+WG-0205,flame template
+WG-0205,direct template weapon
+WG-0206,blast template
+WG-0206,impact AOE
+WG-0207,line attack
+WG-0207,beam X
+WG-0208,cone
+WG-0208,spray attack
+WG-0209,aura attack
+WG-0209,radial effect
+WG-0210,aura range
+WG-0210,aura effect
+WG-0211,deviation
+WG-0211,drift
+WG-0212,scatter
+WG-0212,drift
+WG-0213,wound point
+WG-0213,harm point
+WG-0214,pending damage
+WG-0214,wound pool
+WG-0215,assign damage
+WG-0215,allocate wounds
+WG-0216,damaged
+WG-0216,injured
+WG-0217,wounded
+WG-0217,injured
+WG-0218,wounded side
+WG-0218,damaged state
+WG-0219,defeated
+WG-0219,removed
+WG-0219,slain
+WG-0220,destroyed
+WG-0220,eliminated
+WG-0221,killed
+WG-0221,destroyed
+WG-0222,knocked out
+WG-0222,knocked out state
+WG-0223,injured
+WG-0223,flipped
+WG-0224,mortal wound
+WG-0224,direct damage
+WG-0225,reduce damage
+WG-0225,armour reduction
+WG-0226,ignore wound
+WG-0226,ward
+WG-0226,feel no pain
+WG-0227,ward save
+WG-0227,after-save
+WG-0228,ignore wound
+WG-0228,damage ignore
+WG-0229,regen
+WG-0229,heal save
+WG-0230,healing
+WG-0230,restore
+WG-0231,restore structure
+WG-0231,fix
+WG-0232,morale value
+WG-0232,courage
+WG-0233,morale
+WG-0233,rout threshold
+WG-0234,morale
+WG-0234,willpower
+WG-0234,resolve
+WG-0235,LD
+WG-0235,command
+WG-0235,morale
+WG-0236,suppression tokens
+WG-0236,suppressed
+WG-0237,Pin Marker
+WG-0237,pinned
+WG-0238,suppressed
+WG-0238,pinned down
+WG-0239,shaken
+WG-0239,morale-broken
+WG-0240,panic
+WG-0240,broken
+WG-0241,recover morale
+WG-0241,rally order
+WG-0242,shaken
+WG-0242,disordered
+WG-0243,broken
+WG-0243,fled
+WG-0244,stun
+WG-0244,stunned state
+WG-0245,stagger
+WG-0245,slowed
+WG-0246,immobilized
+WG-0246,rooted
+WG-0247,down
+WG-0247,prone state
+WG-0248,in melee
+WG-0248,locked in combat
+WG-0249,poisoned
+WG-0249,toxin
+WG-0250,fire
+WG-0250,aflame
+WG-0251,bleed
+WG-0251,bleeding token
+WG-0252,scenery
+WG-0252,battlefield terrain
+WG-0253,scenery piece
+WG-0254,terrain area
+WG-0254,footprint terrain
+WG-0255,small terrain
+WG-0255,scatter piece
+WG-0256,linear obstacle
+WG-0256,barrier
+WG-0257,rough terrain
+WG-0257,severe terrain
+WG-0258,very difficult terrain
+WG-0258,rough
+WG-0259,blocked
+WG-0259,impassable terrain
+WG-0260,dangerous terrain
+WG-0260,hazardous terrain
+WG-0261,open terrain
+WG-0261,clear ground
+WG-0262,road terrain
+WG-0263,height level
+WG-0263,elevated position
+WG-0264,elevated
+WG-0264,height advantage
+WG-0265,structure
+WG-0265,scenery structure
+WG-0266,access point
+WG-0266,gate
+WG-0267,AW
+WG-0267,narrow/wide access
+WG-0268,destroyable terrain
+WG-0269,cover-providing terrain
+WG-0270,LOS-blocking
+WG-0270,opaque terrain
+WG-0271,concealment terrain
+WG-0272,mission objective
+WG-0272,objective marker
+WG-0273,objective token
+WG-0273,objective point
+WG-0274,objective marker
+WG-0274,asset
+WG-0274,civilian
+WG-0275,hold objective
+WG-0275,control point
+WG-0276,carry objective
+WG-0276,pickup
+WG-0277,hold
+WG-0277,dominate
+WG-0278,contesting
+WG-0278,challenge control
+WG-0279,objective control
+WG-0279,OC total
+WG-0280,OC
+WG-0280,control characteristic
+WG-0281,claim objective
+WG-0281,pick up
+WG-0282,secure objective
+WG-0282,hold
+WG-0283,interaction action
+WG-0283,use objective
+WG-0284,score points
+WG-0284,scoring
+WG-0285,VP
+WG-0285,victory points
+WG-0286,side objective
+WG-0286,secondary
+WG-0287,main objective
+WG-0287,primary
+WG-0288,mission
+WG-0288,encounter
+WG-0288,battleplan
+WG-0289,scenario
+WG-0289,operation
+WG-0290,scenario
+WG-0290,mission
+WG-0291,scenario
+WG-0291,game setup
+WG-0292,win condition
+WG-0293,tie-break
+WG-0293,secondary scoring
+WG-0294,set up
+WG-0294,deploy
+WG-0295,starting zone
+WG-0295,DZ
+WG-0296,place
+WG-0296,deploy
+WG-0297,reserves
+WG-0297,off-table reserve
+WG-0298,reinforcements
+WG-0298,reserve arrival
+WG-0299,off-table
+WG-0299,not deployed
+WG-0300,force
+WG-0300,faction force
+WG-0301,roster
+WG-0301,force list
+WG-0302,army list
+WG-0302,squad list
+WG-0303,points cost
+WG-0303,army points
+WG-0304,points cost
+WG-0304,threat
+WG-0304,requisition
+WG-0305,threat level
+WG-0305,roster cost
+WG-0306,army
+WG-0306,affiliation
+WG-0307,faction
+WG-0307,team
+WG-0308,trooper type
+WG-0308,model type
+WG-0309,role
+WG-0309,battlefield role
+WG-0310,battlefield role
+WG-0310,slot
+WG-0311,equipment card
+WG-0311,option
+WG-0312,gear
+WG-0312,wargear
+WG-0312,item
+WG-0313,equipment loadout
+WG-0313,weapon option
+WG-0314,armament
+WG-0314,attack profile
+WG-0315,unique unit
+WG-0315,one-of
+WG-0316,limited X
+WG-0316,copy limit
+WG-0317,attached unit
+WG-0317,bodyguard
+WG-0317,join
+WG-0318,retinue
+WG-0318,attached unit
+WG-0319,vehicle transport
+WG-0319,carrier
+WG-0320,inside transport
+WG-0320,mounted
+WG-0321,exit transport
+WG-0321,deploy from transport
+WG-0322,CP
+WG-0322,command resource
+WG-0323,energy
+WG-0323,power points
+WG-0324,counter
+WG-0324,marker token
+WG-0325,counter
+WG-0325,objective marker
+WG-0325,state marker
+WG-0326,condition
+WG-0326,status
+WG-0327,dice roll
+WG-0327,check
+WG-0328,check
+WG-0328,skill test
+WG-0329,command test
+WG-0329,morale order check
+WG-0330,TN
+WG-0330,difficulty
+WG-0331,opposed test
+WG-0331,contested roll
+WG-0331,duel
+WG-0332,unopposed test
+WG-0332,static test
+WG-0333,contested duel
+WG-0333,opposed test
+WG-0334,opposed roll
+WG-0334,FtF
+WG-0335,pass
+WG-0335,hit
+WG-0336,fail
+WG-0336,miss
+WG-0337,success margin
+WG-0337,degree of success
+WG-0338,degree
+WG-0338,margin threshold
+WG-0339,six-sided die
+WG-0340,three-result die
+WG-0340,D6/2
+WG-0341,two six-sided dice
+WG-0342,face value
+WG-0342,result
+WG-0343,hit
+WG-0343,block
+WG-0343,surge
+WG-0343,crit
+WG-0344,crit
+WG-0344,critical result
+WG-0345,surge result
+WG-0345,conversion result
+WG-0346,block result
+WG-0346,defence success
+WG-0347,opposed single roll
+WG-0347,tie roll
+WG-0348,chart
+WG-0348,lookup table
+WG-0349,Blast(X)
+WG-0349,blast value
+WG-0350,high damage
+WG-0350,multi-damage
+WG-0351,charge impact
+WG-0351,impact hits
+WG-0352,accurate
+WG-0352,fixed hit quality
+WG-0353,rend
+WG-0353,armour-piercing critical
+WG-0354,toxic
+WG-0354,poison
+WG-0355,precision
+WG-0355,marksman
+WG-0356,hard to target
+WG-0356,stealthy
+WG-0357,slowed
+WG-0357,reduced movement
+WG-0358,terrain walker
+WG-0358,ignore difficult terrain
+WG-0359,multi-wound
+WG-0359,durable
+WG-0360,forward scout
+WG-0360,pre-game move
+WG-0361,mobile fire
+WG-0361,assault
+WG-0362,Heavy
+WG-0362,cumbersome
+WG-0362,heavy weapon
+WG-0363,sidearm
+WG-0363,pistol weapon
+WG-0364,Rapid Fire X
+WG-0364,rapid fire
+WG-0364,close-range ROF
+WG-0365,Sustained Hits X
+WG-0365,exploding hits
+WG-0365,extra hits
+WG-0366,auto-wound hits
+WG-0366,lethal
+WG-0367,reroll wounds
+WG-0367,linked weapons
+WG-0368,Disposable
+WG-0368,once per game
+WG-0368,ammo X
+WG-0369,ammo
+WG-0369,limited uses
+WG-0370,overwatch
+WG-0370,suppression fire
+WG-0371,opportunity fire
+WG-0371,reaction fire
+WG-0371,ambush fire
+WG-0372,reaction fire
+WG-0372,overwatch
+WG-0373,support fire
+WG-0373,suppressive fire
+WG-0374,control zone
+WG-0374,threat zone
+WG-0375,stationary
+WG-0375,hold position
+WG-0376,auto-hit
+WG-0376,automatic-hit weapon
+WG-0377,melta
+WG-0377,close-range damage bonus
+WG-0378,Anti-Keyword X+
+WG-0378,anti-keyword
+WG-0379,dev wounds
+WG-0379,critical-wound damage
+WG-0380,cleave
+WG-0380,sweep attack
+WG-0381,Down order
+WG-0381,go Down
+WG-0382,Pen.
+WG-0382,penetration bonus
+WG-0383,close quarters
+WG-0383,CQC
+WG-0383,hand-to-hand combat
+WG-0384,HE
+WG-0384,high-explosive shot
+WG-0385,SMG
+WG-0385,sub-machine gun
+WG-0386,LMG
+WG-0386,light MG
+WG-0387,MMG
+WG-0387,medium MG
+WG-0388,HMG
+WG-0388,heavy MG
+WG-0389,CTRL
+WG-0389,command radius
+WG-0389,control radius
+WG-0390,command group
+WG-0390,controller group
+WG-0391,focus points
+WG-0391,FOCUS
+WG-0392,fury points
+WG-0392,FURY
+WG-0393,automatic resource
+WG-0393,power allocation
+WG-0394,maintained effect
+WG-0394,upkeep cost
+WG-0395,boosted roll
+WG-0395,boost [dice]
+WG-0396,knocked down
+WG-0396,KD
+WG-0397,standard attack
+WG-0397,normal attack
+WG-0398,magic attack
+WG-0398,spell attack
+WG-0399,upkeep phase
+WG-0399,maintenance step
+WG-0400,resource phase
+WG-0400,command-resource phase
+WG-0401,formed unit
+WG-0401,formation unit
+WG-0402,element
+WG-0402,multi-model base
+WG-0403,march action
+WG-0403,marching
+WG-0404,wheeling
+WG-0404,wheel manoeuvre
+WG-0405,clash attack
+WG-0405,melee clash
+WG-0406,volley action
+WG-0406,ranged volley
+WG-0407,aiming action
+WG-0407,prepare shot
+WG-0408,impact hit
+WG-0408,charge impact
+WG-0409,broken status
+WG-0409,broken formation
+WG-0410,guts check
+WG-0410,survival response
+WG-0411,lateral roll
+WG-0411,side reposition
+WG-0412,boost action
+WG-0412,boost [movement]
+WG-0413,target lock
+WG-0413,lock token
+WG-0414,collision overlap
+WG-0414,bump
+WG-0415,ionised
+WG-0415,ion token
+WG-0416,tractor token
+WG-0416,tractor effect
+WG-0417,AAR
+WG-0417,battle report
+WG-0417,debrief
+WG-0418,AI
+WG-0418,solitaire opponent
+WG-0418,bot
+WG-0419,territorial control
+WG-0419,control area
+WG-0420,impulse system
+WG-0420,area-impulse activation
+WG-0421,zone movement
+WG-0421,area-to-area movement
+WG-0422,asymmetrical game
+WG-0422,asymmetric forces
+WG-0423,average die
+WG-0423,averaging die
+WG-0424,block wargame
+WG-0424,block system
+WG-0425,linked campaign
+WG-0425,campaign game
+WG-0426,CDG
+WG-0426,card-driven system
+WG-0427,draw chit
+WG-0427,activation chit
+WG-0428,chit draw
+WG-0428,chit-pull activation
+WG-0429,period chrome
+WG-0429,flavour rule
+WG-0430,counter-insurgency game
+WG-0430,COIN
+WG-0431,CRT
+WG-0431,combat table
+WG-0432,combat odds
+WG-0432,odds ratio
+WG-0432,odds
+WG-0433,CRT shift
+WG-0433,odds-column shift
+WG-0434,DRM
+WG-0434,die modifier
+WG-0435,C2
+WG-0435,command and control
+WG-0435,command friction
+WG-0436,echelon level
+WG-0436,decision scale
+WG-0437,unit counter
+WG-0437,cardboard counter
+WG-0438,dummy
+WG-0438,decoy counter
+WG-0438,dummy unit
+WG-0439,FoW
+WG-0439,hidden information
+WG-0439,uncertainty
+WG-0440,map scale
+WG-0440,distance scale
+WG-0441,hexagon
+WG-0441,hex space
+WG-0442,hex & counter
+WG-0442,hex-and-chit
+WG-0443,pass through friendly units
+WG-0443,interpenetrate
+WG-0444,node movement
+WG-0444,point movement
+WG-0444,connected-point movement
+WG-0445,SOP
+WG-0445,turn sequence
+WG-0446,IGOUGO
+WG-0446,IGO-UGO
+WG-0446,full-turn alternation
+WG-0447,stack
+WG-0447,multiple units per space
+WG-0448,stack limit
+WG-0448,stacking capacity
+WG-0449,over-stacking
+WG-0449,overstacked
+WG-0450,unit tray
+WG-0450,formation tray
+WG-0451,MA
+WG-0451,movement points
+WG-0451,movement factor
+WG-0452,movement cost
+WG-0452,terrain entry cost
+WG-0453,leaving cost
+WG-0453,terrain exit cost
+WG-0454,TEC
+WG-0454,terrain chart
+WG-0455,line fire
+WG-0455,observed direct fire
+WG-0456,disruption
+WG-0456,disrupted state
+WG-0457,soak-off attack
+WG-0457,diversion
+WG-0458,overrun attack
+WG-0458,overrunning
+WG-0459,step reduction
+WG-0459,strength step
+WG-0460,logistics
+WG-0460,supplied / unsupplied
+WG-0461,LOC
+WG-0461,supply line
+WG-0461,communications line
+WG-0462,OB
+WG-0462,OOB
+WG-0462,force order
+WG-0463,D100
+WG-0463,d%
+WG-0463,percentile roll
+WG-0464,D66 table
+WG-0464,two-digit D6
+WG-0465,tactical level
+WG-0465,tactical game
+WG-0466,operational level
+WG-0466,operational game
+WG-0467,strategic level
+WG-0467,strategic game
+WG-0468,grand strategy
+WG-0468,grand strategic
+WG-0469,firepower odds
+WG-0469,fire ratio [ambiguous]
+WG-0470,TMM
+WG-0470,target movement modifier
+WG-0471,PV
+WG-0471,unit point value
+WG-0472,OV
+WG-0472,overheat rating
+WG-0473,heat
+WG-0473,current heat
+WG-0474,heat track
+WG-0474,heat meter
+WG-0475,shutdown state
+WG-0475,thermal shutdown
+WG-0476,cooldown
+WG-0476,cooling phase
+WG-0477,jump move
+WG-0477,jumping mode
+WG-0478,physical combat
+WG-0478,physical strike
+WG-0479,DFA
+WG-0479,death-from-above attack
+WG-0480,engine critical
+WG-0480,engine damage
+WG-0481,fire-control critical
+WG-0481,targeting-system hit
+WG-0482,MP hit
+WG-0482,movement critical
+WG-0483,weapon hit
+WG-0483,weapons critical
+WG-0484,suppression fire action
+WG-0484,blaze-away
+WG-0485,charge reaction
+WG-0485,assault response
+WG-0486,controlled-fire reaction
+WG-0487,Evade
+WG-0487,evasive reaction
+WG-0488,hindered assault
+WG-0488,impeded charge
+WG-0489,failed charge
+WG-0489,failed assault move
+WG-0490,move directly away
+WG-0490,retreat vector
+WG-0491,advanced-trained
+WG-0492,antigravity
+WG-0492,grav mobility
+WG-0493,bulky unit
+WG-0494,defensible unit
+WG-0495,inspiring aura
+WG-0495,inspiration
+WG-0496,Resilient(n)
+WG-0496,resilience reroll
+WG-0497,small-unit keyword
+WG-0498,Tactician(n)
+WG-0498,command dice bonus
+WG-0499,targeting system
+WG-0499,split-fire system
+WG-0500,Vicious (Assault)
+WG-0500,Vicious (Shoot)
+WG-0501,Weight of Fire(n)
+WG-0501,massed fire
+WG-0502,Pinning
+WG-0502,pinning fire
+WG-0503,command dice
+WG-0503,command pool
+WG-0504,army order
+WG-0504,faction command
+WG-0505,BOOSTED
+WG-0505,boosted order
+WG-0506,Rift Dice
+WG-0506,rift resource die
+WG-0507,active rift state
+WG-0508,surging rift state
+WG-0509,exhausted rift state
+WG-0510,rift-tagged unit
+WG-0511,heroic guts
+WG-0511,Guts points
+WG-0512,rift mastery points
+WG-0513,Luck points
+WG-0513,hero luck
+WG-0514,heroic statistic
+WG-0514,hero resource stat
+WG-0515,Corrosive (DX)
+WG-0515,corrosive weapon
+WG-0516,Crush weapon
+WG-0517,gravity-pulse weapon
+WG-0518,hyper-velocity shot
+WG-0519,shock-wave attack
+WG-0520,Tesla Arc (X)
+WG-0520,chain-lightning shot
+WG-0521,Overload
+WG-0521,overloaded weapon
+WG-0522,massive hit
+WG-0522,catastrophic damage
+WG-0523,top armor
+WG-0523,roof armour
+WG-0524,advantage state
+WG-0524,altitude advantage
+WG-0525,Advantaged
+WG-0525,high advantage
+WG-0526,Neutral
+WG-0526,neutral aircraft
+WG-0527,Disadvantaged
+WG-0527,vulnerable aircraft
+WG-0528,burn advantage
+WG-0528,spend advantage
+WG-0529,outmaneuver
+WG-0529,manoeuvre attack
+WG-0530,climb
+WG-0530,climb for advantage
+WG-0531,dive
+WG-0531,dive for speed
+WG-0532,tail
+WG-0532,on the tail
+WG-0533,head-on shot
+WG-0533,frontal pass
+WG-0534,deflection shooting
+WG-0534,crossing shot
+WG-0535,dodge roll
+WG-0535,evasive dodge
+WG-0536,boom marker
+WG-0536,squadron damage chit
+WG-0537,pilot rating
+WG-0537,skill level
+WG-0538,Agility
+WG-0538,aircraft manoeuvrability
+WG-0539,Firepower
+WG-0539,forward firepower
+WG-0540,turret FP
+WG-0540,defensive turret fire
+WG-0541,activation marker
+WG-0541,zoom token
+WG-0542,multi-engine
+WG-0542,bomber-type aircraft
+WG-0543,break off
+WG-0543,turn for home
+WG-0544,aircraft action deck
+WG-0544,tactical deck
+WG-0545,doctrine
+WG-0545,doctrine ability
+WG-0546,maximum ship speed
+WG-0546,flank
+WG-0547,hull points
+WG-0547,hull integrity
+WG-0548,CQ
+WG-0548,crew rating
+WG-0549,crew check
+WG-0549,CQ check
+WG-0550,critical damage level
+WG-0550,escalating critical
+WG-0551,devastating hit
+WG-0551,catastrophic critical
+WG-0552,BTH
+WG-0552,beyond-horizon attack
+WG-0553,spread salvo
+WG-0553,torpedo fan
+WG-0554,AD
+WG-0554,attack dice rating
+WG-0555,DD
+WG-0555,damage dice rating
+WG-0556,point blank
+WG-0556,PB range
+WG-0557,anti-aircraft battery
+WG-0557,AA guns
+WG-0558,depth charges
+WG-0558,ASW charge
+WG-0559,DP
+WG-0559,dual-purpose gun
+WG-0560,one shot
+WG-0560,single-use weapon
+WG-0561,wakeless torpedo
+WG-0561,no-wake
+WG-0562,restricted weapon
+WG-0562,restricted arc
+WG-0563,Local
+WG-0563,local AA rating
+WG-0564,radar detection
+WG-0564,fire-control radar
+WG-0565,torpedo protection
+WG-0565,anti-torpedo belt
+WG-0566,refit option
+WG-0566,historical refit
+WG-0567,one-third speed
+WG-0567,slow
+WG-0568,battle speed
+WG-0568,combat-speed band
+WG-0569,maximum speed
+WG-0569,full ahead
+WG-0570,wake
+WG-0570,speed wake marker
+WG-0571,ramming collision
+WG-0571,collision course
+WG-0572,manoeuvre card
+WG-0572,movement card
+WG-0573,ship dashboard
+WG-0573,vessel log
+WG-0574,delayed manoeuvre
+WG-0574,reaction lag
+WG-0575,veer
+WG-0575,sailing deviation
+WG-0576,backed
+WG-0576,sails aback
+WG-0577,raking shot
+WG-0577,rake
+WG-0578,broadside fire
+WG-0578,side battery
+WG-0579,reload phase
+WG-0579,reloading step
+WG-0580,ammo type
+WG-0580,shot type
+WG-0581,round shot
+WG-0581,solid shot
+WG-0582,chain-shot
+WG-0582,rigging shot
+WG-0583,grape shot
+WG-0583,anti-personnel shot
+WG-0584,sail setting
+WG-0584,sail state
+WG-0585,backing sail
+WG-0585,backed sails
+WG-0586,strike sails
+WG-0586,sails struck
+WG-0587,entangled ships
+WG-0587,fouled
+WG-0588,altitude level
+WG-0588,height band
+WG-0589,climb rate
+WG-0589,climb counter rate
+WG-0590,ceiling
+WG-0590,altitude ceiling
+WG-0591,damage deck card
+WG-0591,damage card
+WG-0592,critical damage
+WG-0592,special damage result
+WG-0593,ace skill
+WG-0593,pilot ace ability
+WG-0594,aircraft console
+WG-0594,plane dashboard
+WG-0595,flight stand level
+WG-0595,altitude peg
+WG-0596,Tactical
+WG-0596,tactical movement
+WG-0597,Cross rating
+WG-0597,cross value
+WG-0598,cross test
+WG-0598,terrain cross check
+WG-0599,Halted ROF
+WG-0599,stationary ROF
+WG-0600,Moving ROF
+WG-0600,mobile ROF
+WG-0601,courage rating
+WG-0602,Counterattack
+WG-0602,counterattack value
+WG-0603,remount rating
+WG-0603,remount test
+WG-0604,motivation rating
+WG-0604,morale block
+WG-0605,to-hit defence
+WG-0605,target hit rating
+WG-0606,front armor
+WG-0606,frontal armour
+WG-0607,side/rear armour
+WG-0607,flank armour
+WG-0608,Spearhead
+WG-0608,forward deployment screen
+WG-0609,formation group
+WG-0609,company formation
+WG-0610,HQ unit
+WG-0610,formation headquarters
+WG-0611,in good spirits
+WG-0611,formation good spirits
+WG-0612,formation last stand
+WG-0612,unit last stand
+WG-0613,Blitz
+WG-0613,pre-fire reposition
+WG-0614,digging in
+WG-0614,entrench
+WG-0615,GtG
+WG-0615,concealed and inactive
+WG-0616,ranging in
+WG-0616,artillery ranging
+WG-0617,artillery observer
+WG-0617,forward observer team
+WG-0618,bombardment
+WG-0618,artillery template attack
+WG-0619,smoke mission
+WG-0619,smoke artillery
+WG-0620,mine field
+WG-0620,mined area
+WG-0621,mine-clear order
+WG-0621,clear mines
+WG-0622,deep reserve
+WG-0622,heavy reserve restriction
+WG-0623,scattered reserve arrival
+WG-0624,delayed reserve
+WG-0624,delayed reinforcements
+WG-0625,meeting battle
+WG-0625,encounter battle
+WG-0626,pre-registered target
+WG-0626,ranged-in marker
+WG-0627,HEAT
+WG-0627,shaped-charge round
+WG-0628,laser range finder
+WG-0628,LRF
+WG-0629,stabilizer
+WG-0629,gun stabilisation
+WG-0630,thermal sight
+WG-0630,TI
+WG-0631,bailed
+WG-0631,crew bailed out
+WG-0632,initiative token
+WG-0632,numbered initiative
+WG-0633,communications check
+WG-0633,radio test
+WG-0634,buttoned
+WG-0634,hatches closed
+WG-0635,open hatch
+WG-0635,commander exposed
+WG-0636,driving order
+WG-0636,vehicle movement order
+WG-0637,forward movement order
+WG-0638,reverse movement order
+WG-0639,halt
+WG-0639,stop order
+WG-0640,tactical action
+WG-0640,secondary vehicle action
+WG-0641,vehicle movement action
+WG-0641,move action
+WG-0642,crew skill test
+WG-0642,crew check
+WG-0643,scoot action
+WG-0643,short reposition
+WG-0644,Stamina
+WG-0644,stamina value
+WG-0645,shaken unit
+WG-0645,shaken state
+WG-0646,break test
+WG-0646,combat break
+WG-0647,morale saving throw
+WG-0647,armour/morale save
+WG-0648,recoil
+WG-0648,fall back in combat
+WG-0649,recoil in good order
+WG-0649,orderly withdrawal
+WG-0650,disorder
+WG-0650,disordered state
+WG-0651,supporting unit
+WG-0651,support
+WG-0652,support attacks
+WG-0652,support dice
+WG-0653,Clash
+WG-0653,initial-combat attacks
+WG-0654,Sustained
+WG-0654,ongoing-combat attacks
+WG-0655,follow-up move
+WG-0655,pursue
+WG-0656,open-order formation
+WG-0656,dispersed order
+WG-0657,pike formation
+WG-0657,pike block
+WG-0658,broken division
+WG-0658,formation break
+WG-0659,Res
+WG-0659,resistance stat
+WG-0660,SV
+WG-0660,strike
+WG-0661,recover
+WG-0661,recovery check
+WG-0662,missile exchange
+WG-0662,pre-melee missiles
+WG-0663,berserker
+WG-0663,berserk state
+WG-0664,blunder
+WG-0664,clumsy
+WG-0665,duel challenge
+WG-0665,champion challenge
+WG-0666,choke
+WG-0666,no-cover effect
+WG-0667,Command
+WG-0667,command characteristic
+WG-0668,dreaded
+WG-0668,dread aura
+WG-0669,discipline
+WG-0669,disciplined troops
+WG-0670,ferocious charge
+WG-0670,charge strength bonus
+WG-0671,frenzied charge
+WG-0671,extra attack charge
+WG-0672,follow order
+WG-0672,chained activation
+WG-0673,MoD
+WG-0673,multiple order dice
+WG-0674,Overhead
+WG-0674,lobbed shot
+WG-0675,Pavisse
+WG-0675,large shield
+WG-0676,rapid sprint
+WG-0676,4M sprint
+WG-0677,shield wall
+WG-0677,shield-wall formation
+WG-0678,stampeding
+WG-0678,uncontrolled charge
+WG-0679,stubborn troops
+WG-0680,terrifying
+WG-0680,terror aura
+WG-0681,Unstoppable
+WG-0681,unstoppable projectile
+WG-0682,venom
+WG-0682,poisonous attack
+WG-0683,zeal
+WG-0683,fanatic
+WG-0684,woodland fighter
+WG-0684,forest adept
+WG-0685,undead commander
+WG-0685,zombie controller
+WG-0686,Caster(X)
+WG-0686,spellcaster
+WG-0687,Fear(X)
+WG-0687,fear value
+WG-0688,fearless
+WG-0688,immune to fear
+WG-0689,fury charge
+WG-0689,furious assault
+WG-0690,lance weapon
+WG-0690,charging lance
+WG-0691,relentless fire
+WG-0691,sustained shooter
+WG-0692,entrenched unit
+WG-0692,dug-in state
+WG-0693,aim
+WG-0693,aim marker
+WG-0694,dodge
+WG-0694,dodge marker
+WG-0695,standby
+WG-0695,reaction token
+WG-0696,suppression
+WG-0696,suppression marker
+WG-0697,vehicle damage
+WG-0697,damage token
+WG-0698,recover
+WG-0698,ready action
+WG-0699,face-up order
+WG-0699,issued order
+WG-0700,attack surge conversion
+WG-0701,surge to hit
+WG-0701,offensive surge
+WG-0702,Lethal
+WG-0702,lethal rating
+WG-0703,Precise
+WG-0703,precise rating
+WG-0704,coordinate order
+WG-0704,pass order
+WG-0705,retinue keyword
+WG-0705,bodyguard link
+WG-0706,Target
+WG-0706,target rating
+WG-0707,Demoralize
+WG-0707,demoralise
+WG-0708,compel keyword
+WG-0709,Ram
+WG-0709,impact rating
+WG-0710,command card
+WG-0710,order card
+WG-0711,operative unit
+WG-0711,specialist character
+WG-0712,commander unit
+WG-0712,command model
+WG-0713,wound point
+WG-0713,wound marker
+WG-0714,exhausted card
+WG-0714,spent upgrade
+WG-0715,US
+WG-0715,scoring strength
+WG-0716,steady state
+WG-0717,nerve check
+WG-0718,wavering threshold
+WG-0719,routing threshold
+WG-0720,devastated state
+WG-0721,countercharge
+WG-0721,return charge
+WG-0722,side step
+WG-0722,lateral move
+WG-0723,back
+WG-0723,reverse order
+WG-0724,ensnaring defence
+WG-0725,shamble
+WG-0725,shambling movement
+WG-0726,reform
+WG-0726,change face
+WG-0727,weight category
+WG-0728,combat element
+WG-0728,formation element
+WG-0729,base target number
+WG-0730,armor/structure
+WG-0731,Spc. Ability
+WG-0731,special rule code
+WG-0732,short damage
+WG-0732,Sht damage
+WG-0733,medium damage
+WG-0733,Med damage
+WG-0734,long damage
+WG-0734,Lng damage
+WG-0735,ENE
+WG-0735,energy weapon
+WG-0736,Cellular Ammunition Storage Equipment
+WG-0737,pooled orders
+WG-0737,activation pool
+WG-0738,regular activation order
+WG-0739,irregular activation order
+WG-0740,lieutenant order
+WG-0740,LT order
+WG-0741,order group
+WG-0741,activation group
+WG-0742,reacting player
+WG-0742,non-active player
+WG-0743,Automatic Reaction Order
+WG-0743,reaction order
+WG-0744,order sequence
+WG-0744,activation sequence
+WG-0745,FtF roll
+WG-0745,opposed roll
+WG-0746,unopposed roll
+WG-0747,success threshold
+WG-0747,target value
+WG-0748,public information
+WG-0749,hidden information
+WG-0749,secret information
+WG-0750,public army list
+WG-0750,disclosure list
+WG-0751,command loss
+WG-0751,leader loss state
+WG-0752,retreat state
+WG-0752,force break state
+WG-0753,inactive state
+WG-0753,non-functional state
+WG-0754,camouflage marker state
+WG-0754,camo state
+WG-0755,hidden setup
+WG-0755,secret deployment
+WG-0756,spot
+WG-0756,reveal action
+WG-0757,systems reset
+WG-0757,defensive reset
+WG-0758,hacking zone
+WG-0758,network attack area
+WG-0759,network repeater
+WG-0759,hacking relay
+WG-0760,deployable network relay
+WG-0761,target lock
+WG-0761,designated state
+WG-0762,isolated
+WG-0762,comms isolation
+WG-0763,suppression stance
+WG-0763,suppressive state
+WG-0764,blind attack
+WG-0764,intuitive fire
+WG-0765,cautious move
+WG-0765,careful move
+WG-0766,FO
+WG-0766,target designator
+WG-0767,coordinated activation
+WG-0768,command point token
+WG-0768,command resource
+WG-0769,min speed
+WG-0769,compulsory speed
+WG-0770,max speed
+WG-0770,speed limit
+WG-0771,side-thrust
+WG-0771,lateral thrusters
+WG-0772,slow state
+WG-0772,speed-reduced state
+WG-0773,generator token
+WG-0773,system effect token
+WG-0774,action die
+WG-0774,action pool
+WG-0775,standard success
+WG-0775,standard hit
+WG-0776,heavy success
+WG-0776,heavy hit
+WG-0777,exploding success
+WG-0777,exploding hit
+WG-0778,disorder level
+WG-0778,disorder marker
+WG-0779,damage-control roll
+WG-0779,repair test
+WG-0780,reserve arrival roll
+WG-0781,broadside attack roll
+WG-0782,critical effect
+WG-0782,critical damage state
+WG-0783,anti-ship weapon
+WG-0784,anti-squadron weapon
+WG-0784,point defence role
+WG-0785,boarding torpedo
+WG-0785,assault pod
+WG-0786,boarding token
+WG-0786,boarding party marker
+WG-0787,ship-killer role
+WG-0788,split fire
+WG-0788,twin target fire
+WG-0789,rogue
+WG-0789,off-phase squadron
+WG-0790,sensor range
+WG-0790,scan value
+WG-0791,signature value
+WG-0791,sensor signature
+WG-0792,minor signature spike
+WG-0792,spike
+WG-0793,major signature spike
+WG-0794,silent running order
+WG-0794,emissions control
+WG-0795,active sensor sweep
+WG-0795,active scan order
+WG-0796,weapons-free order
+WG-0797,hold station
+WG-0797,station-keeping order
+WG-0798,course-change order
+WG-0799,maximum thrust
+WG-0799,flank thrust
+WG-0800,orbit layer
+WG-0800,altitude layer
+WG-0801,close-action weapon
+WG-0802,PD
+WG-0802,point-defense
+WG-0803,launch asset
+WG-0803,fighter/bomber asset
+WG-0804,TQ
+WG-0804,quality die
+WG-0805,confidence
+WG-0805,confidence rating
+WG-0806,supply
+WG-0806,supply rating
+WG-0807,reaction check
+WG-0807,opposed reaction
+WG-0808,initiative die
+WG-0808,initiative rating
+WG-0809,scouting phase
+WG-0810,patrol point
+WG-0810,scouting marker
+WG-0811,JOP
+WG-0811,jump off point
+WG-0812,command die
+WG-0812,activation dice
+WG-0813,CoC point
+WG-0813,command point track
+WG-0814,support allowance
+WG-0815,force morale track
+WG-0815,FM
+WG-0816,suppression fire
+WG-0816,suppressive fire
+WG-0817,stunned leader marker
+WG-0818,replenishment point
+WG-0818,replen point
+WG-0819,aide-de-camp resource
+WG-0819,ADC die
+WG-0820,ADC
+WG-0820,staff officer
+WG-0821,ADC tasking
+WG-0821,staff task
+WG-0822,hesitant brigade
+WG-0822,hesitation
+WG-0823,assault fire tasking
+WG-0823,bombardment tasking
+WG-0824,skirmisher reinforcement
+WG-0824,skirmish tasking
+WG-0825,battalion unit
+WG-0826,brigade command
+WG-0826,brigade formation
+WG-0827,fatigue
+WG-0827,fatigue marker
+WG-0828,reload
+WG-0828,reload point
+WG-0829,resolve check
+WG-0830,strike marker
+WG-0830,force strike point
+WG-0831,force break test
+WG-0831,strike check
+WG-0832,full discharge
+WG-0832,full volley fire
+WG-0833,partial volley
+WG-0833,half discharge
+WG-0834,push
+WG-0834,pushed action
+WG-0835,activation cards
+WG-0835,initiative deck
+WG-0855,variable bound
+WG-0855,endless bound
+WG-0856,reaction fire
+WG-0856,interrupt fire
+WG-0857,FGL
+WG-0857,fire-group leader
+WG-0858,group leader
+WG-0858,movement group leader
+WG-0859,feature-to-feature movement
+WG-0859,rulerless movement
+WG-0860,initiative pass
+WG-0860,change of initiative
+WG-0861,ship command
+WG-0861,bridge order
+WG-0862,flag order
+WG-0862,formation command
+WG-0863,command rating
+WG-0863,bridge rating
+WG-0864,flag rating
+WG-0864,admiral command rating
+WG-0865,crew quality
+WG-0865,crew proficiency
+WG-0866,DC rating
+WG-0866,damage-control capability
+WG-0867,visibility condition code
+WG-0868,visibility of signals
+WG-0868,signalling range
+WG-0869,reduction of operations
+WG-0869,weather degradation
+WG-0870,radar detection range
+WG-0870,radar visibility range
+WG-0871,detection probability
+WG-0871,spotting probability
+WG-0872,illumination for gunfire
+WG-0872,searchlight acquisition
+WG-0873,turn speed loss
+WG-0873,manoeuvre speed loss
+WG-0874,movement impulse
+WG-0874,impulse segment
+WG-0875,FCS
+WG-0875,fire-control classification
+WG-0876,ammo load
+WG-0876,ammunition mix
+WG-0877,sea state
+WG-0877,Beaufort sea state
+WG-0878,Pin
+WG-0879,LMG
+WG-0880,MMG
+WG-0881,HMG
+WG-0882,SMG
+WG-0883,Det
+WG-0884,Enh
+WG-0885,Rifle
+WG-0886,AR
+WG-0887,AssRif
+WG-0888,LMort
+WG-0889,MMort
+WG-0890,HMort
+WG-0891,ATR
+WG-0892,PF
+WG-0893,Baz
+WG-0894,PIAT
+WG-0895,Flame
+WG-0896,Sniper
+WG-0897,Aircraft
+WG-0898,Intercept
+WG-0899,How
+WG-0900,FG
+WG-0901,AAG
+WG-0902,DP
+WG-0903,Inc
+WG-0904,SF
+WG-0905,Ons
+WG-0906,MT
+WG-0907,BSTF
+WG-0908,UL
+WG-0909,BD
+WG-1098,known submarine
+WG-1098,detected sub
+WG-1099,hidden submarine
+WG-1099,unlocated sub
+WG-1100,radar search
+WG-1100,radar contact
+WG-0910,sonar search
+WG-0910,acoustic detection
+WG-0911,visual search
+WG-0911,sighting
+WG-0912,AD rating
+WG-0912,area air defence
+WG-0913,PD rating
+WG-0913,close air defence
+WG-0914,ACR
+WG-0914,air combat rating
+WG-0915,local range
+WG-0915,dogfight band
+WG-0916,area range
+WG-0916,medium air-combat band
+WG-0917,long-range ACR
+WG-0917,long-range intercept
+WG-0918,CAP
+WG-0919,defence rating
+WG-0919,manoeuvrability defence
+WG-0920,electronic countermeasures aircraft
+WG-0920,jammer aircraft
+WG-0921,jettison bombs
+WG-0921,drop stores
+WG-0922,weapon release point
+WG-0922,launch point
+WG-0923,minimum turn distance
+WG-0923,turn spacing
+WG-0924,altitude ceiling
+WG-0924,max altitude band
+WG-0925,flight accident check
+WG-0925,crash roll
+WG-0926,aircraft disbursement
+WG-0926,forced disengagement
+WG-0927,maritime patrol aircraft
+WG-0927,MPA
+WG-0928,ESM
+WG-0928,ES
+WG-0929,RCS
+WG-0929,radar signature
+WG-0930,maximum unambiguous range
+WG-0930,Rmax
+WG-0931,ECM
+WG-0931,jamming
+WG-0932,datalink
+WG-0932,tactical data link
+WG-0933,non-acoustic sensor
+WG-0933,alternative ASW sensor
+WG-0934,UV
+WG-0934,unmanned platform
+WG-0935,tracking quality
+WG-0936,target quality
+WG-0936,targeting solution quality
+WG-0937,AOU
+WG-0937,uncertainty area
+WG-0938,FCS
+WG-0938,firing solution
+WG-0939,BOL
+WG-0939,bearing-only attack
+WG-0940,cross bearing
+WG-0940,triangulated fix
+WG-0941,TDL
+WG-0941,tactical datalink
+WG-0942,NRT TDL
+WG-0942,near-real-time link
+WG-0943,RT TDL
+WG-0943,real-time link
+WG-0944,weapon guidance link
+WG-0944,command guidance link
+WG-0945,active sensing
+WG-0945,emitting sensor
+WG-0946,passive sensing
+WG-0946,non-emitting sensor
+WG-0947,no attack solution
+WG-0947,insufficient solution
+WG-0948,poor-quality solution
+WG-0949,contact sharing
+WG-0949,shared contact information
+WG-0950,honour
+WG-0951,dishonour
+WG-0951,shame card
+WG-0952,secret quest
+WG-0952,quest
+WG-0953,trait
+WG-0954,skill
+WG-0955,character token
+WG-0956,follower token
+WG-0957,fate
+WG-0958,blood
+WG-0958,wound counter
+WG-0959,cautious
+WG-0959,reload/cautious token
+WG-0960,clan marker
+WG-0961,supply shortage
+WG-0961,low-supply state
+WG-0962,isolated unit
+WG-0962,cut off
+WG-0963,Ops phase
+WG-0964,strategic road move
+WG-0965,tactical move
+WG-0966,tipped unit
+WG-0966,spent orientation
+WG-0967,ready
+WG-0967,restore orientation
+WG-0968,contested area
+WG-0968,contested grid space
+WG-0969,combat matrix
+WG-0969,result grid
+WG-0970,column shift
+WG-0970,grid shift
+WG-0971,armour shock
+WG-0972,engineer task
+WG-0972,engineering project
+WG-0973,fuel shortage
+WG-0973,low-fuel state
+WG-0974,crossing boat
+WG-0974,assault boat marker
+WG-0975,supply point
+WG-0975,logistics source
+WG-0976,command skill
+WG-0976,commander quality
+WG-0977,evade
+WG-0977,combat evasion
+WG-0978,MO
+WG-0978,momentum points
+WG-0979,interruption
+WG-0980,general intervention
+WG-0981,army-wide order
+WG-0982,formation order
+WG-0982,local order
+WG-0983,order complication
+WG-0983,movement complication
+WG-0984,skirmishing advantage
+WG-0985,regulating element
+WG-0985,formation anchor
+WG-0986,strong defensive position
+WG-0987,bad formation
+WG-0987,vulnerable formation
+WG-0988,huzzah marker
+WG-0989,voltigeur
+WG-0989,skirmisher pressure marker
+WG-0990,movement-order dice
+WG-0990,MO dice
+WG-0991,current movement orders
+WG-0991,MO pool
+WG-0992,army break level
+WG-0992,force morale
+WG-0993,concealed formation
+WG-0993,hidden identity unit
+WG-0994,reconnaissance phase
+WG-0994,discovery phase
+WG-0995,simple movement
+WG-0996,complex movement
+WG-0997,strategic reserve move
+WG-0998,prepared infantry
+WG-0998,prepared state
+WG-0999,ammunition box
+WG-0999,ammo track
+WG-1000,unit elan
+WG-1001,shatter point
+WG-1001,army break threshold
+WG-1002,deck reshuffle
+WG-1002,action-card reshuffle
+WG-1003,card morale value
+WG-1004,red-banner card
+WG-1004,interrupt card
+WG-1005,BW
+WG-1005,base-width
+WG-1006,temporary command
+WG-1006,provisional commander
+WG-1007,OOC
+WG-1007,out-of-command
+WG-1008,manoeuvre check
+WG-1008,maneuver test
+WG-1009,manoeuvre effect
+WG-1009,movement effect
+WG-1010,rally with elan
+WG-1011,tardy manoeuvre
+WG-1011,tardy result
+WG-1012,well-handled manoeuvre
+WG-1013,full move in disorder
+WG-1014,ordered
+WG-1014,in good order
+WG-1015,panic result
+WG-1015,rout/panic
+WG-1016,change facing by wheel
+WG-1016,front change
+WG-1017,refused flank
+WG-1017,refuse flank
+WG-1018,pass through friendly line
+WG-1019,artillery prolong
+WG-1019,prolong gun
+WG-1020,manhandle
+WG-1020,hand-haul gun
+WG-1021,silenced gun
+WG-1021,suppressed battery
+WG-1022,pass-through fire
+WG-1022,opportunity fire on movement
+WG-1023,galling fire effect
+WG-1024,telling fire effect
+WG-1025,withering fire effect
+WG-1026,effectiveness level
+WG-1026,unit effectiveness state
+WG-1027,fresh unit
+WG-1028,worn unit
+WG-1029,spent unit
+WG-1030,high morale
+WG-1030,spirited morale
+WG-1031,low morale
+WG-1031,unreliable morale
+WG-1032,very low morale
+WG-1032,dispirited morale
+WG-1033,breakthrough
+WG-1033,follow-on charge
+WG-1034,charge support
+WG-1034,supporting unit
+WG-1035,charge with cold steel
+WG-1035,bayonet charge
+WG-1036,enfilade target
+WG-1036,enfiladed gun
+WG-1037,mission
+WG-1037,sortie profile
+WG-1038,air-target profile
+WG-1039,soft-target profile
+WG-1040,hard-target profile
+WG-1041,altitude level
+WG-1041,altitude band
+WG-1042,high altitude
+WG-1042,off-table altitude
+WG-1043,combat altitude
+WG-1043,dogfight altitude
+WG-1044,low altitude
+WG-1044,terrain-level flight
+WG-1045,dangerous manoeuvre test
+WG-1045,flight hazard test
+WG-1046,special manoeuvre
+WG-1046,aerobatic manoeuvre
+WG-1047,180-degree turn
+WG-1047,hard reversal
+WG-1048,loop
+WG-1048,reversal loop
+WG-1049,dive-bomb manoeuvre
+WG-1050,evasive manoeuvres
+WG-1050,defensive flying
+WG-1051,minimum movement
+WG-1051,compulsory minimum speed
+WG-1052,maximum movement
+WG-1052,maximum speed distance
+WG-1053,ground target asset
+WG-1054,entry AA
+WG-1054,board-edge AA fire
+WG-1055,neutral edge
+WG-1056,hostile edge
+WG-1056,enemy table edge
+WG-1057,passive defence save
+WG-1057,passive protection
+WG-1058,critical hit damage
+WG-1058,critical
+WG-1059,ace upgrade
+WG-1059,pilot ace
+WG-1060,close-call upgrade
+WG-1060,emergency reroll
+WG-1061,noise level
+WG-1061,noise meter
+WG-1062,threat
+WG-1062,threat meter
+WG-1063,fauna
+WG-1063,NPC fauna
+WG-1064,round bid
+WG-1064,initiative-point bid
+WG-1065,initiative points
+WG-1065,bidding pool
+WG-1066,bid zero
+WG-1066,no-bid activation
+WG-1067,mishap
+WG-1067,fire-support mishap
+WG-1068,gas zone
+WG-1068,chemical barrage
+WG-1069,wire-hung
+WG-1069,caught on wire
+WG-1070,Hung on Wire Test
+WG-1070,barbed-wire test
+WG-1071,free rally
+WG-1071,zero-action rally
+WG-1072,temporary status
+WG-1072,action status
+WG-1073,dedicated action
+WG-1074,remaining ship movement
+WG-1074,residual move
+WG-1075,sail setting
+WG-1075,sail-state change
+WG-1076,advance manoeuvre
+WG-1076,ship manoeuvre
+WG-1077,hull critical
+WG-1077,hull damage table
+WG-1078,rigging critical
+WG-1078,rigging damage table
+WG-1079,ships fouled
+WG-1079,fouling
+WG-1080,round shot
+WG-1080,solid shot
+WG-1081,chain shot
+WG-1081,anti-rigging shot
+WG-1082,column of attack
+WG-1082,assault column
+WG-1083,loose order
+WG-1083,loose formation
+WG-1084,skirmish order
+WG-1084,skirmish formation
+WG-1085,spell point
+WG-1085,magic token
+WG-1086,spell-token donation
+WG-1086,casting support
+WG-1087,command-group upgrade
+WG-1088,sergeant
+WG-1088,unit sergeant
+WG-1089,musician
+WG-1089,unit musician
+WG-1090,banner
+WG-1090,standard bearer
+WG-1091,Fear(X)
+WG-1091,fear bonus
+WG-1092,attached hero
+WG-1092,joined hero
+WG-1093,Limited
+WG-1093,one-use weapon
+WG-1094,regeneration
+WG-1094,wound-negation roll
+WG-1095,Transport(X)
+WG-1095,transport spaces
+WG-1096,transport space
+WG-1096,capacity slot
+WG-1097,hazardous terrain test
+WG-1101,p
+WG-1101,a
+WG-1101,r
+WG-1101,m
+WG-1101,e
+WG-1101,t
+WG-1101,i
+WG-1101,s
+WG-1101,d
+WG-1101,u
+WG-1101,l
+WG-1101,c
+WG-1101,h
+WG-1101,o
+WG-1102,e
+WG-1102,f
+WG-1102,c
+WG-1102,t
+WG-1102,s
+WG-1102,a
+WG-1102,k
+WG-1102,i
+WG-1102,n
+WG-1102,g
+WG-1102,r
+WG-1102,u
+WG-1102,l
+WG-1103,c
+WG-1103,o
+WG-1103,n
+WG-1103,t
+WG-1103,a
+WG-1103,m
+WG-1103,i
+WG-1103,e
+WG-1103,u
+WG-1103,s
+WG-1104,d
+WG-1104,e
+WG-1104,p
+WG-1104,l
+WG-1104,o
+WG-1104,y
+WG-1104,m
+WG-1104,n
+WG-1104,t
+WG-1104,i
+WG-1104,a
+WG-1104,r
+WG-1105,r
+WG-1105,a
+WG-1105,m
+WG-1105,d
+WG-1105,i
+WG-1105,l
+WG-1105,b
+WG-1105,e
+WG-1105,c
+WG-1105,h
+WG-1105,n
+WG-1105,g
+WG-1106,a
+WG-1106,i
+WG-1106,r
+WG-1106,b
+WG-1106,o
+WG-1106,n
+WG-1106,e
+WG-1106,s
+WG-1106,t
+WG-1106,p
+WG-1106,c
+WG-1106,l
+WG-1106,d
+WG-1106,y
+WG-1106,m
+WG-1107,r
+WG-1107,e
+WG-1107,d
+WG-1107,p
+WG-1107,l
+WG-1107,o
+WG-1107,y
+WG-1107,m
+WG-1107,n
+WG-1107,t
+WG-1107,f
+WG-1107,i
+WG-1108,a
+WG-1108,i
+WG-1108,r
+WG-1108,w
+WG-1108,n
+WG-1108,g
+WG-1108,f
+WG-1108,c
+WG-1108,l
+WG-1108,t
+WG-1108,y
+WG-1108,e
+WG-1108,d
+WG-1108,k
+WG-1109,w
+WG-1109,r
+WG-1109,e
+WG-1109,c
+WG-1109,k
+WG-1109,p
+WG-1109,l
+WG-1109,a
+WG-1109,m
+WG-1109,n
+WG-1109,t
+WG-1109,d
+WG-1109,b
+WG-1109,i
+WG-1109,s
+WG-1110,l
+WG-1110,a
+WG-1110,n
+WG-1110,d
+WG-1110,i
+WG-1110,g
+WG-1110,o
+WG-1110,p
+WG-1110,e
+WG-1110,r
+WG-1110,t
+WG-1110,s
+WG-1110,u
+WG-1111,i
+WG-1111,n
+WG-1111,t
+WG-1111,e
+WG-1111,r
+WG-1111,c
+WG-1111,p
+WG-1111,o
+WG-1111,v
+WG-1111,d
+WG-1111,f
+WG-1111,s
+WG-1111,a
+WG-1111,l
+WG-1112,c
+WG-1112,a
+WG-1112,r
+WG-1112,i
+WG-1112,e
+WG-1112,d
+WG-1112,p
+WG-1112,l
+WG-1112,o
+WG-1112,y
+WG-1112,m
+WG-1112,n
+WG-1112,t
+WG-1112,s
+WG-1112,v
+WG-1113,o
+WG-1113,b
+WG-1113,j
+WG-1113,e
+WG-1113,c
+WG-1113,t
+WG-1113,i
+WG-1113,v
+WG-1113,s
+WG-1113,u
+WG-1113,p
+WG-1113,r
+WG-1113,l
+WG-1113,a
+WG-1113,n
+WG-1113,d
+WG-1113,g
+WG-1113,-
+WG-1113,y
+WG-1113,f
+WG-1113,m
+WG-1114,m
+WG-1114,i
+WG-1114,n
+WG-1114,e
+WG-1114,l
+WG-1114,a
+WG-1114,y
+WG-1114,r
+WG-1114,d
+WG-1114,p
+WG-1114,o
+WG-1114,t
+WG-1115,p
+WG-1115,a
+WG-1115,r
+WG-1115,e
+WG-1115,n
+WG-1115,t
+WG-1115,c
+WG-1115,i
+WG-1115,d
+WG-1115,l
+WG-1115,o
+WG-1115,y
+WG-1115,m
+WG-1115,h
+WG-1115,u
+WG-1115,b
+WG-1116,s
+WG-1116,t
+WG-1116,r
+WG-1116,a
+WG-1116,f
+WG-1116,i
+WG-1116,n
+WG-1116,g
+WG-1116,p
+WG-1116,l
+WG-1116,y
+WG-1116,-
+WG-1116,b
+WG-1116,c
+WG-1116,k
+WG-1117,s
+WG-1117,u
+WG-1117,p
+WG-1117,l
+WG-1117,y
+WG-1117,m
+WG-1117,i
+WG-1117,o
+WG-1117,n
+WG-1117,r
+WG-1117,e
+WG-1117,h
+WG-1117,t
+WG-1118,r
+WG-1118,e
+WG-1118,s
+WG-1118,u
+WG-1118,p
+WG-1118,l
+WG-1118,y
+WG-1118,n
+WG-1118,i
+WG-1118,h
+WG-1119,a
+WG-1119,m
+WG-1119,u
+WG-1119,n
+WG-1119,i
+WG-1119,t
+WG-1119,o
+WG-1119,s
+WG-1119,c
+WG-1119,k
+WG-1119,p
+WG-1119,l
+WG-1119,e
+WG-1119,y
+WG-1119,h
+WG-1120,a
+WG-1120,m
+WG-1120,u
+WG-1120,n
+WG-1120,i
+WG-1120,t
+WG-1120,o
+WG-1120,r
+WG-1120,s
+WG-1120,f
+WG-1120,e
+WG-1121,a
+WG-1121,u
+WG-1121,t
+WG-1121,o
+WG-1121,m
+WG-1121,i
+WG-1121,c
+WG-1121,r
+WG-1121,e
+WG-1121,s
+WG-1121,v
+WG-1121,l
+WG-1121,p
+WG-1122,m
+WG-1122,u
+WG-1122,t
+WG-1122,a
+WG-1122,l
+WG-1122,d
+WG-1122,e
+WG-1122,f
+WG-1122,n
+WG-1122,c
+WG-1122,p
+WG-1122,o
+WG-1123,e
+WG-1123,s
+WG-1123,c
+WG-1123,o
+WG-1123,r
+WG-1123,t
+WG-1123,d
+WG-1123,p
+WG-1123,l
+WG-1123,y
+WG-1123,m
+WG-1123,n
+WG-1123,u
+WG-1123,a
+WG-1123,f
+WG-1123,b
+WG-1124,f
+WG-1124,i
+WG-1124,x
+WG-1124,e
+WG-1124,d
+WG-1124,-
+WG-1124,l
+WG-1124,n
+WG-1124,g
+WG-1124,t
+WG-1124,h
+WG-1124,c
+WG-1124,a
+WG-1124,m
+WG-1124,p
+WG-1124,s
+WG-1124,o
+WG-1125,V
+WG-1125,P
+WG-1125,-
+WG-1125,t
+WG-1125,h
+WG-1125,r
+WG-1125,e
+WG-1125,s
+WG-1125,o
+WG-1125,l
+WG-1125,d
+WG-1125,c
+WG-1125,a
+WG-1125,m
+WG-1125,i
+WG-1125,g
+WG-1125,n
+WG-1126,c
+WG-1126,a
+WG-1126,l
+WG-1126,e
+WG-1126,n
+WG-1126,d
+WG-1126,r
+WG-1126,m
+WG-1126,p
+WG-1126,i
+WG-1126,g
+WG-1126,t
+WG-1127,o
+WG-1127,p
+WG-1127,e
+WG-1127,n
+WG-1127,c
+WG-1127,a
+WG-1127,m
+WG-1127,i
+WG-1127,g
+WG-1128,p
+WG-1128,a
+WG-1128,r
+WG-1128,l
+WG-1128,e
+WG-1128,c
+WG-1128,m
+WG-1128,i
+WG-1128,g
+WG-1128,n
+WG-1128,y
+WG-1129,m
+WG-1129,i
+WG-1129,d
+WG-1129,-
+WG-1129,c
+WG-1129,a
+WG-1129,p
+WG-1129,g
+WG-1129,n
+WG-1129,e
+WG-1129,t
+WG-1129,r
+WG-1130,u
+WG-1130,n
+WG-1130,d
+WG-1130,e
+WG-1130,r
+WG-1130,o
+WG-1130,g
+WG-1130,s
+WG-1130,c
+WG-1130,a
+WG-1130,t
+WG-1130,h
+WG-1130,-
+WG-1130,p
+WG-1130,i
+WG-1131,n
+WG-1131,o
+WG-1131,-
+WG-1131,l
+WG-1131,e
+WG-1131,t
+WG-1131,h
+WG-1131,a
+WG-1131,c
+WG-1131,m
+WG-1131,p
+WG-1131,i
+WG-1131,g
+WG-1131,d
+WG-1131,r
+WG-1131,y
+WG-1131,s
+WG-1131,u
+WG-1132,s
+WG-1132,k
+WG-1132,i
+WG-1132,l
+WG-1132,t
+WG-1132,r
+WG-1132,e
+WG-1132,a
+WG-1132,d
+WG-1132,v
+WG-1132,n
+WG-1132,c
+WG-1132,m
+WG-1133,r
+WG-1133,e
+WG-1133,t
+WG-1133,i
+WG-1133,u
+WG-1133,n
+WG-1133,d
+WG-1133,s
+WG-1133,m
+WG-1134,c
+WG-1134,o
+WG-1134,h
+WG-1134,e
+WG-1134,s
+WG-1134,i
+WG-1134,n
+WG-1134,t
+WG-1134,r
+WG-1134,v
+WG-1134,a
+WG-1134,l
+WG-1134,b
+WG-1134,p
+WG-1134,g
+WG-1135,f
+WG-1135,o
+WG-1135,r
+WG-1135,m
+WG-1135,a
+WG-1135,t
+WG-1135,i
+WG-1135,n
+WG-1135,p
+WG-1136,i
+WG-1136,s
+WG-1136,o
+WG-1136,l
+WG-1136,a
+WG-1136,t
+WG-1136,e
+WG-1136,d
+WG-1136,m
+WG-1136,n
+WG-1136,p
+WG-1136,r
+WG-1136,b
+WG-1137,s
+WG-1137,u
+WG-1137,p
+WG-1137,o
+WG-1137,r
+WG-1137,t
+WG-1137,a
+WG-1137,d
+WG-1137,i
+WG-1137,m
+WG-1137,l
+WG-1137,-
+WG-1137,n
+WG-1137,c
+WG-1137,e
+WG-1138,H
+WG-1138,Q
+WG-1138,d
+WG-1138,a
+WG-1138,m
+WG-1138,g
+WG-1138,e
+WG-1138,c
+WG-1138,o
+WG-1138,n
+WG-1138,r
+WG-1138,t
+WG-1138,i
+WG-1139,m
+WG-1139,i
+WG-1139,s
+WG-1139,o
+WG-1139,n
+WG-1139,c
+WG-1139,a
+WG-1139,d
+WG-1139,f
+WG-1139,l
+WG-1139,e
+WG-1139,x
+WG-1139,b
+WG-1139,t
+WG-1139,r
+WG-1140,r
+WG-1140,i
+WG-1140,g
+WG-1140,d
+WG-1140,o
+WG-1140,c
+WG-1140,t
+WG-1140,n
+WG-1140,e
+WG-1140,a
+WG-1140,l
+WG-1140,s
+WG-1140,m
+WG-1141,s
+WG-1141,t
+WG-1141,a
+WG-1141,i
+WG-1141,o
+WG-1141,n
+WG-1141,r
+WG-1141,y
+WG-1141,h
+WG-1141,e
+WG-1141,l
+WG-1141,d
+WG-1142,s
+WG-1142,p
+WG-1142,e
+WG-1142,c
+WG-1142,i
+WG-1142,a
+WG-1142,l
+WG-1142,m
+WG-1142,u
+WG-1142,n
+WG-1142,t
+WG-1142,o
+WG-1142,d
+WG-1143,o
+WG-1143,p
+WG-1143,r
+WG-1143,t
+WG-1143,u
+WG-1143,n
+WG-1143,i
+WG-1143,y
+WG-1143,f
+WG-1143,e
+WG-1143,m
+WG-1143,v
+WG-1143,a
+WG-1143,c
+WG-1144,b
+WG-1144,a
+WG-1144,t
+WG-1144,l
+WG-1144,e
+WG-1144,u
+WG-1144,o
+WG-1144,p
+WG-1144,r
+WG-1144,i
+WG-1144,n
+WG-1144,s
+WG-1145,f
+WG-1145,i
+WG-1145,r
+WG-1145,e
+WG-1145,-
+WG-1145,m
+WG-1145,s
+WG-1145,o
+WG-1145,n
+WG-1145,q
+WG-1145,u
+WG-1145,a
+WG-1145,t
+WG-1145,l
+WG-1145,y
+WG-1146,h
+WG-1146,a
+WG-1146,n
+WG-1146,d
+WG-1146,u
+WG-1146,l
+WG-1146,c
+WG-1146,r
+WG-1146,e
+WG-1146,w
+WG-1146,m
+WG-1146,o
+WG-1146,v
+WG-1146,t
+WG-1147,e
+WG-1147,n
+WG-1147,g
+WG-1147,i
+WG-1147,r
+WG-1147,t
+WG-1147,a
+WG-1147,s
+WG-1147,k
+WG-1148,d
+WG-1148,e
+WG-1148,m
+WG-1148,o
+WG-1148,l
+WG-1148,i
+WG-1148,t
+WG-1148,n
+WG-1148,a
+WG-1148,s
+WG-1148,k
+WG-1149,w
+WG-1149,i
+WG-1149,r
+WG-1149,e
+WG-1149,d
+WG-1149,m
+WG-1149,o
+WG-1149,l
+WG-1149,t
+WG-1149,n
+WG-1149,g
+WG-1150,d
+WG-1150,i
+WG-1150,s
+WG-1150,a
+WG-1150,r
+WG-1150,m
+WG-1150,e
+WG-1150,o
+WG-1150,l
+WG-1150,t
+WG-1150,n
+WG-1150,v
+WG-1150,c
+WG-1150,h
+WG-1150,g
+WG-1151,m
+WG-1151,i
+WG-1151,n
+WG-1151,e
+WG-1151,d
+WG-1151,s
+WG-1151,t
+WG-1151,y
+WG-1152,s
+WG-1152,u
+WG-1152,r
+WG-1152,f
+WG-1152,a
+WG-1152,c
+WG-1152,e
+WG-1152,m
+WG-1152,i
+WG-1152,n
+WG-1153,f
+WG-1153,a
+WG-1153,l
+WG-1153,s
+WG-1153,e
+WG-1153,m
+WG-1153,i
+WG-1153,n
+WG-1153,d
+WG-1153,c
+WG-1153,o
+WG-1153,y
+WG-1154,m
+WG-1154,i
+WG-1154,n
+WG-1154,e
+WG-1154,p
+WG-1154,a
+WG-1154,s
+WG-1154,g
+WG-1154,f
+WG-1154,l
+WG-1154,d
+WG-1154,c
+WG-1154,r
+WG-1154,o
+WG-1155,m
+WG-1155,a
+WG-1155,r
+WG-1155,k
+WG-1155,e
+WG-1155,d
+WG-1155,i
+WG-1155,n
+WG-1155,l
+WG-1155,s
+WG-1155,f
+WG-1156,b
+WG-1156,r
+WG-1156,e
+WG-1156,a
+WG-1156,c
+WG-1156,h
+WG-1156,i
+WG-1156,n
+WG-1156,g
+WG-1156,t
+WG-1156,o
+WG-1157,f
+WG-1157,o
+WG-1157,r
+WG-1157,c
+WG-1157,e
+WG-1157,d
+WG-1157,m
+WG-1157,i
+WG-1157,n
+WG-1157,l
+WG-1157,s
+WG-1157,g
+WG-1158,m
+WG-1158,i
+WG-1158,n
+WG-1158,e
+WG-1158,f
+WG-1158,l
+WG-1158,d
+WG-1158,b
+WG-1158,r
+WG-1158,a
+WG-1158,c
+WG-1158,h
+WG-1158,x
+WG-1159,o
+WG-1159,r
+WG-1159,i
+WG-1159,e
+WG-1159,n
+WG-1159,t
+WG-1159,d
+WG-1159,b
+WG-1159,a
+WG-1159,c
+WG-1159,h
+WG-1160,v
+WG-1160,e
+WG-1160,h
+WG-1160,i
+WG-1160,c
+WG-1160,l
+WG-1160,b
+WG-1160,r
+WG-1160,a
+WG-1160,n
+WG-1160,g
+WG-1160,m
+WG-1161,c
+WG-1161,h
+WG-1161,o
+WG-1161,k
+WG-1161,e
+WG-1161,p
+WG-1161,i
+WG-1161,n
+WG-1161,t
+WG-1161,m
+WG-1161,v
+WG-1161,b
+WG-1161,l
+WG-1162,b
+WG-1162,r
+WG-1162,e
+WG-1162,a
+WG-1162,c
+WG-1162,h
+WG-1162,d
+WG-1162,w
+WG-1162,i
+WG-1162,g
+WG-1162,p
+WG-1163,r
+WG-1163,i
+WG-1163,g
+WG-1163,f
+WG-1163,o
+WG-1163,d
+WG-1163,e
+WG-1163,m
+WG-1163,l
+WG-1163,t
+WG-1163,n
+WG-1163,a
+WG-1164,r
+WG-1164,e
+WG-1164,a
+WG-1164,c
+WG-1164,t
+WG-1164,i
+WG-1164,v
+WG-1164,d
+WG-1164,m
+WG-1164,o
+WG-1164,l
+WG-1164,n
+WG-1164,s
+WG-1164,-
+WG-1165,c
+WG-1165,r
+WG-1165,o
+WG-1165,s
+WG-1165,i
+WG-1165,n
+WG-1165,g
+WG-1165,e
+WG-1165,p
+WG-1165,a
+WG-1166,b
+WG-1166,r
+WG-1166,i
+WG-1166,d
+WG-1166,g
+WG-1166,e
+WG-1166,l
+WG-1166,a
+WG-1166,y
+WG-1166,s
+WG-1166,u
+WG-1166,t
+WG-1167,f
+WG-1167,l
+WG-1167,o
+WG-1167,a
+WG-1167,t
+WG-1167,i
+WG-1167,n
+WG-1167,g
+WG-1167,b
+WG-1167,r
+WG-1167,d
+WG-1167,e
+WG-1168,b
+WG-1168,r
+WG-1168,i
+WG-1168,d
+WG-1168,g
+WG-1168,n
+WG-1168,t
+WG-1168,a
+WG-1168,e
+WG-1168,c
+WG-1168,o
+WG-1168,v
+WG-1168,y
+WG-1169,r
+WG-1169,e
+WG-1169,d
+WG-1169,u
+WG-1169,c
+WG-1169,o
+WG-1169,b
+WG-1169,s
+WG-1169,t
+WG-1169,a
+WG-1169,l
+WG-1169,n

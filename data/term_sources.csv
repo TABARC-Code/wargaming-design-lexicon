@@ -1,0 +1,1514 @@
+term_id,source_key,is_primary,source_url
+WG-0001,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0001,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://malifauxrules.com/rules/sections/2-glossary | https://infinitythewiki.com/Introduction
+WG-0001,MALIFAUX,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://malifauxrules.com/rules/sections/2-glossary | https://infinitythewiki.com/Introduction
+WG-0001,INF-WIKI,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://malifauxrules.com/rules/sections/2-glossary | https://infinitythewiki.com/Introduction
+WG-0002,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0002,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0003,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0003,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0003,LEGION,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0003,KOW,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0004,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0004,INF-WIKI,0,https://infinitythewiki.com/Introduction
+WG-0005,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0005,MCP,0,https://www.atomicmassgames.com/mcp-rules/ | https://malifauxrules.com/rules/sections/2-glossary
+WG-0005,MALIFAUX,0,https://www.atomicmassgames.com/mcp-rules/ | https://malifauxrules.com/rules/sections/2-glossary
+WG-0006,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0006,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0006,BOLT,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0007,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0008,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0009,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0009,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0009,INF-N5,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0010,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0010,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0010,INF-N5,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0011,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0011,INF-N5,0,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0012,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0013,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0014,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0014,INF-N5,0,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf | https://malifauxrules.com/rules/sections/2-glossary
+WG-0014,MALIFAUX,0,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf | https://malifauxrules.com/rules/sections/2-glossary
+WG-0015,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0015,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0016,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0016,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0017,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0017,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://infinitythewiki.com/Introduction | https://malifauxrules.com/rules/sections/2-glossary
+WG-0017,INF-WIKI,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://infinitythewiki.com/Introduction | https://malifauxrules.com/rules/sections/2-glossary
+WG-0017,MALIFAUX,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://infinitythewiki.com/Introduction | https://malifauxrules.com/rules/sections/2-glossary
+WG-0018,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0018,INF-N5,0,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf | https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0018,40K-QS,0,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf | https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0019,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0019,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://malifauxrules.com/rules/sections/2-glossary | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0019,LEGION,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://malifauxrules.com/rules/sections/2-glossary | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0019,MALIFAUX,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://malifauxrules.com/rules/sections/2-glossary | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0019,INF-N5,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://malifauxrules.com/rules/sections/2-glossary | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0020,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0021,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0022,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0022,MCP,0,https://www.atomicmassgames.com/mcp-rules/ | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0022,INF-N5,0,https://www.atomicmassgames.com/mcp-rules/ | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0023,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0023,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary | https://www.atomicmassgames.com/mcp-rules/
+WG-0023,MCP,0,https://malifauxrules.com/rules/sections/2-glossary | https://www.atomicmassgames.com/mcp-rules/
+WG-0024,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0024,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0025,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0025,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0026,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0026,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0027,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0028,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0028,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0028,LEGION,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0029,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0029,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0030,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0030,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0031,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0031,MCP,0,https://www.atomicmassgames.com/mcp-rules/ | https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0031,AOS,0,https://www.atomicmassgames.com/mcp-rules/ | https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0032,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0032,INF-WIKI,0,https://infinitythewiki.com/Introduction | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0032,LEGION,0,https://infinitythewiki.com/Introduction | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0033,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0033,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0034,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0034,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0035,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0035,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0035,40K-QS,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0036,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0036,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0036,LEGION,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0037,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0037,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0037,BOLT,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0038,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0038,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0039,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0039,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0040,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0040,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary | https://infinitythewiki.com/Introduction | https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0040,INF-WIKI,0,https://malifauxrules.com/rules/sections/2-glossary | https://infinitythewiki.com/Introduction | https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0040,BOLT,0,https://malifauxrules.com/rules/sections/2-glossary | https://infinitythewiki.com/Introduction | https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0041,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0041,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0042,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0042,INF-WIKI,0,https://infinitythewiki.com/Introduction | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0042,LEGION,0,https://infinitythewiki.com/Introduction | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0043,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0043,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0043,LEGION,0,https://malifauxrules.com/rules/sections/2-glossary | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0044,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0044,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0045,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0045,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0046,BOLT,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0046,BOLT-REF,0,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0047,BOLT,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0047,INF-WIKI,0,https://infinitythewiki.com/Introduction | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0047,LEGION,0,https://infinitythewiki.com/Introduction | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0048,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0048,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0048,LEGION,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0049,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0049,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0050,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0051,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0052,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0052,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0053,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0053,BOLT-REF,0,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0054,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0054,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0054,LEGION,0,https://malifauxrules.com/rules/sections/2-glossary | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0055,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0055,MCP,0,https://www.atomicmassgames.com/mcp-rules/ | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0055,LEGION,0,https://www.atomicmassgames.com/mcp-rules/ | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0056,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0056,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0057,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0058,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0058,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0059,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0059,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0060,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0060,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://infinitythewiki.com/Introduction
+WG-0060,INF-WIKI,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://infinitythewiki.com/Introduction
+WG-0061,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0061,MCP,0,https://www.atomicmassgames.com/mcp-rules/ | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0061,LEGION,0,https://www.atomicmassgames.com/mcp-rules/ | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0061,INF-N5,0,https://www.atomicmassgames.com/mcp-rules/ | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0062,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0062,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0062,BOLT-REF,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0063,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0063,BOLT-REF,0,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0064,BOLT-REF,1,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0064,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0065,BOLT-REF,1,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0066,FOW,1,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0066,BOLT,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0067,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0067,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0067,INF-N5,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0068,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0069,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0069,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0070,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0070,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0071,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0072,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0072,INF-WIKI,0,https://infinitythewiki.com/Introduction | https://malifauxrules.com/rules/sections/2-glossary
+WG-0072,MALIFAUX,0,https://infinitythewiki.com/Introduction | https://malifauxrules.com/rules/sections/2-glossary
+WG-0073,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0073,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary | https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0073,40K-QS,0,https://malifauxrules.com/rules/sections/2-glossary | https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0074,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0075,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0075,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary | https://infinitythewiki.com/Introduction
+WG-0075,INF-WIKI,0,https://malifauxrules.com/rules/sections/2-glossary | https://infinitythewiki.com/Introduction
+WG-0076,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0076,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0077,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0077,FOW,0,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0078,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0078,FOW,0,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0079,FOW,1,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0080,FOW,1,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0081,FOW,1,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0081,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0082,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0082,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary | https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0082,AOS,0,https://malifauxrules.com/rules/sections/2-glossary | https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0083,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0084,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0084,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary | https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0084,AOS,0,https://malifauxrules.com/rules/sections/2-glossary | https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0085,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0086,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0086,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf | https://infinitythewiki.com/Introduction
+WG-0086,INF-WIKI,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf | https://infinitythewiki.com/Introduction
+WG-0087,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0087,INF-WIKI,0,https://infinitythewiki.com/Introduction
+WG-0088,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0089,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0090,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0090,BOLT,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/ | https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0090,AOS,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/ | https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0091,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0092,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0093,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0093,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0094,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0094,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://malifauxrules.com/rules/sections/2-glossary | https://infinitythewiki.com/Introduction
+WG-0094,LEGION,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://malifauxrules.com/rules/sections/2-glossary | https://infinitythewiki.com/Introduction
+WG-0094,MALIFAUX,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://malifauxrules.com/rules/sections/2-glossary | https://infinitythewiki.com/Introduction
+WG-0094,INF-WIKI,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://malifauxrules.com/rules/sections/2-glossary | https://infinitythewiki.com/Introduction
+WG-0095,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0095,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf | https://infinitythewiki.com/Introduction
+WG-0095,KOW,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf | https://infinitythewiki.com/Introduction
+WG-0095,INF-WIKI,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf | https://infinitythewiki.com/Introduction
+WG-0096,KOW,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0096,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0096,MCP,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0097,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0098,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0099,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0100,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0100,BOLT,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0100,BA3-QRS,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0101,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0101,BOLT,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/ | https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0101,OPR,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/ | https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0102,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0103,FOW,1,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0104,FOW,1,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0105,FOW,1,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0106,FOW,1,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0107,BOLT-REF,1,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0108,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0108,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0108,KOW,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0109,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0109,KOW,0,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0110,BOLT,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0110,FOW,0,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0111,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0112,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0112,KOW,0,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0113,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0114,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0114,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0115,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0116,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0116,BOLT-REF,0,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0117,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0118,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0119,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0120,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0120,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0121,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0121,INF-N5,0,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0122,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0122,INF-WIKI,0,https://infinitythewiki.com/Introduction
+WG-0123,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0123,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://infinitythewiki.com/Introduction
+WG-0123,INF-WIKI,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://infinitythewiki.com/Introduction
+WG-0124,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0124,OPR,0,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0125,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0126,BOLT-REF,1,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0127,BOLT-REF,1,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0128,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0128,OPR,0,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0129,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0129,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0130,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0130,INF-N5,0,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0131,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0132,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0132,BOLT,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0133,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0133,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://infinitythewiki.com/Introduction
+WG-0133,INF-WIKI,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://infinitythewiki.com/Introduction
+WG-0134,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0135,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0135,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0136,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0137,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0138,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0138,INF-N5,0,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0139,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0139,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0140,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0140,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://infinitythewiki.com/Introduction
+WG-0140,LEGION,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://infinitythewiki.com/Introduction
+WG-0140,INF-WIKI,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://infinitythewiki.com/Introduction
+WG-0141,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0142,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0143,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0143,OPR,0,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0144,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0145,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0145,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0146,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0146,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0147,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0148,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0148,BOLT-REF,0,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0149,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0150,BOLT,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0150,FOW,0,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0151,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0151,OPR,0,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0152,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0153,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0153,INF-WIKI,0,https://infinitythewiki.com/Introduction
+WG-0154,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0154,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://malifauxrules.com/rules/sections/2-glossary | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0154,MALIFAUX,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://malifauxrules.com/rules/sections/2-glossary | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0154,INF-N5,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://malifauxrules.com/rules/sections/2-glossary | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0155,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0155,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0155,INF-N5,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0156,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0156,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0156,LEGION,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0157,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0157,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0157,BOLT,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0158,BOLT,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0158,BOLT-REF,0,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0159,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0159,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0160,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0161,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0161,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0162,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0162,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0163,FOW,1,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0164,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0165,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0165,FOW,0,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0165,INF-N5,0,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0166,BOLT-REF,1,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0167,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0167,INF-N5,0,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0168,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0169,KOW,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0170,KOW,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0171,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0172,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0172,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0173,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0174,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0174,OPR,0,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0175,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0175,OPR,0,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0176,FOW,1,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0177,FOW,1,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0178,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0178,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0178,MCP,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0179,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0179,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0180,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0180,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0181,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0182,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0182,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0183,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0183,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0183,INF-N5,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0184,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0184,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0184,FOW,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0185,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0185,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0186,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0186,FOW,0,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf | https://www.sarna.net/files/docs/rules/official/
+WG-0186,BT,0,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf | https://www.sarna.net/files/docs/rules/official/
+WG-0187,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0187,OPR,0,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0188,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0188,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0189,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0189,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0190,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0191,BT,1,https://www.sarna.net/files/docs/rules/official/
+WG-0192,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0192,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0193,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0194,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0194,INF-N5,0,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0195,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0196,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0196,OPR,0,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0196,LEGION,0,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0197,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0197,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf | https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0197,AOS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf | https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0198,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0198,OPR,0,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0199,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0199,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0200,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0200,INF-N5,0,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0201,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0201,OPR,0,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0202,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0202,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0203,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0203,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0204,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0205,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0206,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0207,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0208,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0209,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0210,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0211,BT,1,https://www.sarna.net/files/docs/rules/official/
+WG-0211,BOLT,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0212,BT,1,https://www.sarna.net/files/docs/rules/official/
+WG-0212,BOLT,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0213,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0214,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0215,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0215,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0216,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0216,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0217,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0218,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0219,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0219,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0220,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0221,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0222,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0223,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0224,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0224,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0225,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0226,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0226,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0226,OPR,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0227,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0228,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0229,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0230,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0230,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0231,BT,1,https://www.sarna.net/files/docs/rules/official/
+WG-0232,BOLT,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0233,KOW,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0234,KOW,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0235,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0236,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0237,BOLT,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0237,BOLT-REF,0,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0238,BOLT,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0239,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0240,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0240,BOLT,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0241,BOLT,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0241,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0242,KOW,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0243,KOW,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0243,BOLT,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0244,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0244,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0245,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0245,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0246,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0246,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0247,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0248,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0248,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0248,40K-QS,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0249,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0249,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0249,MCP,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0250,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0251,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0252,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0252,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://infinitythewiki.com/Introduction | https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0252,INF-WIKI,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://infinitythewiki.com/Introduction | https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0252,KOW,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://infinitythewiki.com/Introduction | https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0253,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0253,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0254,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0254,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0255,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0256,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0256,KOW,0,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0257,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0257,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0257,KOW,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0258,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0259,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0260,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0261,FOW,1,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0261,KOW,0,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2020/04/KoW-3-Free-Rules-Download.pdf
+WG-0262,FOW,1,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0263,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0263,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0264,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0265,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0266,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0267,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0268,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0269,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0269,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0269,LEGION,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0270,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0270,INF-WIKI,0,https://infinitythewiki.com/Introduction
+WG-0271,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0272,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0272,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0272,LEGION,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0272,MCP,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0273,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0273,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0274,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0274,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0275,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0276,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0277,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0277,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0277,LEGION,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0278,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0278,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0279,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0279,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0280,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0280,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0281,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0282,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0282,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0283,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0283,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0284,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0284,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0284,MCP,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0285,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0285,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0285,LEGION,0,https://malifauxrules.com/rules/sections/2-glossary | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0285,MCP,0,https://malifauxrules.com/rules/sections/2-glossary | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0286,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0287,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0287,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0288,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0288,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0289,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0289,INF-N5,0,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0290,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0291,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0292,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0292,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0292,INF-N5,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0293,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0293,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0294,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0294,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://infinitythewiki.com/Introduction
+WG-0294,INF-WIKI,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://infinitythewiki.com/Introduction
+WG-0295,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0295,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0296,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0296,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0297,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0297,BOLT,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/ | https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0297,AOS,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/ | https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0298,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0298,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0299,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0300,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0300,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf | https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0300,AOS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf | https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0301,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0302,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0303,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0303,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0304,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0304,MCP,0,https://www.atomicmassgames.com/mcp-rules/ | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0304,LEGION,0,https://www.atomicmassgames.com/mcp-rules/ | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0305,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0306,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0306,MCP,0,https://www.atomicmassgames.com/mcp-rules/ | https://infinitythewiki.com/Introduction
+WG-0306,INF-WIKI,0,https://www.atomicmassgames.com/mcp-rules/ | https://infinitythewiki.com/Introduction
+WG-0307,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0307,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0308,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0308,INF-WIKI,0,https://infinitythewiki.com/Introduction
+WG-0309,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0310,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0310,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0311,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0311,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0312,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0312,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0313,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0313,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0314,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0314,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0314,INF-N5,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0315,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0315,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary
+WG-0316,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0316,OPR,0,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0317,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0318,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0319,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0319,BOLT,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0320,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0320,BOLT,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0321,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0321,BOLT,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0322,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0322,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0323,MCP,1,https://www.atomicmassgames.com/mcp-rules/
+WG-0324,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0324,MALIFAUX,0,https://malifauxrules.com/rules/sections/2-glossary | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0324,INF-N5,0,https://malifauxrules.com/rules/sections/2-glossary | https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0325,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0325,INF-N5,0,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0326,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0327,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0327,AOS,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0327,LEGION,0,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0328,BOLT,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0329,BOLT,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0329,BOLT-REF,0,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0330,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0331,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0331,INF-WIKI,0,https://infinitythewiki.com/Introduction
+WG-0332,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0333,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0334,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0335,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0335,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0336,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0336,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0337,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0338,MALIFAUX,1,https://malifauxrules.com/rules/sections/2-glossary
+WG-0339,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0339,BOLT,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0340,AOS,1,https://assets.warhammer-community.com/ageofsigmar_corerules&keydownloads_therules_eng_24.09-tbf4egjql3.pdf
+WG-0340,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0341,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0341,BOLT,0,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0342,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0342,40K-QS,0,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0343,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0343,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0344,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0344,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0344,MCP,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf | https://www.atomicmassgames.com/mcp-rules/
+WG-0345,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0346,LEGION,1,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0347,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0348,BOLT-REF,1,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0349,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0349,40K11,0,
+WG-0350,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0351,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0352,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0353,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0354,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0354,MCP,0,https://www.atomicmassgames.com/mcp-rules/ | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0354,LEGION,0,https://www.atomicmassgames.com/mcp-rules/ | https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0355,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0356,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0356,MCP,0,https://www.atomicmassgames.com/mcp-rules/
+WG-0357,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0358,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0359,OPR,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0360,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0360,OPR,0,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0361,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0362,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0362,FOW,0,https://www.flamesofwar.com/Portals/0/all_images/FortressEurope/StartHere/British-FoldOut.pdf
+WG-0363,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0364,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0365,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0366,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0367,40K-QS,1,https://assets.warhammer-community.com/warhammer40000_core&key_quickstartguide_eng_24.09-s2afk26smk.pdf
+WG-0368,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0368,OPR,0,https://wiki.onepagerules.com/index.php/Grimdark_Future_Firefight_Special_Rules
+WG-0369,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0370,INF-N5,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v1.pdf
+WG-0371,BOLT,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0371,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0372,BOLT-REF,1,https://www.warlordgames.com/downloads/pdf/bolt_action_reference.pdf
+WG-0373,BOLT,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0373,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0374,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0374,LEGION,0,https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/06/DOC56_SWQ_Rulebook-2.pdf
+WG-0375,40K11,1,https://assets.warhammer-community.com/eng_01-06_warhammer40k_new40k_core_rules-was6fbu1ix-hfewhmxyiy.pdf
+WG-0376,40K11,1,https://assets.warhammer-community.com/eng_01-06_warhammer40k_new40k_core_rules-was6fbu1ix-hfewhmxyiy.pdf
+WG-0377,40K11,1,https://assets.warhammer-community.com/eng_01-06_warhammer40k_new40k_core_rules-was6fbu1ix-hfewhmxyiy.pdf
+WG-0378,40K11,1,https://assets.warhammer-community.com/eng_01-06_warhammer40k_new40k_core_rules-was6fbu1ix-hfewhmxyiy.pdf
+WG-0379,40K11,1,https://assets.warhammer-community.com/eng_01-06_warhammer40k_new40k_core_rules-was6fbu1ix-hfewhmxyiy.pdf
+WG-0380,40K11,1,https://assets.warhammer-community.com/eng_01-06_warhammer40k_new40k_core_rules-was6fbu1ix-hfewhmxyiy.pdf
+WG-0381,BA3-QRS,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/01/Bolt_Action_Playsheet_A4.pdf
+WG-0382,BA3-QRS,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/01/Bolt_Action_Playsheet_A4.pdf
+WG-0383,BA3-QRS,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/01/Bolt_Action_Playsheet_A4.pdf
+WG-0384,BA3-QRS,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/01/Bolt_Action_Playsheet_A4.pdf
+WG-0385,BA3-QRS,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/01/Bolt_Action_Playsheet_A4.pdf
+WG-0386,BA3-QRS,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/01/Bolt_Action_Playsheet_A4.pdf
+WG-0387,BA3-QRS,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/01/Bolt_Action_Playsheet_A4.pdf
+WG-0388,BA3-QRS,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/01/Bolt_Action_Playsheet_A4.pdf
+WG-0389,WARMACHINE,1,https://home.privateerpress.com/wp-content/uploads/2022/07/WM_MKIV_-Rules.pdf
+WG-0390,WARMACHINE,1,https://home.privateerpress.com/wp-content/uploads/2022/07/WM_MKIV_-Rules.pdf
+WG-0391,WARMACHINE,1,https://home.privateerpress.com/wp-content/uploads/2022/07/WM_MKIV_-Rules.pdf
+WG-0392,WARMACHINE,1,https://home.privateerpress.com/wp-content/uploads/2022/07/WM_MKIV_-Rules.pdf
+WG-0393,WARMACHINE,1,https://home.privateerpress.com/wp-content/uploads/2022/07/WM_MKIV_-Rules.pdf
+WG-0394,WARMACHINE,1,https://home.privateerpress.com/wp-content/uploads/2022/07/WM_MKIV_-Rules.pdf
+WG-0395,WARMACHINE,1,https://home.privateerpress.com/wp-content/uploads/2022/07/WM_MKIV_-Rules.pdf
+WG-0396,WARMACHINE,1,https://home.privateerpress.com/wp-content/uploads/2022/07/WM_MKIV_-Rules.pdf
+WG-0397,WARMACHINE,1,https://home.privateerpress.com/wp-content/uploads/2022/07/WM_MKIV_-Rules.pdf
+WG-0398,WARMACHINE,1,https://home.privateerpress.com/wp-content/uploads/2022/07/WM_MKIV_-Rules.pdf
+WG-0399,WARMACHINE,1,https://home.privateerpress.com/wp-content/uploads/2022/07/WM_MKIV_-Rules.pdf
+WG-0400,WARMACHINE,1,https://home.privateerpress.com/wp-content/uploads/2022/07/WM_MKIV_-Rules.pdf
+WG-0401,CONQUEST,1,https://www.para-bellum.com/rules-and-faq/conquest-tlaok-rulebook-version-2-0/
+WG-0402,CONQUEST,1,https://www.para-bellum.com/rules-and-faq/conquest-tlaok-rulebook-version-2-0/
+WG-0403,CONQUEST,1,https://www.para-bellum.com/rules-and-faq/conquest-tlaok-rulebook-version-2-0/
+WG-0404,CONQUEST,1,https://www.para-bellum.com/rules-and-faq/conquest-tlaok-rulebook-version-2-0/
+WG-0405,CONQUEST,1,https://www.para-bellum.com/rules-and-faq/conquest-tlaok-rulebook-version-2-0/
+WG-0406,CONQUEST,1,https://www.para-bellum.com/rules-and-faq/conquest-tlaok-rulebook-version-2-0/
+WG-0407,CONQUEST,1,https://www.para-bellum.com/rules-and-faq/conquest-tlaok-rulebook-version-2-0/
+WG-0408,CONQUEST,1,https://www.para-bellum.com/rules-and-faq/conquest-tlaok-rulebook-version-2-0/
+WG-0409,CONQUEST,1,https://www.para-bellum.com/rules-and-faq/conquest-tlaok-rulebook-version-2-0/
+WG-0410,INF-WIKI,1,https://infinitythewiki.com/Introduction
+WG-0411,XWING,1,https://www.atomicmassgames.com/xwing-docs/
+WG-0412,XWING,1,https://www.atomicmassgames.com/xwing-docs/
+WG-0413,XWING,1,https://www.atomicmassgames.com/xwing-docs/
+WG-0414,XWING,1,https://www.atomicmassgames.com/xwing-docs/
+WG-0415,XWING,1,https://www.atomicmassgames.com/xwing-docs/
+WG-0416,XWING,1,https://www.atomicmassgames.com/xwing-docs/
+WG-0417,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0418,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0419,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0420,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0421,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0422,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0423,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0424,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0425,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0426,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0427,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0428,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0429,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0429,GENERALSTAB,0,http://generalstab.org/home/glossary/
+WG-0430,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0431,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0431,GENERALSTAB,0,http://generalstab.org/home/glossary/
+WG-0432,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0432,GENERALSTAB,0,http://generalstab.org/home/glossary/
+WG-0433,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0433,GENERALSTAB,0,http://generalstab.org/home/glossary/
+WG-0434,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0434,GENERALSTAB,0,http://generalstab.org/home/glossary/
+WG-0435,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0436,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0437,GENERALSTAB,1,http://generalstab.org/home/glossary/
+WG-0438,GENERALSTAB,1,http://generalstab.org/home/glossary/
+WG-0438,DUNNIGAN,0,https://www.professionalwargaming.co.uk/Complete-Wargames-Handbook-Dunnigan.pdf
+WG-0439,GENERALSTAB,1,http://generalstab.org/home/glossary/
+WG-0440,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0440,DUNNIGAN,0,https://www.professionalwargaming.co.uk/Complete-Wargames-Handbook-Dunnigan.pdf
+WG-0441,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0441,GENERALSTAB,0,http://generalstab.org/home/glossary/
+WG-0442,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0442,GENERALSTAB,0,http://generalstab.org/home/glossary/
+WG-0443,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0444,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0445,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0446,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0447,GENERALSTAB,1,http://generalstab.org/home/glossary/
+WG-0448,GENERALSTAB,1,http://generalstab.org/home/glossary/
+WG-0449,GENERALSTAB,1,http://generalstab.org/home/glossary/
+WG-0450,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0451,DUNNIGAN,1,https://www.professionalwargaming.co.uk/Complete-Wargames-Handbook-Dunnigan.pdf
+WG-0452,DUNNIGAN,1,https://www.professionalwargaming.co.uk/Complete-Wargames-Handbook-Dunnigan.pdf
+WG-0453,DUNNIGAN,1,https://www.professionalwargaming.co.uk/Complete-Wargames-Handbook-Dunnigan.pdf
+WG-0454,GENERALSTAB,1,http://generalstab.org/home/glossary/
+WG-0455,DUNNIGAN,1,https://www.professionalwargaming.co.uk/Complete-Wargames-Handbook-Dunnigan.pdf
+WG-0456,DUNNIGAN,1,https://www.professionalwargaming.co.uk/Complete-Wargames-Handbook-Dunnigan.pdf
+WG-0456,GENERALSTAB,0,http://generalstab.org/home/glossary/
+WG-0457,DUNNIGAN,1,https://www.professionalwargaming.co.uk/Complete-Wargames-Handbook-Dunnigan.pdf
+WG-0458,DUNNIGAN,1,https://www.professionalwargaming.co.uk/Complete-Wargames-Handbook-Dunnigan.pdf
+WG-0459,DUNNIGAN,1,https://www.professionalwargaming.co.uk/Complete-Wargames-Handbook-Dunnigan.pdf
+WG-0459,GENERALSTAB,0,http://generalstab.org/home/glossary/
+WG-0460,DUNNIGAN,1,https://www.professionalwargaming.co.uk/Complete-Wargames-Handbook-Dunnigan.pdf
+WG-0461,GENERALSTAB,1,http://generalstab.org/home/glossary/
+WG-0462,GENERALSTAB,1,http://generalstab.org/home/glossary/
+WG-0463,GENERALSTAB,1,http://generalstab.org/home/glossary/
+WG-0464,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0465,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0466,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0467,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0468,ARMCHAIR,1,https://armchairdragoons.com/wargaming-terms/
+WG-0469,DUNNIGAN,1,https://www.professionalwargaming.co.uk/Complete-Wargames-Handbook-Dunnigan.pdf
+WG-0470,BT-AS26,1,https://battletech.com/wp-content/uploads/2026/01/Alpha-Strike-Box-Set-Quick-Start-Rulebook-3rd-Print-12-29a.pdf
+WG-0471,BT-AS26,1,https://battletech.com/wp-content/uploads/2026/01/Alpha-Strike-Box-Set-Quick-Start-Rulebook-3rd-Print-12-29a.pdf
+WG-0472,BT-AS26,1,https://battletech.com/wp-content/uploads/2026/01/Alpha-Strike-Box-Set-Quick-Start-Rulebook-3rd-Print-12-29a.pdf
+WG-0473,BT-AS26,1,https://battletech.com/wp-content/uploads/2026/01/Alpha-Strike-Box-Set-Quick-Start-Rulebook-3rd-Print-12-29a.pdf
+WG-0474,BT-AS26,1,https://battletech.com/wp-content/uploads/2026/01/Alpha-Strike-Box-Set-Quick-Start-Rulebook-3rd-Print-12-29a.pdf
+WG-0475,BT-AS26,1,https://battletech.com/wp-content/uploads/2026/01/Alpha-Strike-Box-Set-Quick-Start-Rulebook-3rd-Print-12-29a.pdf
+WG-0476,BT-AS26,1,https://battletech.com/wp-content/uploads/2026/01/Alpha-Strike-Box-Set-Quick-Start-Rulebook-3rd-Print-12-29a.pdf
+WG-0477,BT-AS26,1,https://battletech.com/wp-content/uploads/2026/01/Alpha-Strike-Box-Set-Quick-Start-Rulebook-3rd-Print-12-29a.pdf
+WG-0478,BT-AS26,1,https://battletech.com/wp-content/uploads/2026/01/Alpha-Strike-Box-Set-Quick-Start-Rulebook-3rd-Print-12-29a.pdf
+WG-0479,BT-AS26,1,https://battletech.com/wp-content/uploads/2026/01/Alpha-Strike-Box-Set-Quick-Start-Rulebook-3rd-Print-12-29a.pdf
+WG-0480,BT-AS26,1,https://battletech.com/wp-content/uploads/2026/01/Alpha-Strike-Box-Set-Quick-Start-Rulebook-3rd-Print-12-29a.pdf
+WG-0481,BT-AS26,1,https://battletech.com/wp-content/uploads/2026/01/Alpha-Strike-Box-Set-Quick-Start-Rulebook-3rd-Print-12-29a.pdf
+WG-0482,BT-AS26,1,https://battletech.com/wp-content/uploads/2026/01/Alpha-Strike-Box-Set-Quick-Start-Rulebook-3rd-Print-12-29a.pdf
+WG-0483,BT-AS26,1,https://battletech.com/wp-content/uploads/2026/01/Alpha-Strike-Box-Set-Quick-Start-Rulebook-3rd-Print-12-29a.pdf
+WG-0484,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0485,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0486,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0487,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0488,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0489,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0490,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0491,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0492,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0493,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0494,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0495,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0496,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0497,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0498,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0499,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0500,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0501,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0502,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0503,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0504,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0505,FIREFIGHT-FREE,1,https://www.manticgames.com/wp-content/uploads/woocommerce_uploads/2022/05/Firefight-Free-Rules-kvv0xb.pdf
+WG-0506,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0507,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0508,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0509,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0510,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0511,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0512,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0513,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0514,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0515,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0516,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0517,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0518,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0519,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0520,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0521,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0522,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0523,K47-QRS26,1,https://warlord-community.warlordgames.com/wp-content/uploads/2025/10/Konflikt47_Quick_Reference_071025_v2.pdf
+WG-0523,TEAM-QS,0,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0524,BRS-CORE,1,https://warlord-community.warlordgames.com/climbing-for-advantage-blood-red-skies/
+WG-0524,BRS-FAQ,0,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0525,BRS-CORE,1,https://warlord-community.warlordgames.com/climbing-for-advantage-blood-red-skies/
+WG-0526,BRS-CORE,1,https://warlord-community.warlordgames.com/climbing-for-advantage-blood-red-skies/
+WG-0526,BRS-FAQ,0,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0527,BRS-CORE,1,https://warlord-community.warlordgames.com/climbing-for-advantage-blood-red-skies/
+WG-0527,BRS-FAQ,0,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0528,BRS-CORE,1,https://warlord-community.warlordgames.com/climbing-for-advantage-blood-red-skies/
+WG-0529,BRS-CORE,1,https://warlord-community.warlordgames.com/climbing-for-advantage-blood-red-skies/
+WG-0529,BRS-FAQ,0,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0530,BRS-CORE,1,https://warlord-community.warlordgames.com/climbing-for-advantage-blood-red-skies/
+WG-0531,BRS-CORE,1,https://warlord-community.warlordgames.com/climbing-for-advantage-blood-red-skies/
+WG-0532,BRS-CORE,1,https://warlord-community.warlordgames.com/climbing-for-advantage-blood-red-skies/
+WG-0532,BRS-FAQ,0,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0533,BRS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0534,BRS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0535,BRS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0536,BRS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0537,BRS-CORE,1,https://warlord-community.warlordgames.com/climbing-for-advantage-blood-red-skies/
+WG-0538,BRS-CORE,1,https://warlord-community.warlordgames.com/climbing-for-advantage-blood-red-skies/
+WG-0538,BRS-FAQ,0,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0539,BRS-CORE,1,https://warlord-community.warlordgames.com/climbing-for-advantage-blood-red-skies/
+WG-0540,BRS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0541,BRS-CORE,1,https://warlord-community.warlordgames.com/climbing-for-advantage-blood-red-skies/
+WG-0542,BRS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0543,BRS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0544,BRS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0545,BRS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0546,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0547,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0548,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0549,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0550,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0551,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0552,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0553,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0554,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0555,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0556,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0557,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0558,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0559,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0560,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0561,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0562,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0563,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0564,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0565,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0566,VAS-FAQ,1,https://warlord-community.warlordgames.com/wp-content/uploads/2021/04/VaS_FAQErrata_April-2021.pdf
+WG-0567,CRUEL-BEGIN,1,https://warlord-community.warlordgames.com/sailing-cruel-seas-a-beginners-guide/
+WG-0568,CRUEL-BEGIN,1,https://warlord-community.warlordgames.com/sailing-cruel-seas-a-beginners-guide/
+WG-0569,CRUEL-BEGIN,1,https://warlord-community.warlordgames.com/sailing-cruel-seas-a-beginners-guide/
+WG-0570,CRUEL-BEGIN,1,https://warlord-community.warlordgames.com/sailing-cruel-seas-a-beginners-guide/
+WG-0571,CRUEL-BEGIN,1,https://warlord-community.warlordgames.com/sailing-cruel-seas-a-beginners-guide/
+WG-0572,SAILS-PREVIEW,1,https://www.aresgames.eu/7974
+WG-0572,WINGS-DUEL,0,https://www.aresgames.eu/games/ww1-wings-of-glory-line/ww1-wings-of-glory-duel-pack
+WG-0573,SAILS-PREVIEW,1,https://www.aresgames.eu/7974
+WG-0574,SAILS-PREVIEW,1,https://www.aresgames.eu/7974
+WG-0575,SAILS-PREVIEW,1,https://www.aresgames.eu/7974
+WG-0576,SAILS-PREVIEW,1,https://www.aresgames.eu/7974
+WG-0577,SAILS-PREVIEW,1,https://www.aresgames.eu/7974
+WG-0578,SAILS-PREVIEW,1,https://www.aresgames.eu/7974
+WG-0579,SAILS-PREVIEW,1,https://www.aresgames.eu/7974
+WG-0580,SAILS-PREVIEW,1,https://www.aresgames.eu/7974
+WG-0581,SAILS-PREVIEW,1,https://www.aresgames.eu/7974
+WG-0582,SAILS-PREVIEW,1,https://www.aresgames.eu/7974
+WG-0583,SAILS-PREVIEW,1,https://www.aresgames.eu/7974
+WG-0584,SAILS-ERRATA,1,https://www.aresgames.eu/13238
+WG-0585,SAILS-ERRATA,1,https://www.aresgames.eu/13238
+WG-0586,SAILS-ERRATA,1,https://www.aresgames.eu/13238
+WG-0587,SAILS-ERRATA,1,https://www.aresgames.eu/13238
+WG-0588,WINGS-ARCHIVE,1,https://www.aresgames.eu/downloads/archive
+WG-0588,WINGS-DUEL,0,https://www.aresgames.eu/games/ww1-wings-of-glory-line/ww1-wings-of-glory-duel-pack
+WG-0589,WINGS-ARCHIVE,1,https://www.aresgames.eu/downloads/archive
+WG-0590,WINGS-ARCHIVE,1,https://www.aresgames.eu/downloads/archive
+WG-0591,WINGS-DUEL,1,https://www.aresgames.eu/games/ww1-wings-of-glory-line/ww1-wings-of-glory-duel-pack
+WG-0592,WINGS-ARCHIVE,1,https://www.aresgames.eu/downloads/archive
+WG-0593,WINGS-ARCHIVE,1,https://www.aresgames.eu/downloads/archive
+WG-0593,BRS-FAQ,0,https://warlord-community.warlordgames.com/wp-content/uploads/2022/02/BRS_Errata-FAQ_Feb2022.pdf
+WG-0594,WINGS-DUEL,1,https://www.aresgames.eu/games/ww1-wings-of-glory-line/ww1-wings-of-glory-duel-pack
+WG-0595,WINGS-DUEL,1,https://www.aresgames.eu/games/ww1-wings-of-glory-line/ww1-wings-of-glory-duel-pack
+WG-0596,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0597,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0598,TEAM-FM101,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/FM101-FAQ-NB.pdf
+WG-0598,TEAM-QS,0,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0599,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0600,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0601,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0602,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0603,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0604,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0605,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0606,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0607,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0608,TEAM-SPECIAL,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/World-War-III-Complete-Special-rules.pdf
+WG-0609,TEAM-FM101,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/FM101-FAQ-NB.pdf
+WG-0610,TEAM-FM101,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/FM101-FAQ-NB.pdf
+WG-0611,TEAM-FM101,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/FM101-FAQ-NB.pdf
+WG-0612,TEAM-FM101,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/FM101-FAQ-NB.pdf
+WG-0613,TEAM-FM101,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/FM101-FAQ-NB.pdf
+WG-0614,TEAM-SPECIAL,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/World-War-III-Complete-Special-rules.pdf
+WG-0615,TEAM-SPECIAL,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/World-War-III-Complete-Special-rules.pdf
+WG-0616,TEAM-SPECIAL,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/World-War-III-Complete-Special-rules.pdf
+WG-0617,TEAM-SPECIAL,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/World-War-III-Complete-Special-rules.pdf
+WG-0618,TEAM-SPECIAL,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/World-War-III-Complete-Special-rules.pdf
+WG-0619,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0620,TEAM-FM101,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/FM101-FAQ-NB.pdf
+WG-0621,TEAM-FM101,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/FM101-FAQ-NB.pdf
+WG-0622,TEAM-FM101,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/FM101-FAQ-NB.pdf
+WG-0623,TEAM-SPECIAL,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/World-War-III-Complete-Special-rules.pdf
+WG-0624,TEAM-SPECIAL,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/World-War-III-Complete-Special-rules.pdf
+WG-0625,TEAM-SPECIAL,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/World-War-III-Complete-Special-rules.pdf
+WG-0626,TEAM-SPECIAL,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/World-War-III-Complete-Special-rules.pdf
+WG-0627,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0628,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0629,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0630,TEAM-QS,1,https://www.team-yankee.com/Portals/0/all_images/TeamYankee2/StarterSet/WWIII-Start-Here.pdf
+WG-0631,TEAM-FM101,1,https://www.team-yankee.com/Portals/0/Documents/TeamYankee/FM101-FAQ-NB.pdf
+WG-0632,ACHTUNG-MOVE,1,https://warlord-community.warlordgames.com/initiative-and-movement-achtung-panzer/
+WG-0633,ACHTUNG-MOVE,1,https://warlord-community.warlordgames.com/initiative-and-movement-achtung-panzer/
+WG-0634,ACHTUNG-MOVE,1,https://warlord-community.warlordgames.com/initiative-and-movement-achtung-panzer/
+WG-0635,ACHTUNG-MOVE,1,https://warlord-community.warlordgames.com/initiative-and-movement-achtung-panzer/
+WG-0636,ACHTUNG-MOVE,1,https://warlord-community.warlordgames.com/initiative-and-movement-achtung-panzer/
+WG-0637,ACHTUNG-MOVE,1,https://warlord-community.warlordgames.com/initiative-and-movement-achtung-panzer/
+WG-0638,ACHTUNG-MOVE,1,https://warlord-community.warlordgames.com/initiative-and-movement-achtung-panzer/
+WG-0639,ACHTUNG-MOVE,1,https://warlord-community.warlordgames.com/initiative-and-movement-achtung-panzer/
+WG-0640,ACHTUNG-MOVE,1,https://warlord-community.warlordgames.com/initiative-and-movement-achtung-panzer/
+WG-0641,ACHTUNG-MOVE,1,https://warlord-community.warlordgames.com/initiative-and-movement-achtung-panzer/
+WG-0642,ACHTUNG-MOVE,1,https://warlord-community.warlordgames.com/initiative-and-movement-achtung-panzer/
+WG-0643,ACHTUNG-MOVE,1,https://warlord-community.warlordgames.com/initiative-and-movement-achtung-panzer/
+WG-0644,HC-COMBAT,1,https://www.warlordgames.com/hail-caesar-update-rick-explains-the-combat-system/
+WG-0645,HC-COMBAT,1,https://www.warlordgames.com/hail-caesar-update-rick-explains-the-combat-system/
+WG-0646,HC-COMBAT,1,https://www.warlordgames.com/hail-caesar-update-rick-explains-the-combat-system/
+WG-0647,HC-COMBAT,1,https://www.warlordgames.com/hail-caesar-update-rick-explains-the-combat-system/
+WG-0648,HC-COMBAT,1,https://www.warlordgames.com/hail-caesar-update-rick-explains-the-combat-system/
+WG-0649,HC-COMBAT,1,https://www.warlordgames.com/hail-caesar-update-rick-explains-the-combat-system/
+WG-0650,HC-COMBAT,1,https://www.warlordgames.com/hail-caesar-update-rick-explains-the-combat-system/
+WG-0651,HC-COMBAT,1,https://www.warlordgames.com/hail-caesar-update-rick-explains-the-combat-system/
+WG-0652,HC-COMBAT,1,https://www.warlordgames.com/hail-caesar-update-rick-explains-the-combat-system/
+WG-0653,HC-COMBAT,1,https://www.warlordgames.com/hail-caesar-update-rick-explains-the-combat-system/
+WG-0654,HC-COMBAT,1,https://www.warlordgames.com/hail-caesar-update-rick-explains-the-combat-system/
+WG-0655,HC-COMBAT,1,https://www.warlordgames.com/hail-caesar-update-rick-explains-the-combat-system/
+WG-0656,HC-COMBAT,1,https://www.warlordgames.com/hail-caesar-update-rick-explains-the-combat-system/
+WG-0657,HC-COMBAT,1,https://www.warlordgames.com/hail-caesar-update-rick-explains-the-combat-system/
+WG-0658,HC-COMBAT,1,https://www.warlordgames.com/hail-caesar-update-rick-explains-the-combat-system/
+WG-0659,WOE-QRS,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE%20Quick%20Reference%20Sheet.pdf
+WG-0660,WOE-QRS,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE%20Quick%20Reference%20Sheet.pdf
+WG-0661,WOE-QRS,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE%20Quick%20Reference%20Sheet.pdf
+WG-0662,WOE-QRS,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE%20Quick%20Reference%20Sheet.pdf
+WG-0663,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0664,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0665,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0666,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0667,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0667,WOE-QRS,0,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE%20Quick%20Reference%20Sheet.pdf
+WG-0668,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0669,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0670,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0671,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0672,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0673,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0674,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0674,WOE-QRS,0,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE%20Quick%20Reference%20Sheet.pdf
+WG-0675,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0676,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0677,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0678,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0679,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0680,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0681,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0682,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0683,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0684,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0685,WOE-SPECIAL,1,https://www.warlordgames.com/wp-content/uploads/2019/02/WoE-Special-rules_v2.pdf
+WG-0686,OPR-WIKI-AOF,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Skirmish_Special_Rules
+WG-0686,OPR-AOFS,0,https://www.onepagerules.com/games/age-of-fantasy-skirmish
+WG-0687,OPR-WIKI-AOF,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Skirmish_Special_Rules
+WG-0688,OPR-WIKI-AOF,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Skirmish_Special_Rules
+WG-0689,OPR-WIKI-AOF,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Skirmish_Special_Rules
+WG-0690,OPR-WIKI-AOF,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Skirmish_Special_Rules
+WG-0691,OPR-WIKI-AOF,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Skirmish_Special_Rules
+WG-0692,OPR-WIKI-AOF,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Skirmish_Special_Rules
+WG-0693,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0694,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0695,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0696,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0697,LEGION-UP25,1,https://www.atomicmassgames.com/transmission/legion-update-april-2025/
+WG-0698,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0699,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0700,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0701,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0702,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0703,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0704,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0705,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0706,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0707,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0708,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0709,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0710,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0711,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0712,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0713,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0714,LEGION-DEV26,1,https://www.atomicmassgames.com/transmission/legion-dev-diaries-clan-saxon/
+WG-0715,KOW-MELEE,1,https://www.manticgames.com/news/kings-of-war-how-to-play-series-the-melee-phase/
+WG-0716,KOW-MELEE,1,https://www.manticgames.com/news/kings-of-war-how-to-play-series-the-melee-phase/
+WG-0717,KOW-MELEE,1,https://www.manticgames.com/news/kings-of-war-how-to-play-series-the-melee-phase/
+WG-0718,KOW-MELEE,1,https://www.manticgames.com/news/kings-of-war-how-to-play-series-the-melee-phase/
+WG-0719,KOW-MELEE,1,https://www.manticgames.com/news/kings-of-war-how-to-play-series-the-melee-phase/
+WG-0720,KOW-MELEE,1,https://www.manticgames.com/news/kings-of-war-how-to-play-series-the-melee-phase/
+WG-0721,KOW-MELEE,1,https://www.manticgames.com/news/kings-of-war-how-to-play-series-the-melee-phase/
+WG-0722,KOW-MELEE,1,https://www.manticgames.com/news/kings-of-war-how-to-play-series-the-melee-phase/
+WG-0723,KOW-MELEE,1,https://www.manticgames.com/news/kings-of-war-how-to-play-series-the-melee-phase/
+WG-0724,KOW-MELEE,1,https://www.manticgames.com/news/kings-of-war-how-to-play-series-the-melee-phase/
+WG-0725,KOW-MELEE,1,https://www.manticgames.com/news/kings-of-war-how-to-play-series-the-melee-phase/
+WG-0726,KOW-MELEE,1,https://www.manticgames.com/news/kings-of-war-how-to-play-series-the-melee-phase/
+WG-0727,BTF-QSR,1,https://battletech.com/wp-content/uploads/2025/07/BattleForce_QSR.pdf
+WG-0728,BTF-QSR,1,https://battletech.com/wp-content/uploads/2025/07/BattleForce_QSR.pdf
+WG-0729,BTF-QSR,1,https://battletech.com/wp-content/uploads/2025/07/BattleForce_QSR.pdf
+WG-0730,BTF-QSR,1,https://battletech.com/wp-content/uploads/2025/07/BattleForce_QSR.pdf
+WG-0731,BTF-QSR,1,https://battletech.com/wp-content/uploads/2025/07/BattleForce_QSR.pdf
+WG-0732,BTF-QSR,1,https://battletech.com/wp-content/uploads/2025/07/BattleForce_QSR.pdf
+WG-0733,BTF-QSR,1,https://battletech.com/wp-content/uploads/2025/07/BattleForce_QSR.pdf
+WG-0734,BTF-QSR,1,https://battletech.com/wp-content/uploads/2025/07/BattleForce_QSR.pdf
+WG-0735,BTF-QSR,1,https://battletech.com/wp-content/uploads/2025/07/BattleForce_QSR.pdf
+WG-0736,BTF-QSR,1,https://battletech.com/wp-content/uploads/2025/07/BattleForce_QSR.pdf
+WG-0737,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0738,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0739,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0740,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0741,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0742,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0743,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0744,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0745,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0746,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0747,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0748,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0749,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0750,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0751,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0752,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0753,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0754,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0755,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0756,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0757,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0758,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0759,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0760,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0761,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0762,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0763,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0764,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0765,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0766,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0767,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0768,INF-N5-52,1,https://downloads.corvusbelli.com/infinity/rules/infinity-rules-n5-en-v5.2.pdf
+WG-0769,DW4-GLOSS-402,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-0770,DW4-GLOSS-402,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-0771,DW4-GLOSS-402,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-0772,DW4-GLOSS-402,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-0773,DW4-GLOSS-402,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-0774,DW4-QRG,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/Quick-Reference-Guide_W.pdf
+WG-0775,DW4-QRG,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/Quick-Reference-Guide_W.pdf
+WG-0776,DW4-QRG,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/Quick-Reference-Guide_W.pdf
+WG-0777,DW4-QRG,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/Quick-Reference-Guide_W.pdf
+WG-0778,DW4-QRG,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/Quick-Reference-Guide_W.pdf
+WG-0779,DW4-QRG,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/Quick-Reference-Guide_W.pdf
+WG-0780,DW4-QRG,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/Quick-Reference-Guide_W.pdf
+WG-0781,DW4-QRG,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/Quick-Reference-Guide_W.pdf
+WG-0782,DW4-QRG,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/Quick-Reference-Guide_W.pdf
+WG-0783,OPR-WF-WIKI,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Warfleets_Special_Rules
+WG-0784,OPR-WF-WIKI,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Warfleets_Special_Rules
+WG-0785,OPR-WF-WIKI,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Warfleets_Special_Rules
+WG-0786,OPR-WF-WIKI,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Warfleets_Special_Rules
+WG-0787,OPR-WF-WIKI,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Warfleets_Special_Rules
+WG-0788,OPR-WF-WIKI,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Warfleets_Special_Rules
+WG-0789,OPR-WF-WIKI,1,https://wiki.onepagerules.com/index.php/Grimdark_Future_Warfleets_Special_Rules
+WG-0790,DFC-15,1,https://www.scribd.com/document/748336054/Desktop-Dropfleet-Rulebook-1-5
+WG-0791,DFC-15,1,https://www.scribd.com/document/748336054/Desktop-Dropfleet-Rulebook-1-5
+WG-0792,DFC-15,1,https://www.scribd.com/document/748336054/Desktop-Dropfleet-Rulebook-1-5
+WG-0793,DFC-15,1,https://www.scribd.com/document/748336054/Desktop-Dropfleet-Rulebook-1-5
+WG-0794,DFC-15,1,https://www.scribd.com/document/748336054/Desktop-Dropfleet-Rulebook-1-5
+WG-0795,DFC-15,1,https://www.scribd.com/document/748336054/Desktop-Dropfleet-Rulebook-1-5
+WG-0796,DFC-15,1,https://www.scribd.com/document/748336054/Desktop-Dropfleet-Rulebook-1-5
+WG-0797,DFC-15,1,https://www.scribd.com/document/748336054/Desktop-Dropfleet-Rulebook-1-5
+WG-0798,DFC-15,1,https://www.scribd.com/document/748336054/Desktop-Dropfleet-Rulebook-1-5
+WG-0799,DFC-15,1,https://www.scribd.com/document/748336054/Desktop-Dropfleet-Rulebook-1-5
+WG-0800,DFC-15,1,https://www.scribd.com/document/748336054/Desktop-Dropfleet-Rulebook-1-5
+WG-0801,DFC-15,1,https://www.scribd.com/document/748336054/Desktop-Dropfleet-Rulebook-1-5
+WG-0802,DFC-15,1,https://www.scribd.com/document/748336054/Desktop-Dropfleet-Rulebook-1-5
+WG-0803,DFC-15,1,https://www.scribd.com/document/748336054/Desktop-Dropfleet-Rulebook-1-5
+WG-0804,FOF-OTT,1,https://www.ontabletop.com/modern-warfare/modern-wargaming-introduction/
+WG-0805,FOF-OTT,1,https://www.ontabletop.com/modern-warfare/modern-wargaming-introduction/
+WG-0806,FOF-OTT,1,https://www.ontabletop.com/modern-warfare/modern-wargaming-introduction/
+WG-0807,FOF-OTT,1,https://www.ontabletop.com/modern-warfare/modern-wargaming-introduction/
+WG-0808,FOF-OTT,1,https://www.ontabletop.com/modern-warfare/modern-wargaming-introduction/
+WG-0809,COC-TFL,1,https://toofatlardies.co.uk/product/chain-of-command-2-token-set-2/
+WG-0810,COC-TFL,1,https://toofatlardies.co.uk/product/chain-of-command-2-token-set-2/
+WG-0811,COC-TFL,1,https://toofatlardies.co.uk/product/chain-of-command-2-token-set-2/
+WG-0812,COC-TFL,1,https://toofatlardies.co.uk/product/chain-of-command-2-token-set-2/
+WG-0813,COC-TFL,1,https://toofatlardies.co.uk/product/chain-of-command-2-token-set-2/
+WG-0814,COC-TFL,1,https://toofatlardies.co.uk/product/chain-of-command-2-token-set-2/
+WG-0815,COC-TFL,1,https://toofatlardies.co.uk/product/chain-of-command-2-token-set-2/
+WG-0816,COC-TFL,1,https://toofatlardies.co.uk/product/chain-of-command-2-token-set-2/
+WG-0817,COC-TFL,1,https://toofatlardies.co.uk/product/chain-of-command-2-token-set-2/
+WG-0818,COC-TFL,1,https://toofatlardies.co.uk/product/chain-of-command-2-token-set-2/
+WG-0819,GDA-WALK,1,https://www.tapatalk.com/groups/generaldebrigadefr/general-d-armee-rules-walkthrough-t6445.html
+WG-0820,GDA-WALK,1,https://www.tapatalk.com/groups/generaldebrigadefr/general-d-armee-rules-walkthrough-t6445.html
+WG-0821,GDA-WALK,1,https://www.tapatalk.com/groups/generaldebrigadefr/general-d-armee-rules-walkthrough-t6445.html
+WG-0822,GDA-WALK,1,https://www.tapatalk.com/groups/generaldebrigadefr/general-d-armee-rules-walkthrough-t6445.html
+WG-0823,GDA-WALK,1,https://www.tapatalk.com/groups/generaldebrigadefr/general-d-armee-rules-walkthrough-t6445.html
+WG-0824,GDA-WALK,1,https://www.tapatalk.com/groups/generaldebrigadefr/general-d-armee-rules-walkthrough-t6445.html
+WG-0825,GDA-WALK,1,https://www.tapatalk.com/groups/generaldebrigadefr/general-d-armee-rules-walkthrough-t6445.html
+WG-0826,GDA-WALK,1,https://www.tapatalk.com/groups/generaldebrigadefr/general-d-armee-rules-walkthrough-t6445.html
+WG-0827,BAP-FL,1,https://firelockgames.com/pages/blood-plunder
+WG-0828,BAP-FL,1,https://firelockgames.com/pages/blood-plunder
+WG-0829,BAP-FL,1,https://firelockgames.com/pages/blood-plunder
+WG-0830,BAP-FL,1,https://firelockgames.com/pages/blood-plunder
+WG-0831,BAP-FL,1,https://firelockgames.com/pages/blood-plunder
+WG-0832,BAP-FL,1,https://firelockgames.com/pages/blood-plunder
+WG-0833,BAP-FL,1,https://firelockgames.com/pages/blood-plunder
+WG-0834,BAP-FL,1,https://firelockgames.com/pages/blood-plunder
+WG-0835,BAP-FL,1,https://firelockgames.com/pages/blood-plunder
+WG-0836,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0837,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0838,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0839,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0840,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0841,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0842,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0843,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0844,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0845,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0846,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0847,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0848,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0849,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0850,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0851,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0852,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0853,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0854,02HH-OFFICIAL,1,https://greyfornow.com/blogs/news/02-hundred-hours-designers-notes
+WG-0855,CROSSFIRE-WIKI,1,https://crossfire.wargaming.info/about/
+WG-0856,CROSSFIRE-WIKI,1,https://crossfire.wargaming.info/about/
+WG-0857,CROSSFIRE-WIKI,1,https://crossfire.wargaming.info/about/
+WG-0858,CROSSFIRE-WIKI,1,https://crossfire.wargaming.info/about/
+WG-0859,CROSSFIRE-WIKI,1,https://crossfire.wargaming.info/about/
+WG-0860,CROSSFIRE-WIKI,1,https://crossfire.wargaming.info/about/
+WG-0861,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0862,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0863,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0864,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0865,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0866,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0867,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0868,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0869,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0870,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0871,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0872,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0873,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0874,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0875,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0876,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0877,SEEKRIEG5-TOC,1,https://www.seekrieg.com/Seekrieg5-TOC.pdf
+WG-0878,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0879,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0880,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0881,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0882,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0883,40K-2026-BUILD,1,https://www.warhammer-community.com/en-gb/articles/95fucn12/building-an-army-in-the-new-edition-of-warhammer-40000/
+WG-0884,40K-2026-BUILD,1,https://www.warhammer-community.com/en-gb/articles/95fucn12/building-an-army-in-the-new-edition-of-warhammer-40000/
+WG-0885,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0886,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0887,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0888,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0889,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0890,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0891,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0892,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0893,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0894,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0895,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0896,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0897,40K-2026-BUILD,1,https://www.warhammer-community.com/en-gb/articles/95fucn12/building-an-army-in-the-new-edition-of-warhammer-40000/
+WG-0898,40K-2026-BUILD,1,https://www.warhammer-community.com/en-gb/articles/95fucn12/building-an-army-in-the-new-edition-of-warhammer-40000/
+WG-0899,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0900,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0901,BA3-OFFICIAL-26,1,https://warlord-community.warlordgames.com/bolt-action-third-edition-digital-resources/
+WG-0902,40K-2026-BUILD,1,https://www.warhammer-community.com/en-gb/articles/95fucn12/building-an-army-in-the-new-edition-of-warhammer-40000/
+WG-0903,40K-2026-BUILD,1,https://www.warhammer-community.com/en-gb/articles/95fucn12/building-an-army-in-the-new-edition-of-warhammer-40000/
+WG-0904,40K-2026-BUILD,1,https://www.warhammer-community.com/en-gb/articles/95fucn12/building-an-army-in-the-new-edition-of-warhammer-40000/
+WG-0905,40K-2026-BUILD,1,https://www.warhammer-community.com/en-gb/articles/95fucn12/building-an-army-in-the-new-edition-of-warhammer-40000/
+WG-0906,40K-2026-BUILD,1,https://www.warhammer-community.com/en-gb/articles/95fucn12/building-an-army-in-the-new-edition-of-warhammer-40000/
+WG-0907,40K-2026-BUILD,1,https://www.warhammer-community.com/en-gb/articles/95fucn12/building-an-army-in-the-new-edition-of-warhammer-40000/
+WG-0908,40K-2026-BUILD,1,https://www.warhammer-community.com/en-gb/articles/95fucn12/building-an-army-in-the-new-edition-of-warhammer-40000/
+WG-0909,40K-2026-BUILD,1,https://www.warhammer-community.com/en-gb/articles/95fucn12/building-an-army-in-the-new-edition-of-warhammer-40000/
+WG-1098,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-1099,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-1100,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0910,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0911,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0912,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0913,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0914,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0915,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0916,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0917,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0918,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0919,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0920,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0921,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0922,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0923,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0924,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0925,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0926,NWS-MODERN-GQ,1,https://www.navalwargamessociety.org/fleet-data/modern-naval-rules/
+WG-0927,HARPOON5-OFFICIAL,1,https://www.admiraltytrilogy.com/harpoon.php
+WG-0928,HARPOON5-OFFICIAL,1,https://www.admiraltytrilogy.com/harpoon.php
+WG-0929,HARPOON-SUPPORT,1,https://www.admiraltytrilogy.com/gamesupport.php
+WG-0930,HARPOON-SUPPORT,1,https://www.admiraltytrilogy.com/gamesupport.php
+WG-0931,HARPOON5-OFFICIAL,1,https://www.admiraltytrilogy.com/harpoon.php
+WG-0932,HARPOON5-OFFICIAL,1,https://www.admiraltytrilogy.com/harpoon.php
+WG-0933,HARPOON5-OFFICIAL,1,https://www.admiraltytrilogy.com/harpoon.php
+WG-0934,HARPOON5-OFFICIAL,1,https://www.admiraltytrilogy.com/harpoon.php
+WG-0935,HARPOON5-FC,1,https://www.admiraltytrilogy.com/pdf/Historicon2021_Fire%20Control_In_HarpoonV.pdf
+WG-0936,HARPOON5-FC,1,https://www.admiraltytrilogy.com/pdf/Historicon2021_Fire%20Control_In_HarpoonV.pdf
+WG-0937,HARPOON5-FC,1,https://www.admiraltytrilogy.com/pdf/Historicon2021_Fire%20Control_In_HarpoonV.pdf
+WG-0938,HARPOON5-ERRATA,1,https://www.admiraltytrilogy.com/cic/Harpoon/Harpoon_V_Errata_8_Jan_21.pdf
+WG-0939,HARPOON5-ERRATA,1,https://www.admiraltytrilogy.com/cic/Harpoon/Harpoon_V_Errata_8_Jan_21.pdf
+WG-0940,HARPOON5-ERRATA,1,https://www.admiraltytrilogy.com/cic/Harpoon/Harpoon_V_Errata_8_Jan_21.pdf
+WG-0941,HARPOON5-ERRATA,1,https://www.admiraltytrilogy.com/cic/Harpoon/Harpoon_V_Errata_8_Jan_21.pdf
+WG-0942,HARPOON5-ERRATA,1,https://www.admiraltytrilogy.com/cic/Harpoon/Harpoon_V_Errata_8_Jan_21.pdf
+WG-0943,HARPOON5-ERRATA,1,https://www.admiraltytrilogy.com/cic/Harpoon/Harpoon_V_Errata_8_Jan_21.pdf
+WG-0944,HARPOON5-ERRATA,1,https://www.admiraltytrilogy.com/cic/Harpoon/Harpoon_V_Errata_8_Jan_21.pdf
+WG-0945,HARPOON5-ERRATA,1,https://www.admiraltytrilogy.com/cic/Harpoon/Harpoon_V_Errata_8_Jan_21.pdf
+WG-0946,HARPOON5-ERRATA,1,https://www.admiraltytrilogy.com/cic/Harpoon/Harpoon_V_Errata_8_Jan_21.pdf
+WG-0947,HARPOON5-ERRATA,1,https://www.admiraltytrilogy.com/cic/Harpoon/Harpoon_V_Errata_8_Jan_21.pdf
+WG-0948,HARPOON5-ERRATA,1,https://www.admiraltytrilogy.com/cic/Harpoon/Harpoon_V_Errata_8_Jan_21.pdf
+WG-0949,HARPOON5-ERRATA,1,https://www.admiraltytrilogy.com/cic/Harpoon/Harpoon_V_Errata_8_Jan_21.pdf
+WG-0950,TOH2-OFFICIAL,1,https://greyfornow.com/products/test-of-honour-rulebook-only
+WG-0951,TOH2-OFFICIAL,1,https://greyfornow.com/products/test-of-honour-rulebook-only
+WG-0952,TOH2-OFFICIAL,1,https://greyfornow.com/products/test-of-honour-rulebook-only
+WG-0953,TOH2-OFFICIAL,1,https://greyfornow.com/products/test-of-honour-rulebook-only
+WG-0954,TOH2-OFFICIAL,1,https://greyfornow.com/products/test-of-honour-rulebook-only
+WG-0955,TOH2-TOKENS,1,https://greyfornow.com/products/sengoku-book-tokens
+WG-0956,TOH2-TOKENS,1,https://greyfornow.com/products/sengoku-book-tokens
+WG-0957,TOH2-TOKENS,1,https://greyfornow.com/products/sengoku-book-tokens
+WG-0958,TOH2-TOKENS,1,https://greyfornow.com/products/sengoku-book-tokens
+WG-0959,TOH2-TOKENS,1,https://greyfornow.com/products/sengoku-book-tokens
+WG-0960,TOH2-TOKENS,1,https://greyfornow.com/products/sengoku-book-tokens
+WG-0961,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0962,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0963,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0964,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0965,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0966,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0967,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0968,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0969,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0970,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0971,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0972,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0973,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0974,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0975,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0976,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0977,ROMMEL-QRS,1,https://sammustafa.com/s/Rommel-QRS.pdf
+WG-0978,LASALLE2-SUM,1,https://static1.squarespace.com/static/63093b9d5b27bc44cd3e43bf/t/6332dab9e286332448208fdb/1664277191270/Lasalle2-rules+summary.pdf
+WG-0979,LASALLE2-SUM,1,https://static1.squarespace.com/static/63093b9d5b27bc44cd3e43bf/t/6332dab9e286332448208fdb/1664277191270/Lasalle2-rules+summary.pdf
+WG-0980,LASALLE2-SUM,1,https://static1.squarespace.com/static/63093b9d5b27bc44cd3e43bf/t/6332dab9e286332448208fdb/1664277191270/Lasalle2-rules+summary.pdf
+WG-0981,LASALLE2-SUM,1,https://static1.squarespace.com/static/63093b9d5b27bc44cd3e43bf/t/6332dab9e286332448208fdb/1664277191270/Lasalle2-rules+summary.pdf
+WG-0982,LASALLE2-SUM,1,https://static1.squarespace.com/static/63093b9d5b27bc44cd3e43bf/t/6332dab9e286332448208fdb/1664277191270/Lasalle2-rules+summary.pdf
+WG-0983,LASALLE2-SUM,1,https://static1.squarespace.com/static/63093b9d5b27bc44cd3e43bf/t/6332dab9e286332448208fdb/1664277191270/Lasalle2-rules+summary.pdf
+WG-0984,LASALLE2-SUM,1,https://static1.squarespace.com/static/63093b9d5b27bc44cd3e43bf/t/6332dab9e286332448208fdb/1664277191270/Lasalle2-rules+summary.pdf
+WG-0985,LASALLE2-SUM,1,https://static1.squarespace.com/static/63093b9d5b27bc44cd3e43bf/t/6332dab9e286332448208fdb/1664277191270/Lasalle2-rules+summary.pdf
+WG-0986,LASALLE2-SUM,1,https://static1.squarespace.com/static/63093b9d5b27bc44cd3e43bf/t/6332dab9e286332448208fdb/1664277191270/Lasalle2-rules+summary.pdf
+WG-0987,LASALLE2-SUM,1,https://static1.squarespace.com/static/63093b9d5b27bc44cd3e43bf/t/6332dab9e286332448208fdb/1664277191270/Lasalle2-rules+summary.pdf
+WG-0988,LASALLE2-SUM,1,https://static1.squarespace.com/static/63093b9d5b27bc44cd3e43bf/t/6332dab9e286332448208fdb/1664277191270/Lasalle2-rules+summary.pdf
+WG-0989,LASALLE2-SUM,1,https://static1.squarespace.com/static/63093b9d5b27bc44cd3e43bf/t/6332dab9e286332448208fdb/1664277191270/Lasalle2-rules+summary.pdf
+WG-0990,BLUCHER-GNEIS,1,https://sammustafa.com/s/Gneisenau.pdf
+WG-0991,BLUCHER-GNEIS,1,https://sammustafa.com/s/Gneisenau.pdf
+WG-0992,BLUCHER-GNEIS,1,https://sammustafa.com/s/Gneisenau.pdf
+WG-0993,BLUCHER-GNEIS,1,https://sammustafa.com/s/Gneisenau.pdf
+WG-0994,BLUCHER-GNEIS,1,https://sammustafa.com/s/Gneisenau.pdf
+WG-0995,BLUCHER-GNEIS,1,https://sammustafa.com/s/Gneisenau.pdf
+WG-0996,BLUCHER-GNEIS,1,https://sammustafa.com/s/Gneisenau.pdf
+WG-0997,BLUCHER-GNEIS,1,https://sammustafa.com/s/Gneisenau.pdf
+WG-0998,BLUCHER-GNEIS,1,https://sammustafa.com/s/Gneisenau.pdf
+WG-0999,BLUCHER-GNEIS,1,https://sammustafa.com/s/Gneisenau.pdf
+WG-1000,BLUCHER-GNEIS,1,https://sammustafa.com/s/Gneisenau.pdf
+WG-1001,LONGSTREET-QRS,1,https://sammustafa.com/s/Longstreet-QRS.pdf
+WG-1002,LONGSTREET-QRS,1,https://sammustafa.com/s/Longstreet-QRS.pdf
+WG-1003,LONGSTREET-QRS,1,https://sammustafa.com/s/Longstreet-QRS.pdf
+WG-1004,LONGSTREET-QRS,1,https://sammustafa.com/s/Longstreet-QRS.pdf
+WG-1005,LONGSTREET-QRS,1,https://sammustafa.com/s/Longstreet-QRS.pdf
+WG-1006,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1007,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1008,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1009,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1010,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1011,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1012,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1013,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1014,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1015,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1016,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1017,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1018,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1019,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1020,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1021,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1022,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1023,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1024,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1025,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1026,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1027,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1028,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1029,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1030,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1031,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1032,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1033,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1034,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1035,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1036,RFF-QRS21,1,https://www.fireandfury.com/rffsupport/RFFACWV2/V2.1RuleChangesandAdditions.pdf
+WG-1037,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1038,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1039,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1040,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1041,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1042,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1043,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1044,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1045,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1046,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1047,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1048,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1049,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1050,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1051,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1052,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1053,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1054,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1055,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1056,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1057,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1058,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1059,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1060,FWC-OFFICIAL,1,https://cdn.shopify.com/s/files/1/0965/1274/files/Flightwing_Commander_Rules.pdf?v=1608124024
+WG-1061,DZC-ARTEMIS-26,1,https://ttcombat.com/collections/just-in/products/dropzone-commander-operation-artemis
+WG-1062,DZC-ARTEMIS-26,1,https://ttcombat.com/collections/just-in/products/dropzone-commander-operation-artemis
+WG-1063,DZC-ARTEMIS-26,1,https://ttcombat.com/collections/just-in/products/dropzone-commander-operation-artemis
+WG-1064,BVAL-QRS,1,https://ik.imagekit.io/firelockgames/DLC/BV-Player-Aid-References_VL_FmbQoC.pdf
+WG-1065,BVAL-QRS,1,https://ik.imagekit.io/firelockgames/DLC/BV-Player-Aid-References_VL_FmbQoC.pdf
+WG-1066,BVAL-QRS,1,https://ik.imagekit.io/firelockgames/DLC/BV-Player-Aid-References_VL_FmbQoC.pdf
+WG-1067,BVAL-QRS,1,https://ik.imagekit.io/firelockgames/DLC/BV-Player-Aid-References_VL_FmbQoC.pdf
+WG-1068,BVAL-QRS,1,https://ik.imagekit.io/firelockgames/DLC/BV-Player-Aid-References_VL_FmbQoC.pdf
+WG-1069,BVAL-QRS,1,https://ik.imagekit.io/firelockgames/DLC/BV-Player-Aid-References_VL_FmbQoC.pdf
+WG-1070,BVAL-QRS,1,https://ik.imagekit.io/firelockgames/DLC/BV-Player-Aid-References_VL_FmbQoC.pdf
+WG-1071,BVAL-QRS,1,https://ik.imagekit.io/firelockgames/DLC/BV-Player-Aid-References_VL_FmbQoC.pdf
+WG-1072,BVAL-QRS,1,https://ik.imagekit.io/firelockgames/DLC/BV-Player-Aid-References_VL_FmbQoC.pdf
+WG-1073,BBAY-QRS-26,1,https://ik.imagekit.io/firelockgames/Blood%20%26%20Bayonets/Blood%20%26%20Bayonets%20-%20Quick%20Reference%20Sheet_0oO2V-05WE.pdf?updatedAt=1762454719109
+WG-1074,BBAY-QRS-26,1,https://ik.imagekit.io/firelockgames/Blood%20%26%20Bayonets/Blood%20%26%20Bayonets%20-%20Quick%20Reference%20Sheet_0oO2V-05WE.pdf?updatedAt=1762454719109
+WG-1075,BBAY-QRS-26,1,https://ik.imagekit.io/firelockgames/Blood%20%26%20Bayonets/Blood%20%26%20Bayonets%20-%20Quick%20Reference%20Sheet_0oO2V-05WE.pdf?updatedAt=1762454719109
+WG-1076,BBAY-QRS-26,1,https://ik.imagekit.io/firelockgames/Blood%20%26%20Bayonets/Blood%20%26%20Bayonets%20-%20Quick%20Reference%20Sheet_0oO2V-05WE.pdf?updatedAt=1762454719109
+WG-1077,BBAY-QRS-26,1,https://ik.imagekit.io/firelockgames/Blood%20%26%20Bayonets/Blood%20%26%20Bayonets%20-%20Quick%20Reference%20Sheet_0oO2V-05WE.pdf?updatedAt=1762454719109
+WG-1078,BBAY-QRS-26,1,https://ik.imagekit.io/firelockgames/Blood%20%26%20Bayonets/Blood%20%26%20Bayonets%20-%20Quick%20Reference%20Sheet_0oO2V-05WE.pdf?updatedAt=1762454719109
+WG-1079,BBAY-QRS-26,1,https://ik.imagekit.io/firelockgames/Blood%20%26%20Bayonets/Blood%20%26%20Bayonets%20-%20Quick%20Reference%20Sheet_0oO2V-05WE.pdf?updatedAt=1762454719109
+WG-1080,BBAY-QRS-26,1,https://ik.imagekit.io/firelockgames/Blood%20%26%20Bayonets/Blood%20%26%20Bayonets%20-%20Quick%20Reference%20Sheet_0oO2V-05WE.pdf?updatedAt=1762454719109
+WG-1081,BBAY-QRS-26,1,https://ik.imagekit.io/firelockgames/Blood%20%26%20Bayonets/Blood%20%26%20Bayonets%20-%20Quick%20Reference%20Sheet_0oO2V-05WE.pdf?updatedAt=1762454719109
+WG-1082,BBAY-QRS-26,1,https://ik.imagekit.io/firelockgames/Blood%20%26%20Bayonets/Blood%20%26%20Bayonets%20-%20Quick%20Reference%20Sheet_0oO2V-05WE.pdf?updatedAt=1762454719109
+WG-1083,BBAY-QRS-26,1,https://ik.imagekit.io/firelockgames/Blood%20%26%20Bayonets/Blood%20%26%20Bayonets%20-%20Quick%20Reference%20Sheet_0oO2V-05WE.pdf?updatedAt=1762454719109
+WG-1084,BBAY-QRS-26,1,https://ik.imagekit.io/firelockgames/Blood%20%26%20Bayonets/Blood%20%26%20Bayonets%20-%20Quick%20Reference%20Sheet_0oO2V-05WE.pdf?updatedAt=1762454719109
+WG-1085,AOF-WIKI-341,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Special_Rules
+WG-1086,AOF-WIKI-341,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Special_Rules
+WG-1087,AOF-WIKI-341,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Special_Rules
+WG-1088,AOF-WIKI-341,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Special_Rules
+WG-1089,AOF-WIKI-341,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Special_Rules
+WG-1090,AOF-WIKI-341,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Special_Rules
+WG-1091,AOF-WIKI-341,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Special_Rules
+WG-1092,AOF-WIKI-341,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Special_Rules
+WG-1093,AOF-WIKI-341,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Special_Rules
+WG-1094,AOF-WIKI-341,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Special_Rules
+WG-1095,AOF-WIKI-341,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Special_Rules
+WG-1096,AOF-WIKI-341,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Special_Rules
+WG-1097,AOF-WIKI-341,1,https://wiki.onepagerules.com/index.php/Age_of_Fantasy_Special_Rules
+WG-1101,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1102,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1103,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1104,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1105,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1106,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1107,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1108,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1109,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1110,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1111,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1112,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1113,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1114,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1115,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1116,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1117,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1118,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1119,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1120,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1121,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1122,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1123,DW402-GLOSS,1,https://www.warcradle.com/assets/warcradleGames/dystopianWars/pdfs/essentials/DW4-Rules-Glossary-v4.02_W-compressed.pdf
+WG-1124,OPR-CAMP-331,1,https://assets-global.website-files.com/636c3b6dcdb4eb2dce722889/66437b750a8cce922d4873a2_GF%20-%20Campaign%20Rules%20v3.3.1.pdf
+WG-1125,OPR-CAMP-331,1,https://assets-global.website-files.com/636c3b6dcdb4eb2dce722889/66437b750a8cce922d4873a2_GF%20-%20Campaign%20Rules%20v3.3.1.pdf
+WG-1126,OPR-CAMP-331,1,https://assets-global.website-files.com/636c3b6dcdb4eb2dce722889/66437b750a8cce922d4873a2_GF%20-%20Campaign%20Rules%20v3.3.1.pdf
+WG-1127,OPR-CAMP-331,1,https://assets-global.website-files.com/636c3b6dcdb4eb2dce722889/66437b750a8cce922d4873a2_GF%20-%20Campaign%20Rules%20v3.3.1.pdf
+WG-1128,OPR-CAMP-331,1,https://assets-global.website-files.com/636c3b6dcdb4eb2dce722889/66437b750a8cce922d4873a2_GF%20-%20Campaign%20Rules%20v3.3.1.pdf
+WG-1129,OPR-CAMP-331,1,https://assets-global.website-files.com/636c3b6dcdb4eb2dce722889/66437b750a8cce922d4873a2_GF%20-%20Campaign%20Rules%20v3.3.1.pdf
+WG-1130,OPR-CAMP-331,1,https://assets-global.website-files.com/636c3b6dcdb4eb2dce722889/66437b750a8cce922d4873a2_GF%20-%20Campaign%20Rules%20v3.3.1.pdf
+WG-1131,OPR-CAMP-331,1,https://assets-global.website-files.com/636c3b6dcdb4eb2dce722889/66437b750a8cce922d4873a2_GF%20-%20Campaign%20Rules%20v3.3.1.pdf
+WG-1132,OPR-CAMP-331,1,https://assets-global.website-files.com/636c3b6dcdb4eb2dce722889/66437b750a8cce922d4873a2_GF%20-%20Campaign%20Rules%20v3.3.1.pdf
+WG-1133,OPR-CAMP-331,1,https://assets-global.website-files.com/636c3b6dcdb4eb2dce722889/66437b750a8cce922d4873a2_GF%20-%20Campaign%20Rules%20v3.3.1.pdf
+WG-1134,WTJ-1943,1,https://www.wtj.com/games/beta/1943/docu_rules_g.htm
+WG-1135,WTJ-1943,1,https://www.wtj.com/games/beta/1943/docu_rules_g.htm
+WG-1136,WTJ-1943,1,https://www.wtj.com/games/beta/1943/docu_rules_g.htm
+WG-1137,WTJ-1943,1,https://www.wtj.com/games/beta/1943/docu_rules_g.htm
+WG-1138,WTJ-1943,1,https://www.wtj.com/games/beta/1943/docu_rules_g.htm
+WG-1139,WTJ-1943,1,https://www.wtj.com/games/beta/1943/docu_rules_g.htm
+WG-1140,WTJ-1943,1,https://www.wtj.com/games/beta/1943/docu_rules_g.htm
+WG-1141,WTJ-1943,1,https://www.wtj.com/games/beta/1943/docu_rules_g.htm
+WG-1142,WTJ-1943,1,https://www.wtj.com/games/beta/1943/docu_rules_g.htm
+WG-1143,WTJ-1943,1,https://www.wtj.com/games/beta/1943/docu_rules_g.htm
+WG-1144,WTJ-1943,1,https://www.wtj.com/games/beta/1943/docu_rules_g.htm
+WG-1145,WTJ-1943,1,https://www.wtj.com/games/beta/1943/docu_rules_g.htm
+WG-1146,WTJ-1943-MOVE,1,https://www.wtj.com/games/1943/rule_movement.htm
+WG-1147,FNF-BFENG,1,https://www.fireandfury.com/extra/engineering.shtml
+WG-1148,FNF-BFENG,1,https://www.fireandfury.com/extra/engineering.shtml
+WG-1149,FNF-BFENG,1,https://www.fireandfury.com/extra/engineering.shtml
+WG-1149,MMP-WED,0,https://mmpgamers.com/support/gts/WED_Exclusive_Rules.pdf
+WG-1150,FNF-BFENG,1,https://www.fireandfury.com/extra/engineering.shtml
+WG-1151,FNF-BFENG,1,https://www.fireandfury.com/extra/engineering.shtml
+WG-1152,FNF-BFENG,1,https://www.fireandfury.com/extra/engineering.shtml
+WG-1153,FNF-BFENG,1,https://www.fireandfury.com/extra/engineering.shtml
+WG-1153,MMP-TCS10,0,https://www.mmpgamers.com/support/gamersarchive/tcs/TCS_v10_Rules.pdf
+WG-1154,FNF-BFENG,1,https://www.fireandfury.com/extra/engineering.shtml
+WG-1155,FNF-BFENG,1,https://www.fireandfury.com/extra/engineering.shtml
+WG-1156,FNF-BFENG,1,https://www.fireandfury.com/extra/engineering.shtml
+WG-1157,MMP-TCS10,1,https://www.mmpgamers.com/support/gamersarchive/tcs/TCS_v10_Rules.pdf
+WG-1158,MMP-TCS10,1,https://www.mmpgamers.com/support/gamersarchive/tcs/TCS_v10_Rules.pdf
+WG-1159,MMP-TCS10,1,https://www.mmpgamers.com/support/gamersarchive/tcs/TCS_v10_Rules.pdf
+WG-1160,FNF-BFENG,1,https://www.fireandfury.com/extra/engineering.shtml
+WG-1160,MMP-TCS10,0,https://www.mmpgamers.com/support/gamersarchive/tcs/TCS_v10_Rules.pdf
+WG-1161,MMP-TCS402,1,https://www.mmpgamers.com/support/gamersarchive/tcs/TCS_v402v7_Rules.pdf
+WG-1162,MMP-BC,1,https://mmpgamers.com/support/gamersarchive/bcs/BCRules.pdf
+WG-1163,MMP-WED,1,https://mmpgamers.com/support/gts/WED_Exclusive_Rules.pdf
+WG-1164,MMP-WED,1,https://mmpgamers.com/support/gts/WED_Exclusive_Rules.pdf
+WG-1165,MMP-WED,1,https://mmpgamers.com/support/gts/WED_Exclusive_Rules.pdf
+WG-1166,WAW85-SECONDARY,1,https://studylib.net/doc/28041378/coldwarcommanderrules
+WG-1167,FNF-BFENG,1,https://www.fireandfury.com/extra/engineering.shtml
+WG-1168,BILLYYANK-SECONDARY,1,https://vignette.wikia.nocookie.net/freewargamesrules/images/7/7e/By_rules.pdf/revision/latest
+WG-1169,FNF-BFENG,1,https://www.fireandfury.com/extra/engineering.shtml
+WG-1169,MMP-TCS10,0,https://www.mmpgamers.com/support/gamersarchive/tcs/TCS_v10_Rules.pdf

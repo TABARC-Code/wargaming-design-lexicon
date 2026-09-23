@@ -1,0 +1,1242 @@
+term_id,canonical_term,scope,publication_class,source_count
+WG-0001,Model,Generic / cross-system,generic design concept,4
+WG-0002,Miniature,Generic / cross-system,generic design concept,2
+WG-0003,Unit,Generic / cross-system,generic design concept,4
+WG-0004,Trooper,System-specific but reusable,game-specific label,2
+WG-0005,Character,Generic / cross-system,generic design concept,3
+WG-0006,Leader,Generic / cross-system,generic design concept,3
+WG-0007,Controller,Generic / cross-system,generic design concept,1
+WG-0008,Owner,Generic / cross-system,generic design concept,1
+WG-0009,Friendly,Generic / cross-system,generic design concept,3
+WG-0010,Enemy,Generic / cross-system,generic design concept,3
+WG-0011,Ally,Generic / cross-system,generic design concept,2
+WG-0012,Neutral,Generic / cross-system,generic design concept,1
+WG-0013,Hostile,Generic / cross-system,generic design concept,1
+WG-0014,Target,Generic / cross-system,generic design concept,3
+WG-0015,Attacker,Generic / cross-system,generic design concept,2
+WG-0016,Defender,Generic / cross-system,generic design concept,2
+WG-0017,Profile,Generic / cross-system,generic design concept,4
+WG-0018,Characteristic,Generic / cross-system,generic design concept,3
+WG-0019,Keyword,Generic / cross-system,generic design concept,5
+WG-0020,Trait,Generic / cross-system,generic design concept,1
+WG-0021,Label,Generic / cross-system,generic design concept,1
+WG-0022,Ability,Generic / cross-system,generic design concept,3
+WG-0023,Action,Generic / cross-system,generic design concept,3
+WG-0024,Effect,Generic / cross-system,generic design concept,2
+WG-0025,Cost,Generic / cross-system,generic design concept,2
+WG-0026,Requirement,Generic / cross-system,generic design concept,2
+WG-0027,Restriction,Generic / cross-system,generic design concept,1
+WG-0028,Eligible,Generic / cross-system,generic design concept,3
+WG-0029,Resolve,Generic / cross-system,generic design concept,2
+WG-0030,Declare,Generic / cross-system,generic design concept,2
+WG-0031,Trigger,Generic / cross-system,generic design concept,3
+WG-0032,Reaction,Generic / cross-system,generic design concept,3
+WG-0033,Timing,Generic / cross-system,generic design concept,2
+WG-0034,Rules priority,Generic / cross-system,generic design concept,2
+WG-0035,Game,Generic / cross-system,generic design concept,3
+WG-0036,Round,Generic / cross-system,generic design concept,3
+WG-0037,Turn,Generic / cross-system,generic design concept,3
+WG-0038,Phase,Generic / cross-system,generic design concept,2
+WG-0039,Step,Generic / cross-system,generic design concept,2
+WG-0040,Activation,Generic / cross-system,generic design concept,4
+WG-0041,Active player,Generic / cross-system,generic design concept,2
+WG-0042,Active model,Generic / cross-system,generic design concept,3
+WG-0043,Initiative,Generic / cross-system,generic design concept,3
+WG-0044,Priority,Generic / cross-system,generic design concept,2
+WG-0045,Alternating activation,Generic / cross-system,generic design concept,2
+WG-0046,Random activation,Generic / cross-system,generic design concept,2
+WG-0047,Order,Generic / cross-system,generic design concept,3
+WG-0048,Command,Generic / cross-system,generic design concept,3
+WG-0049,Pass,Generic / cross-system,generic design concept,2
+WG-0050,Ready,Generic / cross-system,generic design concept,1
+WG-0051,Exhausted,Generic / cross-system,generic design concept,1
+WG-0052,Refresh,Generic / cross-system,generic design concept,2
+WG-0053,End phase,Generic / cross-system,generic design concept,2
+WG-0054,Once per turn,Generic / cross-system,generic design concept,3
+WG-0055,Once per round,Generic / cross-system,generic design concept,3
+WG-0056,Once per game,Generic / cross-system,generic design concept,2
+WG-0057,Free action,Generic / cross-system,generic design concept,1
+WG-0058,Action limit,Generic / cross-system,generic design concept,2
+WG-0059,Action point,Generic design term,generic design concept,2
+WG-0060,Distance,Generic / cross-system,generic design concept,3
+WG-0061,Range,Generic / cross-system,generic design concept,4
+WG-0062,Range band,Generic / cross-system,generic design concept,3
+WG-0063,Short range,Generic / cross-system,generic design concept,2
+WG-0064,Long range,Generic / cross-system,generic design concept,2
+WG-0065,Extreme range,Generic/common,generic design concept,1
+WG-0066,Minimum range,Generic/common,generic design concept,2
+WG-0067,Maximum range,Generic / cross-system,generic design concept,3
+WG-0068,Half range,Generic / cross-system,generic design concept,1
+WG-0069,Within,Generic / cross-system,generic design concept,2
+WG-0070,Wholly within,Generic / cross-system,generic design concept,2
+WG-0071,Not within,Generic / cross-system,generic design concept,1
+WG-0072,Base,Generic / cross-system,generic design concept,3
+WG-0073,Base contact,Generic / cross-system,generic design concept,3
+WG-0074,Silhouette,"System-specific term, generic concept",game-specific label,1
+WG-0075,Size,Generic / cross-system,generic design concept,3
+WG-0076,Height,Generic / cross-system,generic design concept,2
+WG-0077,Facing,Generic / cross-system,generic design concept,2
+WG-0078,Front arc,Generic / cross-system,generic design concept,2
+WG-0079,Side arc,Generic / cross-system,generic design concept,1
+WG-0080,Rear arc,Generic / cross-system,generic design concept,1
+WG-0081,Firing arc,Generic/common,generic design concept,2
+WG-0082,Zone,Generic / cross-system,generic design concept,3
+WG-0083,Zone of Control,"System-specific term, generic concept",game-specific label,1
+WG-0084,Engagement Range,Generic / cross-system,generic design concept,3
+WG-0085,Combat range,Generic / cross-system,generic design concept,1
+WG-0086,Coherency,Generic / cross-system,generic design concept,3
+WG-0087,Coherency range,Generic / cross-system,generic design concept,2
+WG-0088,Centrepoint,Generic / cross-system,generic design concept,1
+WG-0089,Centreline,Generic / cross-system,generic design concept,1
+WG-0090,Table edge,Generic / cross-system,generic design concept,3
+WG-0091,Table half,Generic / cross-system,generic design concept,1
+WG-0092,Table quarter,Generic / cross-system,generic design concept,1
+WG-0093,Territory,Generic / cross-system,generic design concept,2
+WG-0094,Move,Generic / cross-system,generic design concept,5
+WG-0095,Move characteristic,Generic / cross-system,generic design concept,4
+WG-0096,Speed,Generic / cross-system,generic design concept,3
+WG-0097,Normal Move,Generic / cross-system,generic design concept,1
+WG-0098,Standard Move,Generic / cross-system,generic design concept,1
+WG-0099,Walk,Generic/common,generic design concept,1
+WG-0100,Advance,Generic / cross-system,generic design concept,3
+WG-0101,Run,Generic / cross-system,generic design concept,3
+WG-0102,Rush,Generic / cross-system,generic design concept,1
+WG-0103,Dash,Generic / cross-system,generic design concept,1
+WG-0104,Road Dash,Generic / cross-system,generic design concept,1
+WG-0105,Cross-Country Dash,Generic / cross-system,generic design concept,1
+WG-0106,Terrain Dash,Generic / cross-system,generic design concept,1
+WG-0107,Sprint,Generic/common,generic design concept,1
+WG-0108,Charge,Generic / cross-system,generic design concept,3
+WG-0109,Counter-charge,Generic / cross-system,generic design concept,2
+WG-0110,Assault,Generic / cross-system,generic design concept,2
+WG-0111,Fall Back,Generic / cross-system,generic design concept,1
+WG-0112,Retreat,Generic / cross-system,generic design concept,2
+WG-0113,Withdraw,Generic / cross-system,generic design concept,1
+WG-0114,Disengage,Generic design term,generic design concept,2
+WG-0115,Pile In,Generic / cross-system,generic design concept,1
+WG-0116,Consolidate,Generic / cross-system,generic design concept,2
+WG-0117,Reposition,Generic/common,generic design concept,1
+WG-0118,Push,Generic / cross-system,generic design concept,1
+WG-0119,Pull,Generic design term,generic design concept,1
+WG-0120,Place,Generic / cross-system,generic design concept,2
+WG-0121,Teleport,Generic design term,generic design concept,2
+WG-0122,Jump,Generic / cross-system,generic design concept,2
+WG-0123,Climb,Generic / cross-system,generic design concept,3
+WG-0124,Fly,Generic / cross-system,generic design concept,2
+WG-0125,Vault,Generic / cross-system,generic design concept,1
+WG-0126,Pivot,Generic / cross-system,generic design concept,1
+WG-0127,Reverse,Generic / cross-system,generic design concept,1
+WG-0128,Scout move,Generic / cross-system,generic design concept,2
+WG-0129,Redeploy,Generic/common,generic design concept,2
+WG-0130,Infiltrate,Generic / cross-system,generic design concept,2
+WG-0131,Deep Strike,"System-specific label, generic concept",game-specific label,1
+WG-0132,Ambush,Generic / cross-system,generic design concept,2
+WG-0133,Line of Sight,Generic / cross-system,generic design concept,3
+WG-0134,Line of Fire,Generic / cross-system,generic design concept,1
+WG-0135,Visible,Generic / cross-system,generic design concept,2
+WG-0136,Hidden,Generic / cross-system,generic design concept,1
+WG-0137,Camouflaged,Generic / cross-system,generic design concept,1
+WG-0138,Concealed,Generic / cross-system,generic design concept,2
+WG-0139,Obscured,Generic/common,generic design concept,2
+WG-0140,Cover,Generic / cross-system,generic design concept,4
+WG-0141,Partial Cover,Generic / cross-system,generic design concept,1
+WG-0142,Heavy Cover,Generic/common,generic design concept,1
+WG-0143,Ignore Cover,Generic / cross-system,generic design concept,2
+WG-0144,Targeting restriction,Generic / cross-system,generic design concept,1
+WG-0145,Closest target,Generic/common,generic design concept,2
+WG-0146,Target priority,Generic design term,generic design concept,2
+WG-0147,Lock-on,Generic/common,generic design concept,1
+WG-0148,Aim,Generic / cross-system,generic design concept,2
+WG-0149,Observation,Generic/common,generic design concept,1
+WG-0150,Spotter,Generic/common,generic design concept,2
+WG-0151,Indirect Fire,Generic / cross-system,generic design concept,2
+WG-0152,Speculative Attack,"System-specific label, generic concept",game-specific label,1
+WG-0153,Arc,Generic / cross-system,generic design concept,2
+WG-0154,Attack,Generic / cross-system,generic design concept,4
+WG-0155,Melee attack,Generic / cross-system,generic design concept,3
+WG-0156,Ranged attack,Generic / cross-system,generic design concept,3
+WG-0157,Shoot,Generic / cross-system,generic design concept,3
+WG-0158,Fire,Generic / cross-system,generic design concept,2
+WG-0159,Fight,Generic / cross-system,generic design concept,2
+WG-0160,Attack pool,Generic / cross-system,generic design concept,1
+WG-0161,Defence pool,Generic / cross-system,generic design concept,2
+WG-0162,Attacks characteristic,Generic / cross-system,generic design concept,2
+WG-0163,Rate of Fire,Generic / cross-system,generic design concept,1
+WG-0164,Burst,Generic / cross-system,generic design concept,1
+WG-0165,Weapon range,Generic / cross-system,generic design concept,3
+WG-0166,Accuracy,Generic/common,generic design concept,1
+WG-0167,Ballistic Skill,Generic / cross-system,generic design concept,2
+WG-0168,Weapon Skill,Generic / cross-system,generic design concept,1
+WG-0169,Melee,Generic / cross-system,generic design concept,1
+WG-0170,Ranged,Generic / cross-system,generic design concept,1
+WG-0171,Quality,Generic / cross-system,generic design concept,1
+WG-0172,Strength,Generic / cross-system,generic design concept,2
+WG-0173,Power,Generic/common,generic design concept,1
+WG-0174,Armour Penetration,Generic / cross-system,generic design concept,2
+WG-0175,Rend,Generic / cross-system,generic design concept,2
+WG-0176,Anti-Tank,Generic / cross-system,generic design concept,1
+WG-0177,Firepower,Generic / cross-system,generic design concept,1
+WG-0178,Damage,Generic / cross-system,generic design concept,3
+WG-0179,Damage characteristic,Generic / cross-system,generic design concept,2
+WG-0180,Hit roll,Generic / cross-system,generic design concept,2
+WG-0181,Wound roll,Generic / cross-system,generic design concept,1
+WG-0182,Attack roll,Generic/common,generic design concept,2
+WG-0183,Saving throw,Generic / cross-system,generic design concept,3
+WG-0184,Save,Generic / cross-system,generic design concept,3
+WG-0185,Defence,Generic / cross-system,generic design concept,2
+WG-0186,Armour,Generic / cross-system,generic design concept,3
+WG-0187,Toughness,Generic / cross-system,generic design concept,2
+WG-0188,Health,Generic / cross-system,generic design concept,2
+WG-0189,Wounds,Generic / cross-system,generic design concept,2
+WG-0190,Stamina,Generic / cross-system,generic design concept,1
+WG-0191,Structure,Generic / cross-system,generic design concept,1
+WG-0192,Critical Hit,Generic / cross-system,generic design concept,2
+WG-0193,Critical Wound,Generic / cross-system,generic design concept,1
+WG-0194,Automatic hit,Generic / cross-system,generic design concept,2
+WG-0195,Automatic wound,Generic / cross-system,generic design concept,1
+WG-0196,Reroll,Generic / cross-system,generic design concept,3
+WG-0197,Modifier,Generic / cross-system,generic design concept,3
+WG-0198,Unmodified roll,Generic / cross-system,generic design concept,2
+WG-0199,Dice pool,Generic / cross-system,generic design concept,2
+WG-0200,Area attack,Generic / cross-system,generic design concept,2
+WG-0201,Blast,Generic / cross-system,generic design concept,2
+WG-0202,Blast radius,Generic design term,generic design concept,2
+WG-0203,AOE,Generic/common,generic design concept,2
+WG-0204,Template,Generic / cross-system,generic design concept,1
+WG-0205,Direct Template,"System-specific term, generic concept",game-specific label,1
+WG-0206,Impact Template,"System-specific term, generic concept",game-specific label,1
+WG-0207,Beam,Generic / cross-system,generic design concept,1
+WG-0208,Spray,Generic/common,generic design concept,1
+WG-0209,Pulse,Generic/common,generic design concept,1
+WG-0210,Aura,Generic / cross-system,generic design concept,1
+WG-0211,Scatter,Generic/common,generic design concept,2
+WG-0212,Deviation,Generic/common,generic design concept,2
+WG-0213,Damage point,Generic / cross-system,generic design concept,1
+WG-0214,Damage pool,Generic / cross-system,generic design concept,1
+WG-0215,Allocate damage,Generic / cross-system,generic design concept,2
+WG-0216,Wounded,Generic / cross-system,generic design concept,2
+WG-0217,Damaged,Generic / cross-system,generic design concept,1
+WG-0218,Injured,Generic / cross-system,generic design concept,1
+WG-0219,Destroyed,Generic / cross-system,generic design concept,2
+WG-0220,Defeated,Generic / cross-system,generic design concept,1
+WG-0221,Slain,Generic / cross-system,generic design concept,1
+WG-0222,KO,Generic / cross-system,generic design concept,1
+WG-0223,Dazed,Generic / cross-system,generic design concept,1
+WG-0224,Mortal damage,Generic / cross-system,generic design concept,2
+WG-0225,Damage reduction,Generic/common,generic design concept,1
+WG-0226,Damage prevention,Generic / cross-system,generic design concept,3
+WG-0227,Ward,"System-specific label, generic concept",game-specific label,1
+WG-0228,Feel No Pain,"System-specific label, generic concept",game-specific label,1
+WG-0229,Regeneration,Generic / cross-system,generic design concept,1
+WG-0230,Heal,Generic / cross-system,generic design concept,2
+WG-0231,Repair,Generic/common,generic design concept,1
+WG-0232,Morale,Generic / cross-system,generic design concept,1
+WG-0233,Nerve,Generic / cross-system,generic design concept,1
+WG-0234,Resolve stat,Generic/common,generic design concept,1
+WG-0235,Leadership,Generic / cross-system,generic design concept,1
+WG-0236,Suppression,Generic / cross-system,generic design concept,1
+WG-0237,Pin,Generic / cross-system,generic design concept,2
+WG-0238,Pinned,Generic / cross-system,generic design concept,1
+WG-0239,Battle-shocked,Generic / cross-system,generic design concept,1
+WG-0240,Panicked,Generic / cross-system,generic design concept,2
+WG-0241,Rally,Generic / cross-system,generic design concept,2
+WG-0242,Wavered,Generic / cross-system,generic design concept,1
+WG-0243,Routed,Generic / cross-system,generic design concept,2
+WG-0244,Stunned,Generic / cross-system,generic design concept,2
+WG-0245,Staggered,Generic / cross-system,generic design concept,2
+WG-0246,Immobilised,Generic / cross-system,generic design concept,2
+WG-0247,Prone,Generic / cross-system,generic design concept,1
+WG-0248,Engaged,Generic / cross-system,generic design concept,3
+WG-0249,Poison,Generic / cross-system,generic design concept,3
+WG-0250,Burning,Generic/common,generic design concept,1
+WG-0251,Bleeding,Generic design term,generic design concept,1
+WG-0252,Terrain,Generic / cross-system,generic design concept,4
+WG-0253,Terrain feature,Generic / cross-system,generic design concept,2
+WG-0254,Area terrain,Generic / cross-system,generic design concept,2
+WG-0255,Scatter terrain,Generic / cross-system,generic design concept,1
+WG-0256,Obstacle,Generic / cross-system,generic design concept,2
+WG-0257,Difficult terrain,Generic / cross-system,generic design concept,3
+WG-0258,Severe terrain,Generic/common,generic design concept,1
+WG-0259,Impassable,Generic / cross-system,generic design concept,1
+WG-0260,Hazardous,Generic / cross-system,generic design concept,1
+WG-0261,Open ground,Generic/common,generic design concept,2
+WG-0262,Road,Generic / cross-system,generic design concept,1
+WG-0263,Elevation,Generic/common,generic design concept,2
+WG-0264,High ground,Generic design term,generic design concept,1
+WG-0265,Building,Generic / cross-system,generic design concept,1
+WG-0266,Doorway,Generic / cross-system,generic design concept,1
+WG-0267,Access Width,"System-specific term, generic concept",game-specific label,1
+WG-0268,Destructible terrain,Generic / cross-system,generic design concept,1
+WG-0269,Cover terrain,Generic / cross-system,generic design concept,3
+WG-0270,Blocking terrain,Generic / cross-system,generic design concept,2
+WG-0271,Concealing terrain,Generic / cross-system,generic design concept,1
+WG-0272,Objective,Generic / cross-system,generic design concept,4
+WG-0273,Objective marker,Generic / cross-system,generic design concept,2
+WG-0274,Objective token,Generic / cross-system,generic design concept,2
+WG-0275,Secure objective,Generic / cross-system,generic design concept,1
+WG-0276,Extract objective,Generic / cross-system,generic design concept,1
+WG-0277,Control,Generic / cross-system,generic design concept,3
+WG-0278,Contest,Generic / cross-system,generic design concept,2
+WG-0279,Control score,Generic / cross-system,generic design concept,2
+WG-0280,Objective Control,Generic / cross-system,generic design concept,2
+WG-0281,Claim,Generic / cross-system,generic design concept,1
+WG-0282,Secure,Generic / cross-system,generic design concept,2
+WG-0283,Interact,Generic / cross-system,generic design concept,2
+WG-0284,Score,Generic / cross-system,generic design concept,3
+WG-0285,Victory Point,Generic / cross-system,generic design concept,4
+WG-0286,Secondary objective,Generic / cross-system,generic design concept,1
+WG-0287,Primary objective,Generic/common,generic design concept,2
+WG-0288,Scenario,Generic / cross-system,generic design concept,2
+WG-0289,Mission,Generic / cross-system,generic design concept,2
+WG-0290,Battleplan,"System-specific label, generic concept",game-specific label,1
+WG-0291,Encounter,"System-specific label, generic concept",game-specific label,1
+WG-0292,Victory condition,Generic / cross-system,generic design concept,3
+WG-0293,Tiebreaker,Generic/common,generic design concept,2
+WG-0294,Deployment,Generic / cross-system,generic design concept,3
+WG-0295,Deployment zone,Generic / cross-system,generic design concept,2
+WG-0296,Set up,Generic / cross-system,generic design concept,2
+WG-0297,Reserve,Generic / cross-system,generic design concept,3
+WG-0298,Reinforcement,Generic/common,generic design concept,2
+WG-0299,Undeployed,Generic / cross-system,generic design concept,1
+WG-0300,Army,Generic / cross-system,generic design concept,3
+WG-0301,Army list,Generic / cross-system,generic design concept,1
+WG-0302,Roster,Generic / cross-system,generic design concept,1
+WG-0303,Points,Generic / cross-system,generic design concept,2
+WG-0304,Cost value,Generic / cross-system,generic design concept,3
+WG-0305,Threat,"System-specific label, generic concept",game-specific label,1
+WG-0306,Faction,Generic / cross-system,generic design concept,3
+WG-0307,Affiliation,Generic / cross-system,generic design concept,2
+WG-0308,Unit type,Generic / cross-system,generic design concept,2
+WG-0309,Rank,Generic / cross-system,generic design concept,1
+WG-0310,Role,Generic design term,generic design concept,2
+WG-0311,Upgrade,Generic / cross-system,generic design concept,2
+WG-0312,Equipment,Generic / cross-system,generic design concept,2
+WG-0313,Loadout,Generic/common,generic design concept,2
+WG-0314,Weapon,Generic / cross-system,generic design concept,3
+WG-0315,Unique,Generic / cross-system,generic design concept,2
+WG-0316,Limited,Generic / cross-system,generic design concept,2
+WG-0317,Attachment,Generic / cross-system,generic design concept,1
+WG-0318,Bodyguard,Generic / cross-system,generic design concept,1
+WG-0319,Transport,Generic / cross-system,generic design concept,2
+WG-0320,Embarked,Generic / cross-system,generic design concept,2
+WG-0321,Disembark,Generic / cross-system,generic design concept,2
+WG-0322,Command point,Generic / cross-system,generic design concept,2
+WG-0323,Power resource,Generic / cross-system,generic design concept,1
+WG-0324,Token,Generic / cross-system,generic design concept,3
+WG-0325,Marker,Generic / cross-system,generic design concept,2
+WG-0326,State,Generic / cross-system,generic design concept,1
+WG-0327,Roll,Generic / cross-system,generic design concept,3
+WG-0328,Test,Generic/common,generic design concept,1
+WG-0329,Order Test,Generic / cross-system,generic design concept,2
+WG-0330,Target Number,Generic / cross-system,generic design concept,1
+WG-0331,Opposed roll,Generic / cross-system,generic design concept,2
+WG-0332,Simple duel,"System-specific label, generic concept",game-specific label,1
+WG-0333,Opposed duel,"System-specific label, generic concept",game-specific label,1
+WG-0334,Face-to-face roll,"System-specific label, generic concept",game-specific label,1
+WG-0335,Success,Generic / cross-system,generic design concept,2
+WG-0336,Failure,Generic / cross-system,generic design concept,2
+WG-0337,Margin of success,Generic design term,generic design concept,1
+WG-0338,Raise,"System-specific label, generic concept",game-specific label,1
+WG-0339,D6,Generic / cross-system,generic design concept,2
+WG-0340,D3,Generic / cross-system,generic design concept,2
+WG-0341,2D6,Generic / cross-system,generic design concept,2
+WG-0342,Die result,Generic / cross-system,generic design concept,2
+WG-0343,Success symbol,Generic / cross-system,generic design concept,2
+WG-0344,Critical,Generic / cross-system,generic design concept,3
+WG-0345,Surge,"System-specific label, generic concept",game-specific label,1
+WG-0346,Block,Generic / cross-system,generic design concept,1
+WG-0347,Roll-off,Generic/common,generic design concept,1
+WG-0348,Random table,Generic design term,generic design concept,1
+WG-0349,Blast X,Generic/common,generic design concept,2
+WG-0350,Deadly X,Generic/common,generic design concept,1
+WG-0351,Impact X,Generic / cross-system,generic design concept,1
+WG-0352,Reliable,Generic / cross-system,generic design concept,1
+WG-0353,Rending,Generic / cross-system,generic design concept,1
+WG-0354,Poison weapon,Generic / cross-system,generic design concept,3
+WG-0355,Sniper,Generic / cross-system,generic design concept,1
+WG-0356,Stealth,Generic / cross-system,generic design concept,2
+WG-0357,Slow,Generic / cross-system,generic design concept,1
+WG-0358,Strider,Generic / cross-system,generic design concept,1
+WG-0359,Tough X,Generic / cross-system,generic design concept,1
+WG-0360,Scout,Generic / cross-system,generic design concept,2
+WG-0361,Assault weapon,"System-specific label, generic concept",game-specific label,1
+WG-0362,Heavy weapon,Generic / cross-system,generic design concept,2
+WG-0363,Pistol,Generic / cross-system,generic design concept,1
+WG-0364,Rapid Fire,Generic / cross-system,generic design concept,1
+WG-0365,Sustained Hits,Generic / cross-system,generic design concept,1
+WG-0366,Lethal Hits,Generic / cross-system,generic design concept,1
+WG-0367,Twin-linked,"System-specific label, generic concept",game-specific label,1
+WG-0368,Limited-use,Generic / cross-system,generic design concept,2
+WG-0369,Disposable,"System-specific label, generic concept",game-specific label,1
+WG-0370,Suppressive Fire,Generic / cross-system,generic design concept,1
+WG-0371,Overwatch,Generic/common,generic design concept,2
+WG-0372,Opportunity fire,Generic / cross-system,generic design concept,1
+WG-0373,Covering fire,Generic design term,generic design concept,2
+WG-0374,Area denial,Generic design term,generic design concept,2
+WG-0375,Remain Stationary,"System-specific label, generic concept",game-specific label,1
+WG-0376,Torrent,"System-specific label, generic concept",game-specific label,1
+WG-0377,Melta X,System-specific,game-specific label,1
+WG-0378,Anti-X Y+,System-specific but reusable pattern,game-specific label,1
+WG-0379,Devastating Wounds,System-specific,game-specific label,1
+WG-0380,Cleave X,System-specific,game-specific label,1
+WG-0381,Down,System-specific,game-specific label,1
+WG-0382,Penetration,"System-specific label, generic concept",game-specific label,1
+WG-0383,Close Quarters Combat,Generic term with system-specific procedures,game-specific label,1
+WG-0384,High Explosive,Generic military term used as rules vocabulary,generic design concept,1
+WG-0385,Submachine Gun,Generic weapon class,generic design concept,1
+WG-0386,Light Machine Gun,Generic weapon class,generic design concept,1
+WG-0387,Medium Machine Gun,Generic weapon class,generic design concept,1
+WG-0388,Heavy Machine Gun,Generic weapon class,generic design concept,1
+WG-0389,Control Range,"System-specific label, generic concept",game-specific label,1
+WG-0390,Battlegroup,"System-specific label, reusable concept",game-specific label,1
+WG-0391,Focus Resource,System-specific,game-specific label,1
+WG-0392,Fury Resource,System-specific,game-specific label,1
+WG-0393,Power Up,System-specific,game-specific label,1
+WG-0394,Upkeep,Generic concept,generic design concept,1
+WG-0395,Boost Roll,Generic concept with system-specific implementation,game-specific label,1
+WG-0396,Knockdown,Generic concept,generic design concept,1
+WG-0397,Basic Attack,Generic concept,generic design concept,1
+WG-0398,Arcane Attack,"System-specific label, generic concept",game-specific label,1
+WG-0399,Maintenance Phase,Generic concept,generic design concept,1
+WG-0400,Control Phase,Generic concept,generic design concept,1
+WG-0401,Regiment,Generic military term used as rules vocabulary,generic design concept,1
+WG-0402,Stand,Generic,generic design concept,1
+WG-0403,March,Generic term with system-specific procedure,game-specific label,1
+WG-0404,Wheel,Generic,generic design concept,1
+WG-0405,Clash,System-specific,game-specific label,1
+WG-0406,Volley,Generic term with system-specific procedure,game-specific label,1
+WG-0407,Take Aim,Generic named action,generic design concept,1
+WG-0408,Impact Attack,Generic concept,generic design concept,1
+WG-0409,Broken,Generic,generic design concept,1
+WG-0410,Guts Roll,"System-specific label, generic concept",game-specific label,1
+WG-0411,Barrel Roll,"System-specific label, generic vehicle-movement concept",game-specific label,1
+WG-0412,Boost Manoeuvre,"System-specific label, generic concept",game-specific label,1
+WG-0413,Lock,Generic concept,generic design concept,1
+WG-0414,Overlap,Generic concept,generic design concept,1
+WG-0415,Ion,"System-specific label, generic concept",game-specific label,1
+WG-0416,Tractor,"System-specific label, generic concept",game-specific label,1
+WG-0417,After-Action Report,Hobby / design vocabulary,review,1
+WG-0418,Artificial Intelligence,Generic,generic design concept,1
+WG-0419,Area Control,Generic,generic design concept,1
+WG-0420,Area Impulse,Generic,generic design concept,1
+WG-0421,Area Movement,Generic,generic design concept,1
+WG-0422,Asymmetric Game,Generic,generic design concept,1
+WG-0423,Average Dice,Generic,generic design concept,1
+WG-0424,Block Game,Generic,generic design concept,1
+WG-0425,Campaign,Generic,generic design concept,1
+WG-0426,Card-Driven Game,Generic,generic design concept,1
+WG-0427,Chit,Generic,generic design concept,1
+WG-0428,Chit Pull,Generic,generic design concept,1
+WG-0429,Chrome,Hobby / design vocabulary,review,2
+WG-0430,COIN Game,Generic / family label,generic design concept,1
+WG-0431,Combat Results Table,Generic,generic design concept,2
+WG-0432,Combat Ratio,Generic,generic design concept,2
+WG-0433,Column Shift,Generic,generic design concept,2
+WG-0434,Die Roll Modifier,Generic,generic design concept,2
+WG-0435,Command Control,Generic,generic design concept,1
+WG-0436,Command Level,Generic,generic design concept,1
+WG-0437,Counter,Generic,generic design concept,1
+WG-0438,Dummy Counter,Generic,generic design concept,2
+WG-0439,Fog of War,Generic,generic design concept,1
+WG-0440,Ground Scale,Generic,generic design concept,2
+WG-0441,Hex,Generic,generic design concept,2
+WG-0442,Hex-and-Counter,Generic,generic design concept,2
+WG-0443,Interpenetration,Generic,generic design concept,1
+WG-0444,Point-to-Point Movement,Generic,generic design concept,1
+WG-0445,Sequence of Play,Generic,generic design concept,1
+WG-0446,I-go-You-go,Generic,generic design concept,1
+WG-0447,Stacking,Generic,generic design concept,1
+WG-0448,Stacking Limit,Generic,generic design concept,1
+WG-0449,Overstack,Generic,generic design concept,1
+WG-0450,Movement Tray,Generic,generic design concept,1
+WG-0451,Movement Allowance,Generic,generic design concept,1
+WG-0452,Entry Cost,Generic,generic design concept,1
+WG-0453,Exit Cost,Generic,generic design concept,1
+WG-0454,Terrain Effects Chart,Generic,generic design concept,1
+WG-0455,Direct Fire,Generic,generic design concept,1
+WG-0456,Disrupted,Generic,generic design concept,2
+WG-0457,Diversionary Attack,Generic,generic design concept,1
+WG-0458,Overrun,Generic,generic design concept,1
+WG-0459,Step Loss,Generic,generic design concept,2
+WG-0460,Supply,Generic,generic design concept,1
+WG-0461,Line of Communications,Generic,generic design concept,1
+WG-0462,Order of Battle,Generic,generic design concept,1
+WG-0463,Percentile Dice,Generic,generic design concept,1
+WG-0464,D66,Generic,generic design concept,1
+WG-0465,Tactical Scale,Generic,generic design concept,1
+WG-0466,Operational Scale,Generic,generic design concept,1
+WG-0467,Strategic Scale,Generic,generic design concept,1
+WG-0468,Grand Strategic Scale,Generic,generic design concept,1
+WG-0469,Firepower Ratio,Generic,generic design concept,1
+WG-0470,Target Movement Modifier,BattleTech-specific,review,1
+WG-0471,Point Value,"System-specific label, generic concept",game-specific label,1
+WG-0472,Overheat Value,System-specific,game-specific label,1
+WG-0473,Heat Level,Generic mech-game concept,generic design concept,1
+WG-0474,Heat Scale,Generic mech-game concept,generic design concept,1
+WG-0475,Shutdown,Generic mech-game concept,generic design concept,1
+WG-0476,Cooling Down,Generic mech-game concept,generic design concept,1
+WG-0477,Jumping Movement,"System-specific label, generic concept",game-specific label,1
+WG-0478,Physical Attack,Generic mech-game concept,generic design concept,1
+WG-0479,Death From Above,System-specific,game-specific label,1
+WG-0480,Engine Hit,Generic vehicle/mech concept,generic design concept,1
+WG-0481,Fire Control Hit,"System-specific label, generic concept",game-specific label,1
+WG-0482,Movement System Hit,Generic mech/vehicle concept,generic design concept,1
+WG-0483,Weapon System Hit,Generic vehicle/mech concept,generic design concept,1
+WG-0484,Blaze Away,System-specific,game-specific label,1
+WG-0485,Assault Reaction,Generic concept with system-specific menu,game-specific label,1
+WG-0486,Controlled Fire,System-specific,game-specific label,1
+WG-0487,Evade Reaction,Generic concept,generic design concept,1
+WG-0488,Hindered Charge,Generic,generic design concept,1
+WG-0489,Failed Assault,Generic concept,generic design concept,1
+WG-0490,Directly Away,Generic rules-language concept,generic design concept,1
+WG-0491,Advanced Training,System-specific,game-specific label,1
+WG-0492,Anti-Grav,Generic sci-fi concept,generic design concept,1
+WG-0493,Bulky,Generic,generic design concept,1
+WG-0494,Defensible,System-specific,game-specific label,1
+WG-0495,Inspiring,Generic,generic design concept,1
+WG-0496,Resilient X,System-specific pattern,game-specific label,1
+WG-0497,Small Unit,Generic concept,generic design concept,1
+WG-0498,Tactician X,System-specific,game-specific label,1
+WG-0499,Targeting Systems,Generic sci-fi concept,generic design concept,1
+WG-0500,Vicious,Generic label with system-specific implementation,game-specific label,1
+WG-0501,Weight of Fire X,System-specific,game-specific label,1
+WG-0502,Pinning Weapon,Generic,generic design concept,1
+WG-0503,Command Dice Pool,Generic concept,generic design concept,1
+WG-0504,Faction Order,Generic concept,generic design concept,1
+WG-0505,Boosted Ability,Generic concept,generic design concept,1
+WG-0506,Rift Die,System-specific,game-specific label,1
+WG-0507,Active Rift Die,System-specific,game-specific label,1
+WG-0508,Surging Rift Die,System-specific,game-specific label,1
+WG-0509,Exhausted Rift Die,System-specific,game-specific label,1
+WG-0510,Rift Unit,System-specific,game-specific label,1
+WG-0511,Guts,System-specific,game-specific label,1
+WG-0512,Rift Mastery,System-specific,game-specific label,1
+WG-0513,Luck,Generic concept,generic design concept,1
+WG-0514,Heroic Stat,System-specific concept,game-specific label,1
+WG-0515,Corrosive X,System-specific,game-specific label,1
+WG-0516,Crush,System-specific,game-specific label,1
+WG-0517,Gravity Pulse,System-specific,game-specific label,1
+WG-0518,Hyper Velocity,System-specific,game-specific label,1
+WG-0519,Shockwave,Generic label with system-specific procedure,game-specific label,1
+WG-0520,Tesla Arc X,System-specific,game-specific label,1
+WG-0521,Overload Mode,Generic concept,generic design concept,1
+WG-0522,Massive Damage,Generic concept,generic design concept,1
+WG-0523,Top Armour,Generic vehicle concept,generic design concept,2
+WG-0524,Advantage Level,"System-specific label, generic aerial concept",game-specific label,2
+WG-0525,Advantaged State,System-specific,game-specific label,1
+WG-0526,Neutral Advantage State,System-specific,game-specific label,2
+WG-0527,Disadvantaged State,System-specific,game-specific label,2
+WG-0528,Burn Advantage,System-specific,game-specific label,1
+WG-0529,Outmanoeuvre,"System-specific label, generic concept",game-specific label,2
+WG-0530,Climb Action,Generic aerial concept,generic design concept,1
+WG-0531,Dive Action,Generic aerial concept,generic design concept,1
+WG-0532,Tailing,Generic aerial concept,generic design concept,2
+WG-0533,Head-On Attack,Generic aerial concept,generic design concept,1
+WG-0534,Deflection Shot,Generic aerial concept,generic design concept,1
+WG-0535,Dodge,Generic,generic design concept,1
+WG-0536,Boom Chit,System-specific,game-specific label,1
+WG-0537,Pilot Skill,Generic aerial concept,generic design concept,1
+WG-0538,Aircraft Agility,Generic aerial concept,generic design concept,2
+WG-0539,Aircraft Firepower,Generic aerial concept,generic design concept,1
+WG-0540,Turret Firepower,Generic aerial concept,generic design concept,1
+WG-0541,Zoom Marker,System-specific,game-specific label,1
+WG-0542,Multi-Engine Aircraft,Generic aerial classification,generic design concept,1
+WG-0543,Break Off,Generic,generic design concept,1
+WG-0544,Action Deck,Generic card-driven concept,generic design concept,1
+WG-0545,Doctrine Card,Generic concept,generic design concept,1
+WG-0546,Flank Speed,Generic naval term,generic design concept,1
+WG-0547,Hull,Generic,generic design concept,1
+WG-0548,Crew Quality,Generic,generic design concept,1
+WG-0549,Crew Quality Check,Generic naval concept,generic design concept,1
+WG-0550,Critical Level,Generic naval/vehicle concept,generic design concept,1
+WG-0551,Devastating Critical,Generic concept,generic design concept,1
+WG-0552,Beyond the Horizon,Generic naval concept,generic design concept,1
+WG-0553,Fan Salvo,Generic,generic design concept,1
+WG-0554,Attack Dice,Generic,generic design concept,1
+WG-0555,Damage Dice,Generic naval concept,generic design concept,1
+WG-0556,Point-Blank Range,Generic,generic design concept,1
+WG-0557,AA Battery,Generic,generic design concept,1
+WG-0558,Depth Charge,Generic,generic design concept,1
+WG-0559,Dual Purpose,Generic,generic design concept,1
+WG-0560,One-Shot,Generic,generic design concept,1
+WG-0561,Wakeless,"System-specific label, generic concept",game-specific label,1
+WG-0562,Restricted,Generic,generic design concept,1
+WG-0563,Local X,System-specific,game-specific label,1
+WG-0564,Radar,Generic,generic design concept,1
+WG-0565,Torpedo Belt,Generic naval concept,generic design concept,1
+WG-0566,Refit,Generic historical concept,historical/common terminology,1
+WG-0567,Slow Speed,Generic naval concept,generic design concept,1
+WG-0568,Combat Speed,Generic naval concept,generic design concept,1
+WG-0569,Full Speed,Generic,generic design concept,1
+WG-0570,Wake Marker,"System-specific label, generic concept",game-specific label,1
+WG-0571,Collision,Generic,generic design concept,1
+WG-0572,Maneuver Card,Generic programmed-movement concept,generic design concept,2
+WG-0573,Ship Log,System-specific,game-specific label,1
+WG-0574,Time to React,"System-specific label, generic concept",game-specific label,1
+WG-0575,Veer,System-specific,game-specific label,1
+WG-0576,Taken Aback,Generic Age-of-Sail concept,generic design concept,1
+WG-0577,Raking Fire,Generic historical naval concept,historical/common terminology,1
+WG-0578,Broadside,Generic naval term,generic design concept,1
+WG-0579,Reloading Phase,Generic concept,generic design concept,1
+WG-0580,Ammunition Type,Generic,generic design concept,1
+WG-0581,Ball Shot,Generic historical term,historical/common terminology,1
+WG-0582,Chain Shot,Generic historical term,historical/common terminology,1
+WG-0583,Grapeshot,Generic historical term,historical/common terminology,1
+WG-0584,Sail Status,Generic historical concept,historical/common terminology,1
+WG-0585,Backing Sails,Generic historical concept,historical/common terminology,1
+WG-0586,Struck Sails,Generic historical concept,historical/common terminology,1
+WG-0587,Entanglement,Generic,generic design concept,1
+WG-0588,Altitude,Generic aerial concept,generic design concept,2
+WG-0589,Climb Rate,Generic aerial concept,generic design concept,1
+WG-0590,Maximum Altitude,Generic,generic design concept,1
+WG-0591,Damage Card,Generic concept,generic design concept,1
+WG-0592,Special Damage,Generic,generic design concept,1
+WG-0593,Ace Ability,Generic,generic design concept,2
+WG-0594,Airplane Console,"System-specific label, generic concept",game-specific label,1
+WG-0595,Altitude Stand,Generic aerial component,generic design concept,1
+WG-0596,Tactical Move,Generic modern-armour concept,generic design concept,1
+WG-0597,Cross,"System-specific label, generic concept",game-specific label,1
+WG-0598,Cross Check,"System-specific label, generic concept",game-specific label,2
+WG-0599,Halted Rate of Fire,Generic concept,generic design concept,1
+WG-0600,Moving Rate of Fire,Generic concept,generic design concept,1
+WG-0601,Courage,Generic military concept,generic design concept,1
+WG-0602,Counterattack Rating,"System-specific label, generic concept",game-specific label,1
+WG-0603,Remount,Generic armour-game concept,generic design concept,1
+WG-0604,Motivation,Generic concept,generic design concept,1
+WG-0605,Is Hit On,Generic design concept,generic design concept,1
+WG-0606,Front Armour,Generic,generic design concept,1
+WG-0607,Side Armour,Generic,generic design concept,1
+WG-0608,Spearhead Deployment,"System-specific label, generic concept",game-specific label,1
+WG-0609,Formation,Generic with multiple senses,generic design concept,1
+WG-0610,Formation HQ,Generic,generic design concept,1
+WG-0611,Good Spirits,System-specific,game-specific label,1
+WG-0612,Last Stand,Generic concept,generic design concept,1
+WG-0613,Blitz Move,System-specific,game-specific label,1
+WG-0614,Dig In,Generic,generic design concept,1
+WG-0615,Gone to Ground,"System-specific label, generic concept",game-specific label,1
+WG-0616,Range In,Generic,generic design concept,1
+WG-0617,Observer Team,Generic military concept,generic design concept,1
+WG-0618,Artillery Bombardment,Generic,generic design concept,1
+WG-0619,Smoke Bombardment,Generic,generic design concept,1
+WG-0620,Minefield,Generic,generic design concept,1
+WG-0621,Mine Clearing,Generic,generic design concept,1
+WG-0622,Deep Reserves,"System-specific label, generic concept",game-specific label,1
+WG-0623,Scattered Reserves,Generic concept,generic design concept,1
+WG-0624,Delayed Reserves,Generic,generic design concept,1
+WG-0625,Meeting Engagement,Generic,generic design concept,1
+WG-0626,Preplanned Artillery Target,Generic,generic design concept,1
+WG-0627,HEAT Ammunition,Generic military term,generic design concept,1
+WG-0628,Laser Rangefinder,Generic military term,generic design concept,1
+WG-0629,Stabiliser,Generic,generic design concept,1
+WG-0630,Thermal Imaging,Generic,generic design concept,1
+WG-0631,Bailed Out,Generic armour-game concept,generic design concept,1
+WG-0632,Initiative Marker,"System-specific label, generic concept",game-specific label,1
+WG-0633,Radio Check,Generic,generic design concept,1
+WG-0634,Buttoned Up,Generic armour term,generic design concept,1
+WG-0635,Unbuttoned,Generic armour term,generic design concept,1
+WG-0636,Movement Order,Generic vehicle concept,generic design concept,1
+WG-0637,Forward Order,System-specific,game-specific label,1
+WG-0638,Reverse Order,System-specific,game-specific label,1
+WG-0639,Halt Order,System-specific,game-specific label,1
+WG-0640,Tactical Action,Generic concept,generic design concept,1
+WG-0641,Movement Action,Generic,generic design concept,1
+WG-0642,Crew Test,Generic,generic design concept,1
+WG-0643,Scoot,System-specific,game-specific label,1
+WG-0644,Stamina Threshold,"System-specific label, generic concept",game-specific label,1
+WG-0645,Shaken,Generic,generic design concept,1
+WG-0646,Combat Break Test,Generic concept,generic design concept,1
+WG-0647,Morale Save,System-specific semantic use,game-specific label,1
+WG-0648,Give Ground,Generic,generic design concept,1
+WG-0649,Give Ground in Good Order,Generic concept,generic design concept,1
+WG-0650,Disordered,Generic,generic design concept,1
+WG-0651,Combat Support,Generic mass-battle concept,generic design concept,1
+WG-0652,Support Dice,Generic,generic design concept,1
+WG-0653,Clash Value,"System-specific label, generic concept",game-specific label,1
+WG-0654,Sustained Value,"System-specific label, generic concept",game-specific label,1
+WG-0655,Follow Up,Generic,generic design concept,1
+WG-0656,Open Order,Generic historical concept,historical/common terminology,1
+WG-0657,Pike Block,Generic historical term,historical/common terminology,1
+WG-0658,Division Break,Generic,generic design concept,1
+WG-0659,Resist,Generic concept,generic design concept,1
+WG-0660,Strike Value,Generic concept,generic design concept,1
+WG-0661,Recovery Test,Generic,generic design concept,1
+WG-0662,Exchange of Missiles,"System-specific label, generic concept",game-specific label,1
+WG-0663,Berserk,Generic,generic design concept,1
+WG-0664,Blundering,"System-specific label, generic concept",game-specific label,1
+WG-0665,Challenge,Generic,generic design concept,1
+WG-0666,Choking,"System-specific label, generic concept",game-specific label,1
+WG-0667,Command Stat,Generic,generic design concept,2
+WG-0668,Dread,Generic fantasy concept,generic design concept,1
+WG-0669,Disciplined,Generic,generic design concept,1
+WG-0670,Ferocious Charge,Generic,generic design concept,1
+WG-0671,Frenzied Charge,Generic,generic design concept,1
+WG-0672,Follow,"System-specific label, generic concept",game-specific label,1
+WG-0673,Monstrosity Dice,"System-specific label, generic concept",game-specific label,1
+WG-0674,Overhead Fire,Generic,generic design concept,2
+WG-0675,Pavise,Generic historical concept,historical/common terminology,1
+WG-0676,Rapid Sprint,System-specific,game-specific label,1
+WG-0677,Shieldwall,Generic,generic design concept,1
+WG-0678,Stampede,Generic,generic design concept,1
+WG-0679,Stubborn,Generic,generic design concept,1
+WG-0680,Terror,Generic fantasy concept,generic design concept,1
+WG-0681,Unstoppable Shot,Generic concept,generic design concept,1
+WG-0682,Venomous,Generic,generic design concept,1
+WG-0683,Zealous,Generic,generic design concept,1
+WG-0684,Woodsman,Generic,generic design concept,1
+WG-0685,Zombie Master,System-specific,game-specific label,1
+WG-0686,Caster X,Generic fantasy concept,generic design concept,2
+WG-0687,Fear X,Generic fantasy concept,generic design concept,1
+WG-0688,Fearless,Generic,generic design concept,1
+WG-0689,Furious,Generic,generic design concept,1
+WG-0690,Lance,Generic,generic design concept,1
+WG-0691,Relentless,Generic,generic design concept,1
+WG-0692,Entrenched,Generic,generic design concept,1
+WG-0693,Aim Token,"System-specific label, generic concept",game-specific label,1
+WG-0694,Dodge Token,"System-specific label, generic concept",game-specific label,1
+WG-0695,Standby Token,"System-specific label, generic concept",game-specific label,1
+WG-0696,Suppression Token,Generic concept,generic design concept,1
+WG-0697,Vehicle Damage Token,"System-specific label, generic concept",game-specific label,1
+WG-0698,Recover Action,Generic concept,generic design concept,1
+WG-0699,Faceup Order Token,System-specific,game-specific label,1
+WG-0700,Convert Attack Surges,"System-specific label, generic concept",game-specific label,1
+WG-0701,Surge: Hit,System-specific,game-specific label,1
+WG-0702,Lethal X,System-specific,game-specific label,1
+WG-0703,Precise X,System-specific,game-specific label,1
+WG-0704,Coordinate,Generic concept with system label,generic design concept,1
+WG-0705,Retinue,Generic concept,generic design concept,1
+WG-0706,Target X,System-specific,game-specific label,1
+WG-0707,Demoralize X,"System-specific label, generic concept",game-specific label,1
+WG-0708,Compel,System-specific,game-specific label,1
+WG-0709,Ram X,"System-specific label, generic concept",game-specific label,1
+WG-0710,Command Card,Generic concept,generic design concept,1
+WG-0711,Operative,"System-specific label, generic concept",game-specific label,1
+WG-0712,Commander,Generic,generic design concept,1
+WG-0713,Wound,Generic,generic design concept,1
+WG-0714,Exhausted Upgrade,Generic concept,generic design concept,1
+WG-0715,Unit Strength,Generic concept,generic design concept,1
+WG-0716,Steady,Generic concept,generic design concept,1
+WG-0717,Nerve Test,"System-specific label, generic concept",game-specific label,1
+WG-0718,Wavering Limit,"System-specific label, generic concept",game-specific label,1
+WG-0719,Routing Limit,"System-specific label, generic concept",game-specific label,1
+WG-0720,Devastated,"System-specific label, generic concept",game-specific label,1
+WG-0721,Counter Charge,Generic concept,generic design concept,1
+WG-0722,Sidestep,Generic concept,generic design concept,1
+WG-0723,Back Order,Generic concept,generic design concept,1
+WG-0724,Ensnare,"System-specific label, generic concept",game-specific label,1
+WG-0725,Shambling,Generic fantasy concept,generic design concept,1
+WG-0726,Change Facing,Generic,generic design concept,1
+WG-0727,Weight Class,Generic concept,generic design concept,1
+WG-0728,Element,Generic concept,generic design concept,1
+WG-0729,Base To-Hit,Generic concept,generic design concept,1
+WG-0730,Armour/Structure,Generic concept,generic design concept,1
+WG-0731,Special Ability,Generic,generic design concept,1
+WG-0732,Short Range Damage,Generic design concept,generic design concept,1
+WG-0733,Medium Range Damage,Generic design concept,generic design concept,1
+WG-0734,Long Range Damage,Generic design concept,generic design concept,1
+WG-0735,Energy Weapon,Generic sci-fi concept,generic design concept,1
+WG-0736,CASE,System-specific,game-specific label,1
+WG-0737,Order Pool,"System-specific label, generic concept",game-specific label,1
+WG-0738,Regular Order,"System-specific label, generic concept",game-specific label,1
+WG-0739,Irregular Order,"System-specific label, generic concept",game-specific label,1
+WG-0740,Lieutenant Special Order,System-specific,game-specific label,1
+WG-0741,Combat Group,Generic concept,generic design concept,1
+WG-0742,Reactive Player,Generic concept,generic design concept,1
+WG-0743,ARO,"System-specific label, generic concept",game-specific label,1
+WG-0744,Order Expenditure Sequence,"System-specific label, generic concept",game-specific label,1
+WG-0745,Face to Face Roll,"System-specific label, generic concept",game-specific label,1
+WG-0746,Normal Roll,Generic concept,generic design concept,1
+WG-0747,Success Value,Generic concept,generic design concept,1
+WG-0748,Open Information,Generic concept,generic design concept,1
+WG-0749,Private Information,Generic concept,generic design concept,1
+WG-0750,Courtesy List,"System-specific label, generic concept",game-specific label,1
+WG-0751,Loss of Lieutenant,"System-specific label, generic concept",game-specific label,1
+WG-0752,Retreat!,"System-specific label, generic concept",game-specific label,1
+WG-0753,Null State,Generic concept,generic design concept,1
+WG-0754,Camouflaged State,"System-specific label, generic concept",game-specific label,1
+WG-0755,Hidden Deployment,Generic concept,generic design concept,1
+WG-0756,Discover,Generic concept,generic design concept,1
+WG-0757,Reset,Generic concept,generic design concept,1
+WG-0758,Hacking Area,"System-specific label, generic concept",game-specific label,1
+WG-0759,Repeater,Generic sci-fi concept,generic design concept,1
+WG-0760,Deployable Repeater,"System-specific label, generic concept",game-specific label,1
+WG-0761,Targeted State,Generic concept,generic design concept,1
+WG-0762,Isolated State,Generic concept,generic design concept,1
+WG-0763,Suppressive Fire State,Generic concept,generic design concept,1
+WG-0764,Intuitive Attack,"System-specific label, generic concept",game-specific label,1
+WG-0765,Cautious Movement,Generic concept,generic design concept,1
+WG-0766,Forward Observer,Generic concept,generic design concept,1
+WG-0767,Coordinated Order,Generic concept,generic design concept,1
+WG-0768,Command Token,Generic concept,generic design concept,1
+WG-0769,Minimum Speed,Generic concept,generic design concept,1
+WG-0770,Maximum Speed,Generic,generic design concept,1
+WG-0771,Lateral Engines,"System-specific label, generic concept",game-specific label,1
+WG-0772,Slowed,Generic concept,generic design concept,1
+WG-0773,Generator Effect Token,"System-specific label, generic concept",game-specific label,1
+WG-0774,Action Dice,Generic concept,generic design concept,1
+WG-0775,Standard Strike,"System-specific label, generic concept",game-specific label,1
+WG-0776,Heavy Strike,"System-specific label, generic concept",game-specific label,1
+WG-0777,Exploding Strike,"System-specific label, generic concept",game-specific label,1
+WG-0778,Disorder,Generic concept,generic design concept,1
+WG-0779,Repair Roll,Generic concept,generic design concept,1
+WG-0780,Reserve Roll,Generic concept,generic design concept,1
+WG-0781,Broadside Roll,"System-specific label, generic concept",game-specific label,1
+WG-0782,Critical Damage Effect,Generic concept,generic design concept,1
+WG-0783,Anti-Ship,Generic concept,generic design concept,1
+WG-0784,Anti-Squadron,Generic concept,generic design concept,1
+WG-0785,Boarding Pod,Generic sci-fi concept,generic design concept,1
+WG-0786,Boarding Marker,Generic concept,generic design concept,1
+WG-0787,Anti-Ship Weapon Role,Generic design concept,generic design concept,1
+WG-0788,Twin-Fire,"System-specific label, generic concept",game-specific label,1
+WG-0789,Rogue Squadron,Generic concept,generic design concept,1
+WG-0790,Scan,"System-specific label, generic concept",game-specific label,1
+WG-0791,Signature,Generic concept,generic design concept,1
+WG-0792,Minor Spike,System-specific,game-specific label,1
+WG-0793,Major Spike,System-specific,game-specific label,1
+WG-0794,Silent Running,Generic concept with system label,generic design concept,1
+WG-0795,Active Scan,Generic concept,generic design concept,1
+WG-0796,Weapons Free,Generic concept,generic design concept,1
+WG-0797,Station Keeping,Generic concept,generic design concept,1
+WG-0798,Course Change,Generic concept,generic design concept,1
+WG-0799,Max Thrust,Generic concept,generic design concept,1
+WG-0800,Orbital Layer,Generic design concept,generic design concept,1
+WG-0801,Close Action,"System-specific label, generic concept",game-specific label,1
+WG-0802,Point Defence,Generic,generic design concept,1
+WG-0803,Launch Asset,Generic concept,generic design concept,1
+WG-0804,Troop Quality,Generic concept,generic design concept,1
+WG-0805,Confidence Level,Generic concept,generic design concept,1
+WG-0806,Supply Level,Generic concept,generic design concept,1
+WG-0807,Reaction Test,Generic concept,generic design concept,1
+WG-0808,Initiative Level,Generic concept,generic design concept,1
+WG-0809,Patrol Phase,"System-specific label, generic concept",game-specific label,1
+WG-0810,Patrol Marker,System-specific,game-specific label,1
+WG-0811,Jump-Off Point,"System-specific label, generic concept",game-specific label,1
+WG-0812,Command Dice,Generic concept,generic design concept,1
+WG-0813,Chain of Command Point,System-specific,game-specific label,1
+WG-0814,Support Points,Generic concept,generic design concept,1
+WG-0815,Force Morale,Generic concept,generic design concept,1
+WG-0816,Suppressing Fire,Generic,generic design concept,1
+WG-0817,Stunned Leader,Generic concept,generic design concept,1
+WG-0818,Replen Point,System-specific,game-specific label,1
+WG-0819,ADC,System-specific abstraction,game-specific label,1
+WG-0820,Aide-de-Camp,Generic historical concept,historical/common terminology,1
+WG-0821,Command Tasking,Generic concept,generic design concept,1
+WG-0822,Hesitant,Generic concept,generic design concept,1
+WG-0823,Artillery Assault Fire,"System-specific label, generic concept",game-specific label,1
+WG-0824,Skirmishers Tasking,"System-specific label, generic concept",game-specific label,1
+WG-0825,Battalion,Generic,generic design concept,1
+WG-0826,Brigade,Generic,generic design concept,1
+WG-0827,Fatigue Point,Generic concept,generic design concept,1
+WG-0828,Reload Marker,Generic concept,generic design concept,1
+WG-0829,Resolve Test,Generic concept,generic design concept,1
+WG-0830,Strike Point,"System-specific label, generic concept",game-specific label,1
+WG-0831,Strike Test,"System-specific label, generic concept",game-specific label,1
+WG-0832,Full Volley,Generic concept,generic design concept,1
+WG-0833,Half Volley,Generic concept,generic design concept,1
+WG-0834,Push Action,Generic concept,generic design concept,1
+WG-0835,Activation Deck,Generic concept,generic design concept,1
+WG-0836,Covert,See source provenance,review,1
+WG-0837,Detected,See source provenance,review,1
+WG-0838,Alert Marker,See source provenance,review,1
+WG-0839,Quiet Die,See source provenance,review,1
+WG-0840,Noisy Die,See source provenance,review,1
+WG-0841,Roving Patrol,See source provenance,review,1
+WG-0842,Patrol Route,See source provenance,review,1
+WG-0843,Raise the Alarm,See source provenance,review,1
+WG-0844,Action Token,See source provenance,review,1
+WG-0845,Time Token,See source provenance,review,1
+WG-0846,Trauma,See source provenance,review,1
+WG-0847,Trauma Roll,See source provenance,review,1
+WG-0848,Sneak,See source provenance,review,1
+WG-0849,Roving Patrol Move,See source provenance,review,1
+WG-0850,Order Card,See source provenance,review,1
+WG-0851,Event Card,See source provenance,review,1
+WG-0852,Veteran Card,See source provenance,review,1
+WG-0853,Patrol Direction,See source provenance,review,1
+WG-0854,Detection Threshold,See source provenance,review,1
+WG-0855,Variable-Length Bound,Generic design concept,generic design concept,1
+WG-0856,Reactive Fire,Generic concept,generic design concept,1
+WG-0857,Fire Group Leader,"System-specific label, generic concept",game-specific label,1
+WG-0858,Moving Group Leader,"System-specific label, generic concept",game-specific label,1
+WG-0859,Unmeasured Movement,Generic design concept,generic design concept,1
+WG-0860,Initiative Transfer,Generic design concept,generic design concept,1
+WG-0861,Bridge Command,Generic naval concept,generic design concept,1
+WG-0862,Flag Command,Generic naval concept,generic design concept,1
+WG-0863,Bridge Command Rating,"System-specific label, generic concept",game-specific label,1
+WG-0864,Flag Command Rating,"System-specific label, generic concept",game-specific label,1
+WG-0865,Crew Rating,Generic concept,generic design concept,1
+WG-0866,Damage Control Rating,Generic naval concept,generic design concept,1
+WG-0867,Visibility Code,Generic design concept,generic design concept,1
+WG-0868,Signal Visibility,Generic concept,generic design concept,1
+WG-0869,Operational Reduction,Generic design concept,generic design concept,1
+WG-0870,Radar Visibility,Generic concept,generic design concept,1
+WG-0871,Target Detection Probability,Generic design concept,generic design concept,1
+WG-0872,Searchlight Illumination,Generic concept,generic design concept,1
+WG-0873,Speed Loss During Manoeuvre,Generic design concept,generic design concept,1
+WG-0874,Impulse Movement Segment,Generic design concept,generic design concept,1
+WG-0875,Fire Control System,Generic concept,generic design concept,1
+WG-0876,Ammunition Loadout,Generic concept,generic design concept,1
+WG-0877,Sea State Code,Generic naval concept,generic design concept,1
+WG-0878,Pin Marker,"System-specific label, generic concept",game-specific label,1
+WG-0879,LMG,"System-specific label, generic concept",game-specific label,1
+WG-0880,MMG,"System-specific label, generic concept",game-specific label,1
+WG-0881,HMG,"System-specific label, generic concept",game-specific label,1
+WG-0882,SMG,"System-specific label, generic concept",game-specific label,1
+WG-0883,Detachment,"System-specific label, generic concept",game-specific label,1
+WG-0884,Enhancement,"System-specific label, generic concept",game-specific label,1
+WG-0885,Rifle,"System-specific label, generic concept",game-specific label,1
+WG-0886,Automatic Rifle,"System-specific label, generic concept",game-specific label,1
+WG-0887,Assault Rifle,"System-specific label, generic concept",game-specific label,1
+WG-0888,Light Mortar,"System-specific label, generic concept",game-specific label,1
+WG-0889,Medium Mortar,"System-specific label, generic concept",game-specific label,1
+WG-0890,Heavy Mortar,"System-specific label, generic concept",game-specific label,1
+WG-0891,Anti-Tank Rifle,"System-specific label, generic concept",game-specific label,1
+WG-0892,Panzerfaust,"System-specific label, generic concept",game-specific label,1
+WG-0893,Bazooka,"System-specific label, generic concept",game-specific label,1
+WG-0894,PIAT,"System-specific label, generic concept",game-specific label,1
+WG-0895,Flamethrower,"System-specific label, generic concept",game-specific label,1
+WG-0896,Sniper Rifle,"System-specific label, generic concept",game-specific label,1
+WG-0897,Aircraft,"System-specific label, generic concept",game-specific label,1
+WG-0898,Interceptor,"System-specific label, generic concept",game-specific label,1
+WG-0899,Howitzer,"System-specific label, generic concept",game-specific label,1
+WG-0900,Field Gun,"System-specific label, generic concept",game-specific label,1
+WG-0901,AA Gun,"System-specific label, generic concept",game-specific label,1
+WG-0902,Detachment Points,"System-specific label, generic concept",game-specific label,1
+WG-0903,Incursion,"System-specific label, generic concept",game-specific label,1
+WG-0904,Strike Force,"System-specific label, generic concept",game-specific label,1
+WG-0905,Onslaught,"System-specific label, generic concept",game-specific label,1
+WG-0906,Mission Tactics,"System-specific label, generic concept",game-specific label,1
+WG-0907,Black Spear Task Force,"System-specific label, generic concept",game-specific label,1
+WG-0908,Unit Limit,"System-specific label, generic concept",game-specific label,1
+WG-0909,Battleline Doubling,"System-specific label, generic concept",game-specific label,1
+WG-0910,Sonar Detection,Generic concept,generic design concept,1
+WG-0911,Visual Detection,Generic concept,generic design concept,1
+WG-0912,Air Defence Rating,"System-specific label, generic concept",game-specific label,1
+WG-0913,Point Defence Rating,"System-specific label, generic concept",game-specific label,1
+WG-0914,Air-to-Air Combat Rating,"System-specific label, generic concept",game-specific label,1
+WG-0915,Local Air-Combat Range,Generic design concept,generic design concept,1
+WG-0916,Area Air-Combat Range,Generic design concept,generic design concept,1
+WG-0917,Long-Range Air Combat,Generic design concept,generic design concept,1
+WG-0918,Combat Air Patrol,Generic military/game concept,generic design concept,1
+WG-0919,Aircraft Defence Rating,Generic design concept,generic design concept,1
+WG-0920,ECM Aircraft,Generic concept,generic design concept,1
+WG-0921,Jettison Ordnance,Generic concept,generic design concept,1
+WG-0922,Release Point,Generic concept,generic design concept,1
+WG-0923,Turn Distance,Generic design concept,generic design concept,1
+WG-0924,Maximum Height,Generic concept,generic design concept,1
+WG-0925,Accident Roll,Generic design concept,generic design concept,1
+WG-0926,Disbursement,"System-specific label, generic concept",game-specific label,1
+WG-0927,Patrol Aircraft,Generic military/game concept,generic design concept,1
+WG-0928,Electronic Support Measures,Generic concept,generic design concept,1
+WG-0929,Radar Cross-Section,Generic concept,generic design concept,1
+WG-0930,Instrumented Range,Generic technical/game concept,generic design concept,1
+WG-0931,Electronic Countermeasures,Generic concept,generic design concept,1
+WG-0932,Data Link,Generic concept,generic design concept,1
+WG-0933,Non-Acoustic ASW Sensor,Generic concept,generic design concept,1
+WG-0934,Unmanned Vehicle,Generic concept,generic design concept,1
+WG-0935,Track Quality,"System-specific label, generic concept",game-specific label,1
+WG-0936,Targeting Quality,"System-specific label, generic concept",game-specific label,1
+WG-0937,Area of Uncertainty,Generic design concept,generic design concept,1
+WG-0938,Fire Control Solution,Generic concept,generic design concept,1
+WG-0939,Bearing Only Launch,"System-specific label, generic concept",game-specific label,1
+WG-0940,Cross-Fix,Generic concept,generic design concept,1
+WG-0941,Tactical Data Link,Generic concept,generic design concept,1
+WG-0942,Near-Real-Time Data Link,"System-specific label, generic concept",game-specific label,1
+WG-0943,Real-Time Data Link,"System-specific label, generic concept",game-specific label,1
+WG-0944,Guidance Link,Generic concept,generic design concept,1
+WG-0945,Active Sensor,Generic concept,generic design concept,1
+WG-0946,Passive Sensor,Generic concept,generic design concept,1
+WG-0947,No-Attack Quality,"System-specific label, generic concept",game-specific label,1
+WG-0948,Poor Solution,"System-specific label, generic concept",game-specific label,1
+WG-0949,Contact Data Sharing,Generic design concept,generic design concept,1
+WG-0950,Honour Card,"System-specific label, generic concept",game-specific label,1
+WG-0951,Dishonour Card,"System-specific label, generic concept",game-specific label,1
+WG-0952,Quest Card,Generic concept,generic design concept,1
+WG-0953,Trait Card,Generic concept,generic design concept,1
+WG-0954,Skill Card,Generic concept,generic design concept,1
+WG-0955,Character Action Token,"System-specific label, generic concept",game-specific label,1
+WG-0956,Follower Action Token,"System-specific label, generic concept",game-specific label,1
+WG-0957,Fate Token,"System-specific label, generic concept",game-specific label,1
+WG-0958,Blood Counter,"System-specific label, generic concept",game-specific label,1
+WG-0959,Cautious Token,System-specific label,game-specific label,1
+WG-0960,Clan Token,System-specific label,game-specific label,1
+WG-0961,Low Supply,"System-specific label, generic concept",game-specific label,1
+WG-0962,Isolation,Generic concept,generic design concept,1
+WG-0963,Operations Phase,Generic design concept,generic design concept,1
+WG-0964,Road Movement,Generic concept,generic design concept,1
+WG-0965,Tactical Movement,Generic concept,generic design concept,1
+WG-0966,Tipped,"System-specific label, generic concept",game-specific label,1
+WG-0967,Un-Tip,System-specific label,game-specific label,1
+WG-0968,Contested Square,Generic design concept,generic design concept,1
+WG-0969,Combat Grid,Generic design concept,generic design concept,1
+WG-0970,Combat Shift,Generic concept,generic design concept,1
+WG-0971,Tank Shock,"System-specific label, generic concept",game-specific label,1
+WG-0972,Engineering Task,Generic design concept,generic design concept,1
+WG-0973,Low Fuel,Generic concept,generic design concept,1
+WG-0974,Boat Marker,"System-specific label, generic concept",game-specific label,1
+WG-0975,Supply Source,Generic concept,generic design concept,1
+WG-0976,Commander Skill,Generic concept,generic design concept,1
+WG-0977,Evasion,Generic concept,generic design concept,1
+WG-0978,Momentum,"System-specific label, generic concept",game-specific label,1
+WG-0979,Interrupt,Generic design concept,generic design concept,1
+WG-0980,Intervention,"System-specific label, generic concept",game-specific label,1
+WG-0981,Global Order,Generic design concept,generic design concept,1
+WG-0982,Force Order,"System-specific label, generic concept",game-specific label,1
+WG-0983,Complication,Generic design concept,generic design concept,1
+WG-0984,Skirmish Advantage,"System-specific label, generic concept",game-specific label,1
+WG-0985,Regulating Base,"System-specific label, generic concept",game-specific label,1
+WG-0986,Strong Position,Generic concept,generic design concept,1
+WG-0987,Poor Formation,Generic design concept,generic design concept,1
+WG-0988,Huzzah!,"System-specific label, generic concept",game-specific label,1
+WG-0989,Voltigeur Marker,"System-specific label, generic concept",game-specific label,1
+WG-0990,MO Dice,"System-specific label, generic concept",game-specific label,1
+WG-0991,Current MO,System-specific label,game-specific label,1
+WG-0992,Army Morale,Generic concept,generic design concept,1
+WG-0993,Concealed Unit,Generic design concept,generic design concept,1
+WG-0994,Information Phase,Generic design concept,generic design concept,1
+WG-0995,Simple Move,Generic design concept,generic design concept,1
+WG-0996,Difficult Move,Generic design concept,generic design concept,1
+WG-0997,Reserve Move,Generic concept,generic design concept,1
+WG-0998,Prepared,"System-specific label, generic concept",game-specific label,1
+WG-0999,Ammo Box,Generic design concept,generic design concept,1
+WG-1000,Elan,Generic concept,generic design concept,1
+WG-1001,Shattered Point,"System-specific label, generic concept",game-specific label,1
+WG-1002,Reshuffle,Generic design concept,generic design concept,1
+WG-1003,Morale Value,"System-specific label, generic concept",game-specific label,1
+WG-1004,Red-Banner Interrupt,"System-specific label, generic concept",game-specific label,1
+WG-1005,Base Width,Generic design concept,generic design concept,1
+WG-1006,Provisional Command,"System-specific label, generic concept",game-specific label,1
+WG-1007,Out of Command,Generic concept,generic design concept,1
+WG-1008,Maneuver Check,"System-specific label, generic concept",game-specific label,1
+WG-1009,Maneuver Effect,"System-specific label, generic concept",game-specific label,1
+WG-1010,Rally with Élan,"System-specific label, generic concept",game-specific label,1
+WG-1011,Tardy,"System-specific label, generic concept",game-specific label,1
+WG-1012,Well Handled,"System-specific label, generic concept",game-specific label,1
+WG-1013,Full Move Disordered,"System-specific label, generic concept",game-specific label,1
+WG-1014,Good Order,"System-specific label, generic concept",game-specific label,1
+WG-1015,Panic,"System-specific label, generic concept",game-specific label,1
+WG-1016,Change Front,"System-specific label, generic concept",game-specific label,1
+WG-1017,Refuse a Flank,"System-specific label, generic concept",game-specific label,1
+WG-1018,Passage of Lines,Generic concept,generic design concept,1
+WG-1019,Prolong,"System-specific label, generic concept",game-specific label,1
+WG-1020,Hand Haul,"System-specific label, generic concept",game-specific label,1
+WG-1021,Silenced,"System-specific label, generic concept",game-specific label,1
+WG-1022,Pass Through Fire,"System-specific label, generic concept",game-specific label,1
+WG-1023,Galling Fire,"System-specific label, generic concept",game-specific label,1
+WG-1024,Telling Fire,"System-specific label, generic concept",game-specific label,1
+WG-1025,Withering Fire,"System-specific label, generic concept",game-specific label,1
+WG-1026,Unit Effectiveness,Generic design concept,generic design concept,1
+WG-1027,Fresh,"System-specific label, generic concept",game-specific label,1
+WG-1028,Worn,"System-specific label, generic concept",game-specific label,1
+WG-1029,Spent,"System-specific label, generic concept",game-specific label,1
+WG-1030,Spirited,"System-specific label, generic concept",game-specific label,1
+WG-1031,Unreliable,"System-specific label, generic concept",game-specific label,1
+WG-1032,Dispirited,"System-specific label, generic concept",game-specific label,1
+WG-1033,Breakthrough Charge,"System-specific label, generic concept",game-specific label,1
+WG-1034,Support a Charge,"System-specific label, generic concept",game-specific label,1
+WG-1035,Cold Steel,"System-specific label, generic concept",game-specific label,1
+WG-1036,Enfiladed,Generic concept,generic design concept,1
+WG-1037,Mission Profile,"System-specific label, generic concept",game-specific label,1
+WG-1038,Air Target,"System-specific label, generic concept",game-specific label,1
+WG-1039,Soft Target,"System-specific label, generic concept",game-specific label,1
+WG-1040,Hard Target,"System-specific label, generic concept",game-specific label,1
+WG-1041,Flight Level,Generic design concept,generic design concept,1
+WG-1042,High Level,"System-specific label, generic concept",game-specific label,1
+WG-1043,Dogfight Level,"System-specific label, generic concept",game-specific label,1
+WG-1044,Low Level,Generic concept,generic design concept,1
+WG-1045,Dangerous Maneuver Test,"System-specific label, generic concept",game-specific label,1
+WG-1046,Special Maneuver,Generic design concept,generic design concept,1
+WG-1047,Breakneck Turn,"System-specific label, generic concept",game-specific label,1
+WG-1048,Loop Over,"System-specific label, generic concept",game-specific label,1
+WG-1049,Dive Bomb,Generic concept,generic design concept,1
+WG-1050,Evasive Maneuvers,Generic concept,generic design concept,1
+WG-1051,Minimum Move,Generic design concept,generic design concept,1
+WG-1052,Maximum Move,Generic design concept,generic design concept,1
+WG-1053,Ground Asset,"System-specific label, generic concept",game-specific label,1
+WG-1054,AA Entry Fire,Generic design concept,generic design concept,1
+WG-1055,Neutral Board Edge,Generic design concept,generic design concept,1
+WG-1056,Enemy Board Edge,Generic design concept,generic design concept,1
+WG-1057,Passive Save,Generic concept,generic design concept,1
+WG-1058,Critical Damage,Generic design concept,generic design concept,1
+WG-1059,Ace Pilot,"System-specific label, generic concept",game-specific label,1
+WG-1060,Close Call,"System-specific label, generic concept",game-specific label,1
+WG-1061,Noise,"System-specific label, generic concept",game-specific label,1
+WG-1062,Threat Level,"System-specific label, generic concept",game-specific label,1
+WG-1063,Non-Player Fauna,Generic design concept,generic design concept,1
+WG-1064,Initiative Bid,"System-specific label, generic concept",game-specific label,1
+WG-1065,Initiative Pool,Generic design concept,generic design concept,1
+WG-1066,Zero Bid,"System-specific label, generic concept",game-specific label,1
+WG-1067,Barrage Mishap,Generic design concept,generic design concept,1
+WG-1068,Gas Barrage,"System-specific label, generic concept",game-specific label,1
+WG-1069,Hung on Wire,"System-specific label, generic concept",game-specific label,1
+WG-1070,Wire Crossing Test,"System-specific label, generic concept",game-specific label,1
+WG-1071,Free Rally Action,Generic design concept,generic design concept,1
+WG-1072,Status Effect,Generic design concept,generic design concept,1
+WG-1073,Dedicated Action,Generic design concept,generic design concept,1
+WG-1074,Residual Movement,"System-specific label, generic concept",game-specific label,1
+WG-1075,Change Sail Setting,Generic concept,generic design concept,1
+WG-1076,Advance Maneuver,"System-specific label, generic concept",game-specific label,1
+WG-1077,Ship Hull Critical,Generic naval concept,generic design concept,1
+WG-1078,Ship Rigging Critical,Generic naval concept,generic design concept,1
+WG-1079,Fouled,Generic naval concept,generic design concept,1
+WG-1080,Roundshot,Generic historical concept,historical/common terminology,1
+WG-1081,Chainshot,Generic historical concept,historical/common terminology,1
+WG-1082,Attack Column,Generic historical/game concept,historical/common terminology,1
+WG-1083,Loose Formation,Generic concept,generic design concept,1
+WG-1084,Skirmish Formation,Generic concept,generic design concept,1
+WG-1085,Spell Token,Generic design concept,generic design concept,1
+WG-1086,Spell Assistance,Generic design concept,generic design concept,1
+WG-1087,Command Group,Generic concept,generic design concept,1
+WG-1088,Sergeant Upgrade,Generic concept,generic design concept,1
+WG-1089,Musician Upgrade,Generic concept,generic design concept,1
+WG-1090,Banner Upgrade,Generic concept,generic design concept,1
+WG-1091,Fear Value,"System-specific label, generic concept",game-specific label,1
+WG-1092,Hero Attachment,Generic design concept,generic design concept,1
+WG-1093,Limited Weapon,Generic design concept,generic design concept,1
+WG-1094,Regeneration Save,Generic design concept,generic design concept,1
+WG-1095,Transport Capacity,Generic concept,generic design concept,1
+WG-1096,Passenger Space,Generic design concept,generic design concept,1
+WG-1097,Dangerous Terrain Test,Generic concept,generic design concept,1
+WG-1098,Detected Submarine,"System-specific label, generic concept",game-specific label,1
+WG-1099,Undetected Submarine,"System-specific label, generic concept",game-specific label,1
+WG-1100,Radar Detection,Generic concept,generic design concept,1
+WG-1101,Listed Information,Generic concept,generic design concept,1
+WG-1102,Stacking Special Rules,Generic concept,generic design concept,1
+WG-1103,Autonomous Explosive,System-specific label,game-specific label,1
+WG-1104,Auxiliary Mine Layer,System-specific label,game-specific label,1
+WG-1105,Breaching Drill,System-specific label,game-specific label,1
+WG-1106,Cloud Dive,System-specific label,game-specific label,1
+WG-1107,Deceptive Deployment,Generic concept,generic design concept,1
+WG-1108,Flight Deck,Generic concept,generic design concept,1
+WG-1109,Flotsam,Generic concept,generic design concept,1
+WG-1110,Ground Assault,Generic concept,generic design concept,1
+WG-1111,Guardian Wing,System-specific label,game-specific label,1
+WG-1112,Heavy Transport,Generic concept,generic design concept,1
+WG-1113,Landing Party Support,Generic concept,generic design concept,1
+WG-1114,Mine Layer,Generic concept,generic design concept,1
+WG-1115,Mothership,Generic concept,generic design concept,1
+WG-1116,Raking Strike,Generic concept,generic design concept,1
+WG-1117,Resupply Run,Generic concept,generic design concept,1
+WG-1118,Take On Supplies,Generic concept,generic design concept,1
+WG-1119,Stockpile,Generic concept,generic design concept,1
+WG-1120,Transfer Munitions,Generic concept,generic design concept,1
+WG-1121,Unexpected Arrival,Generic concept,generic design concept,1
+WG-1122,Coordinated Defences,Generic concept,generic design concept,1
+WG-1123,Escort Bay,Generic concept,generic design concept,1
+WG-1124,Game-Limited Campaign,Generic concept,generic design concept,1
+WG-1125,Point-Limited Campaign,Generic concept,generic design concept,1
+WG-1126,Time-Limited Campaign,Generic concept,generic design concept,1
+WG-1127,Endless Campaign,Generic concept,generic design concept,1
+WG-1128,Parallel Play,Generic concept,generic design concept,1
+WG-1129,Late Joiner,Generic concept,generic design concept,1
+WG-1130,Underdog Point,System-specific label,game-specific label,1
+WG-1131,No Permadeath,Generic concept,generic design concept,1
+WG-1132,Skill Set,Generic concept,generic design concept,1
+WG-1133,Disband Unit,Generic concept,generic design concept,1
+WG-1134,Base Interval,Generic concept,generic design concept,1
+WG-1135,Deployment Area,Generic concept,generic design concept,1
+WG-1136,Stranded Base,System-specific label,game-specific label,1
+WG-1137,Support Range,Generic concept,generic design concept,1
+WG-1138,Command Base Damage,Generic concept,generic design concept,1
+WG-1139,Flexible Command,Generic concept,generic design concept,1
+WG-1140,Rigid Command,Generic concept,generic design concept,1
+WG-1141,Tactically Stationary,Generic concept,generic design concept,1
+WG-1142,Secondary Ammunition,Generic concept,generic design concept,1
+WG-1143,Passing Fire,Generic concept,generic design concept,1
+WG-1144,Combat Lull,Generic concept,generic design concept,1
+WG-1145,Barrage Request Queue,Generic concept,generic design concept,1
+WG-1146,Manhandling,Historical / common terminology,historical/common terminology,1
+WG-1147,Engineering Action,Generic concept,generic design concept,1
+WG-1148,Demolition Action,Generic concept,generic design concept,1
+WG-1149,Prepared Demolition,Generic concept,generic design concept,2
+WG-1150,Remove Demolition,Generic concept,generic design concept,1
+WG-1151,Minefield Density,Generic concept,generic design concept,1
+WG-1152,Surface-Laid Minefield,Historical / common terminology,historical/common terminology,1
+WG-1153,Dummy Minefield,Generic concept,generic design concept,2
+WG-1154,Minefield Passage,Generic concept,generic design concept,1
+WG-1155,Marked Lane,Historical / common terminology,historical/common terminology,1
+WG-1156,Breach Action,Generic concept,generic design concept,1
+WG-1157,By-Force Crossing,Generic concept,generic design concept,1
+WG-1158,Breached Minefield,Generic concept,generic design concept,1
+WG-1159,Breach Orientation,Generic concept,generic design concept,1
+WG-1160,Mechanical Breaching,Historical / common terminology,historical/common terminology,2
+WG-1161,Bottleneck,Generic concept,generic design concept,1
+WG-1162,Wire Breach,Generic concept,generic design concept,1
+WG-1163,Wire for Demolition,Generic concept,generic design concept,1
+WG-1164,Contested Demolition,Generic concept,generic design concept,1
+WG-1165,Bridge Repair,Historical / common terminology,historical/common terminology,1
+WG-1166,Bridge-Laying Unit,Historical / common terminology,historical/common terminology,1
+WG-1167,Pontoon Bridge,Historical / common terminology,historical/common terminology,1
+WG-1168,Bridge Train,Historical / common terminology,historical/common terminology,1
+WG-1169,Obstacle Reduction,Generic concept,generic design concept,2
+WG-1170,Minimal Damage,System-specific label,game-specific label,0
+WG-1171,Attack Direction,System-specific label,game-specific label,0
+WG-1172,Range Bracket,System-specific label,game-specific label,0
+WG-1173,Armor Bubble,System-specific label,game-specific label,0
+WG-1174,Structure Bubble,System-specific label,game-specific label,0
+WG-1175,Overheat Long,System-specific label,game-specific label,0
+WG-1176,External Heat,System-specific label,game-specific label,0
+WG-1177,Fireteam Integrity,System-specific label,game-specific label,0
+WG-1178,Rejoin Fireteam,System-specific label,game-specific label,0
+WG-1179,Immobilized-A,System-specific label,game-specific label,0
+WG-1180,Immobilized-B,System-specific label,game-specific label,0
+WG-1181,Disconnected State,System-specific label,game-specific label,0
+WG-1182,Possessed State,System-specific label,game-specific label,0
+WG-1183,Sepsitorized State,System-specific label,game-specific label,0
+WG-1184,Unloaded State,System-specific label,game-specific label,0
+WG-1185,Initiative Move,System-specific label,game-specific label,0
+WG-1186,March Column,System-specific label,game-specific label,0
+WG-1187,Limbered Artillery,System-specific label,game-specific label,0
+WG-1188,Manhandled Artillery,System-specific label,game-specific label,0
+WG-1189,Closing Fire,System-specific label,game-specific label,0
+WG-1190,Enfilading Fire,System-specific label,game-specific label,0
+WG-1191,Mixed Formation,System-specific label,game-specific label,0
+WG-1192,Retire,System-specific label,game-specific label,0
+WG-1193,Hold Ground,System-specific label,game-specific label,0
+WG-1194,Aiming Point,System-specific label,game-specific label,0
+WG-1195,Spotting Team,System-specific label,game-specific label,0
+WG-1196,Repeat Bombardment,System-specific label,game-specific label,0
+WG-1197,Smoke Screen,System-specific label,game-specific label,0
+WG-1198,Danger Close,System-specific label,game-specific label,0
+WG-1199,Dug In,System-specific label,game-specific label,0
+WG-1200,Booby Trap,System-specific label,game-specific label,0
+WG-1201,Barbed Wire Entanglement,System-specific label,game-specific label,0
+WG-1202,Artillery Battery,System-specific label,game-specific label,0
+WG-1203,Ranging Attempt,System-specific label,game-specific label,0
+WG-1204,Number of Weapons Firing,System-specific label,game-specific label,0
+WG-1205,Defensive Fire,System-specific label,game-specific label,0
+WG-1206,Horde Mode,System-specific label,game-specific label,0
+WG-1207,Enemy Wave,System-specific label,game-specific label,0
+WG-1208,Defence Objective,System-specific label,game-specific label,0
+WG-1209,Kill Experience,System-specific label,game-specific label,0
+WG-1210,Overheating,System-specific label,game-specific label,0
+WG-1211,Fragile,System-specific label,game-specific label,0
+WG-1212,Tactician,System-specific label,game-specific label,0
+WG-1213,Recon Roll,System-specific label,game-specific label,0
+WG-1214,Command Order,System-specific label,game-specific label,0
+WG-1215,In Play,System-specific label,game-specific label,0
+WG-1216,Neutral Unit,System-specific label,game-specific label,0
+WG-1217,Leader Model,System-specific label,game-specific label,0
+WG-1218,Sprint Action,System-specific label,game-specific label,0
+WG-1219,Advance Action,System-specific label,game-specific label,0
+WG-1220,Weight of Fire,System-specific label,game-specific label,0
+WG-1221,Exceptional Roll,System-specific label,game-specific label,0
+WG-1222,Out-of-Game Spell,System-specific label,game-specific label,0
+WG-1223,Self-Only Spell,System-specific label,game-specific label,0
+WG-1224,Touch Spell,System-specific label,game-specific label,0
+WG-1225,Area-Effect Spell,System-specific label,game-specific label,0
+WG-1226,Casting Roll,System-specific label,game-specific label,0
+WG-1227,Will Roll,System-specific label,game-specific label,0
+WG-1228,Active Spell,System-specific label,game-specific label,0
+WG-1229,Spell Cancellation,System-specific label,game-specific label,0
+WG-1230,Temporary Warband Member,System-specific label,game-specific label,0
+WG-1231,Uncontrolled Creature,System-specific label,game-specific label,0
+WG-1232,Mine Sweeper,System-specific label,game-specific label,0
+WG-1233,Mine Clearance,System-specific label,game-specific label,0
+WG-1234,Participating Model,System-specific label,game-specific label,0
+WG-1235,Initial Target,System-specific label,game-specific label,0
+WG-1236,Positional Trait,System-specific label,game-specific label,0
+WG-1237,Repair Facilities,System-specific label,game-specific label,0
+WG-1238,Priority Signals,System-specific label,game-specific label,0
+WG-1239,Mass Rating,System-specific label,game-specific label,0
+WG-1240,Shockwave Roll,System-specific label,game-specific label,0
+WG-1241,Full Thrust,System-specific label,game-specific label,0
