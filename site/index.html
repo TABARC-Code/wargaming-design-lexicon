@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Wargaming Design Lexicon</title><meta name="description" content="Search and browse a structured lexicon of miniature and tabletop wargaming mechanics and design terminology.">
+<link rel="stylesheet" href="style.css"></head><body>
+<header><div><p class="eyebrow">TABARC-Code</p><h1>Wargaming Design Lexicon</h1><p class="lede">A searchable reference for tabletop and miniature wargame mechanics, terminology and design patterns.</p></div><div id="count" class="count">Loading…</div></header>
+<main><section class="controls" aria-label="Lexicon controls"><label>Search<input id="q" type="search" placeholder="Search terms, definitions, roles or tags…" autocomplete="off"></label><label>Category<select id="category"><option value="">All categories</option></select></label><button id="random" type="button">Random mechanic</button></section>
+<section class="layout"><aside><h2>Browse</h2><div id="cats"></div></aside><section><div id="status" class="status" aria-live="polite"></div><div id="results" class="results"></div></section></section></main>
+<dialog id="detail"><button class="close" aria-label="Close">×</button><div id="detailBody"></div></dialog>
+<footer><p>Terminology is paraphrased for design research. Source data is maintained in this repository.</p></footer>
+<script src="app.js"></script></body></html>
