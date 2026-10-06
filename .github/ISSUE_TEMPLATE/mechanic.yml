@@ -1,0 +1,24 @@
+name: Propose a mechanic
+about: Suggest a genuinely distinct wargame design concept for the lexicon
+title: "[Mechanic] "
+labels: [research]
+body:
+  - type: input
+    id: term
+    attributes: {label: Proposed term}
+    validations: {required: true}
+  - type: textarea
+    id: meaning
+    attributes: {label: Concise paraphrased meaning}
+    validations: {required: true}
+  - type: textarea
+    id: distinct
+    attributes: {label: Why is this not already represented?, description: Name the closest existing mechanics and explain the distinction.}
+    validations: {required: true}
+  - type: input
+    id: source
+    attributes: {label: Public source URL}
+    validations: {required: true}
+  - type: textarea
+    id: provenance
+    attributes: {label: Game, publisher and rules context}
