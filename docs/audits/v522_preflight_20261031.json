@@ -1,0 +1,30 @@
+{
+  "checked_utc": "2026-10-31",
+  "master_version": "v522",
+  "master_sha256": "c12cafd92fe71c1bae433e6b2cecf5c1fcb3d05b1efb3d764db3f32e5f8d1d4b",
+  "counts": {
+    "worksheets": 348,
+    "wg_records": 3475,
+    "active": 3472,
+    "redirects": 3,
+    "sources": 816,
+    "relationships": 1611,
+    "occurrences": 575,
+    "discoveries": 616,
+    "candidates": 514
+  },
+  "repo_baseline_before_update": "b3f3b7f62ecf55353dfc0001e10c8e533cc0db92",
+  "migration_status": "blocked pending full inherited comparison and exports",
+  "missing": [
+    "exact v281 frozen workbook",
+    "exact v521 parent workbook"
+  ],
+  "site_data_status": "older release",
+  "outstanding": [
+    "31 self aliases",
+    "610 one way symmetric edges",
+    "2483 active graph orphans",
+    "16 unmapped occurrences",
+    "103 discoveries without candidates"
+  ]
+}
