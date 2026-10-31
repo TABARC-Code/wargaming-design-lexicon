@@ -39,6 +39,19 @@ The static browser's CSV path and deployment packaging have been corrected, but 
 
 No research-only mechanic should become a canonical WG entry without admissible source evidence and duplicate checks.
 
+## Workbook cover-sheet discrepancy
+
+The `START HERE` worksheet has an updated v522 heading but its summary counts have not caught up with the authoritative data sheets:
+
+| Field | `START HERE` | Verified data |
+| --- | ---: | ---: |
+| Current WG IDs | 3,460 | 3,475 |
+| Active concepts | 3,457 | 3,472 |
+| Registered sources | 809 | 816 |
+| Controlled relationships | 1,533 | 1,611 |
+
+These are stale descriptive cells, not evidence that entries are missing from the underlying sheets. Do not correct them by changing canonical data. Refresh the cover-page summary only after the master and inherited version comparisons are authorised and complete.
+
 ## Known review queues
 
 31 self-aliases, 610 one-way symmetric links, 2,483 active graph orphans, 16 unmapped occurrences, 103 discoveries without candidates, and historical provenance investigations remain open. These are review items, not grounds for indiscriminate automatic fixes.
