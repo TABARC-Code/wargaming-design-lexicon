@@ -83,6 +83,19 @@ def verify(workbook, stage, approved_hash):
                 continue
             if any((actual_terms[row['term_id']][k] or '') != (value or '') for k, value in row.items()):
                 errors.append('SQLite mismatched term ' + row['term_id'])
+        compare('SQLite sources', sources, [dict(r) for r in db.execute('SELECT * FROM sources ORDER BY rowid')], errors)
+        compare('SQLite relationships', relationships,
+                [{k: r[k] for k in relationships[0]}
+                 for r in db.execute('SELECT * FROM relationships ORDER BY relationship_id')], errors)
+        compare('SQLite aliases', aliases,
+                [(r['term_id'], r['alias']) for r in db.execute('SELECT term_id,alias FROM aliases ORDER BY rowid')], errors)
+        compare('SQLite source links', links,
+                [(r['term_id'], r['source_key']) for r in db.execute('SELECT term_id,source_key FROM term_sources ORDER BY rowid')], errors)
+        expected_search = [(r['term_id'], r['canonical_term'], r['aliases'], r['category'],
+                            r['subcategory'], r['definition'], r['mechanical_role'],
+                            r['design_notes'], r['search_tags']) for r in terms]
+        actual_search = [tuple(r) for r in db.execute('SELECT * FROM term_search ORDER BY rowid')]
+        compare('SQLite full-text rows', expected_search, actual_search, errors)
         for sheet in RESEARCH_SHEETS:
             id_col = next(iter(data[sheet][0]))
             actual = {
