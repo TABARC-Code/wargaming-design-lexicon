@@ -25,6 +25,18 @@ python tools/export_master.py /path/to/wargaming_design_lexicon_v376_v522_fantas
 
 The output directory must not exist. The script refuses to overwrite an earlier export. The supplied workbook must match the exact expected SHA-256; the input is never modified.
 
+## Reconcile the staged output
+
+Run the independent check against the *same* approved workbook and staging directory:
+
+```sh
+python tools/verify_staged.py /path/to/wargaming_design_lexicon_v376_v522_fantasy_depth_verified.xlsx \
+  /path/to/staged-v522 \
+  --expected-sha256 c12cafd92fe71c1bae433e6b2cecf5c1fcb3d05b1efb3d764db3f32e5f8d1d4b
+```
+
+This compares every exported CSV record with the workbook, checks the SHA-256 manifest, SQLite integrity and foreign keys, reconciles table rows and full-text index contents, and verifies the research archive payloads. It reads the staged release without changing it.
+
 ## Exported data
 
 | File | Contents |
