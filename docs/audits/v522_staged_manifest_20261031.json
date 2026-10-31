@@ -1,0 +1,41 @@
+{
+  "version": "v522",
+  "source_sha256": "c12cafd92fe71c1bae433e6b2cecf5c1fcb3d05b1efb3d764db3f32e5f8d1d4b",
+  "counts": {
+    "terms": 3475,
+    "active": 3472,
+    "redirects": 3,
+    "sources": 816,
+    "relationships": 1611,
+    "occurrences": 575,
+    "discoveries": 616,
+    "candidates": 514,
+    "review_queue": 70,
+    "aliases": 7163,
+    "term_source_links": 3948,
+    "self_aliases": 31
+  },
+  "warnings": [
+    "31 self-aliases retained as authored, pending review"
+  ],
+  "files_sha256": {
+    "wargaming_lexicon.sqlite": "af85fab4a9ce7bae1ea0eaf32fb8cee7d7b3a9c4acb8fce3c109f346bccb5595",
+    "term_sources.csv": "da186e454fd2e191433d77e0082189ca525b3030a7cc6fae9ae1315e349b3609",
+    "discoveries.csv": "75f381fc59c8b284391d8e9d85c42e02f047e363fadb6708692d70b062af1f4a",
+    "relationships.csv": "73bdd9c9a238a492e3269bb1e42a20b3564f727c25c17c16f13f59cfe8ee502c",
+    "rule_occurrences.csv": "0469137cf0d531dd3dd337092254f30fdde1241a07d57d8ac3b52b3f6d6591c3",
+    "candidates.csv": "3487dc09ced2277f77d17f8e32d3f4735a862076c8c92cbf95dda01dbf26edb3",
+    "sources.csv": "27115faf201bb466255c955450758edf81860fd854b769b21aacf1c1e96559e5",
+    "review_queue.csv": "9add44cda0587c3709f4466567424ee315a214d70cc4b28e263a0fe80d66864f",
+    "terms.csv": "b10932a2beadcf40ef76743cf8faf47e0cc0c63501a7c45e256dfbc6dcea9323",
+    "aliases.csv": "68ee14802a14e99ca6f1c2f648c04ccaf1b02c02cb0a129519a0b2ab87592879"
+  },
+  "verification": {
+    "source_links": "complete",
+    "relationship_endpoints": "complete",
+    "sqlite_foreign_keys": "passed",
+    "frozen_v281_comparison": "not verified",
+    "parent_v521_comparison": "not verified"
+  },
+  "release_status": "staged-not-published"
+}
