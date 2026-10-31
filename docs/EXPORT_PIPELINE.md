@@ -66,4 +66,4 @@ python -m unittest discover -s tools -p 'test_*.py'
 5. Check search, the browser and any published static asset package.
 6. Only then replace live data and update the README release label.
 
-**GitHub Pages:** the browser expects a `terms.csv` file beside `site/app.js`. The deployment workflow packages the current `data/terms.csv` into the site artifact. GitHub Pages must be enabled for the repository before deployment can succeed; a passing validation job alone does not publish the site.
+**GitHub Pages:** the browser expects a `terms.csv` file beside `site/app.js`. The deployment workflow packages the current `data/terms.csv` into the site artifact. GitHub Pages must be enabled for the repository before deployment can succeed. Set Pages **Build and deployment** source to **GitHub Actions**, then add the repository Actions variable `PUBLISH_LEXICON_SITE` with the value `true`. Deployment is deliberately skipped until that variable is set, so a disabled Pages service does not turn a passing validation job into a failed workflow. A passing validation job alone does not publish the site.
