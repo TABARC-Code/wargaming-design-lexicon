@@ -16,6 +16,7 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: '3.x'
+      - run: python -m unittest discover -s tools -p 'test_*.py'
       - run: python tools/validate_site.py
   deploy:
     if: github.event_name != 'pull_request'
@@ -26,6 +27,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
+      - run: cp data/terms.csv site/terms.csv
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
