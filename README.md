@@ -5,6 +5,8 @@ Tabletop gaming lexium database
 
 A lightweight, searchable terminology database for miniature and tabletop wargame design.
 
+> **Release status:** the repository browser, CSV exports and SQLite database are an older published snapshot. The v522 research master has a separate validated staging exporter, but it is **not** the live database. See [v522 migration status](docs/V522_MIGRATION_STATUS.md) for the evidence and remaining checks.
+
 ## Release
 
 GitHub release 1.0, migrated from research master v15 on 23 September 2026.
