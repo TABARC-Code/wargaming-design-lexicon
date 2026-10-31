@@ -20,6 +20,14 @@ The local file hash was checked again on 31 October 2026. The original frozen v2
 - `tools/validate_site.py` checks basic identifiers and required text, not provenance or graph integrity
 - `sql/schema.sql` is a schema dump, not a clean database initialisation script
 
+## Staged exporter, 31 October 2026
+
+`tools/export_master.py` now reads the approved workbook without altering it, checks its SHA-256 and references, and generates a separate CSV/SQLite staging directory with a manifest. Seven standalone tests are in `tools/test_export_master.py` and run during validation. Details and commands: [Export pipeline](EXPORT_PIPELINE.md).
+
+A local staging build completed with 3,475 terms, 3,472 active entries, three redirects, 816 sources, 1,611 relationships, 7,163 aliases and 3,948 source links. SQLite foreign keys and integrity checks passed. These are staging results, **not** a replacement of the live repository database or evidence of a completed v281/v521 comparison.
+
+The static browser's CSV path and deployment packaging have been corrected, but repository Pages configuration remains separate from successful data validation.
+
 ## Release requirements
 
 1. Recover the exact frozen v281 reference and v521 parent, verify their hashes, and compare frozen IDs/order and inherited content.
