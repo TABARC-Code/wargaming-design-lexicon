@@ -19,7 +19,7 @@ jobs:
       - run: python -m unittest discover -s tools -p 'test_*.py'
       - run: python tools/validate_site.py
   deploy:
-    if: github.event_name != 'pull_request'
+    if: github.event_name != 'pull_request' && vars.PUBLISH_LEXICON_SITE == 'true'
     needs: validate
     runs-on: ubuntu-latest
     environment:
