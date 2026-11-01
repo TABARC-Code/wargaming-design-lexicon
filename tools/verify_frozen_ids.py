@@ -58,6 +58,25 @@ def compare_rows(frozen, current):
     }
 
 
+def comparable_rows(frozen_book, current_book):
+    current = current_book.read_sheet('Lexicon')
+    if 'Mechanics' in frozen_book.sheets:
+        # This is the separately published v281 canonical reference.
+        frozen = [
+            {'ID': row['id'], 'Term': row['term'], 'Plain-English meaning': row['definition']}
+            for row in frozen_book.read_sheet('Mechanics')
+        ]
+        current = [
+            {'ID': row['ID'], 'Term': row['Term'], 'Plain-English meaning': row['Plain-English meaning']}
+            for row in current
+        ]
+        sheet = 'Mechanics'
+    else:
+        frozen = frozen_book.read_sheet('Lexicon')
+        sheet = 'Lexicon'
+    return frozen, current, sheet
+
+
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('frozen_v281', type=Path)
@@ -75,7 +94,10 @@ def main(argv=None):
         raise ReleaseError('Current workbook SHA-256 mismatch')
     old, cur = MasterWorkbook(args.frozen_v281), MasterWorkbook(args.current)
     try:
-        report = compare_rows(old.read_sheet('Lexicon'), cur.read_sheet('Lexicon'))
+        old_rows, current_rows, original_sheet = comparable_rows(old, cur)
+        report = compare_rows(old_rows, current_rows)
+        report['historical_sheet'] = original_sheet
+        report['comparison_fields'] = list(old_rows[0])
     finally:
         old.close()
         cur.close()
