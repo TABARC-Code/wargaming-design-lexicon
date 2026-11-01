@@ -82,7 +82,7 @@ The research is not an edition update. The official 2019 Battle for Earth FAQ mu
 
 [The integrated research release](docs/INTEGRATION_HISTORICAL_FAQ_V522.md) adds three historically scoped publisher source records and 26 unmapped rule observations to a separate v522 staging database. A 27th finding records the Dust Warfare FAQ supersession. The 3,475 WG records, 1,611 relationships and 3,948 term-source links are unchanged.
 
-The repository includes [the importer](tools/integrate_historical_faq.py), [the independent verifier](tools/verify_historical_faq.py) and its end-to-end fixture tests. **The live SQLite file and CSV exports are still the earlier publication**, and the v522 research master has not been renamed or overwritten.
+The [versioned CSV release](releases/staged-v522-historical-faq-20261101/) now contains the integrated source, rule-occurrence, crosswalk, source-role and review registers with SHA-256 checksums. The repository includes [the importer](tools/integrate_historical_faq.py), [the independent verifier](tools/verify_historical_faq.py) and its end-to-end fixture tests. **The live SQLite file and CSV exports are still the earlier publication**, and the v522 research master has not been renamed or overwritten.
 
 ## Stable IDs
 
