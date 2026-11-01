@@ -72,6 +72,12 @@ WHERE t.term_id = 'WG-0001';
 - `docs/DATA_MODEL.md` - relational model
 - `docs/CONTENT_AND_PROVENANCE.md` - publication and source-handling notes
 
+## Historical FAQ research supplement (1 November 2026)
+
+[The separate Dust Warfare and Battle for Earth crosswalk](research/historical-faq-crosswalks-20261101/README.md) records 27 research-only findings, three publisher documents and five provenance holds. All nearest WG references have been checked against v522. No WG IDs, source rows or graph edges have been added to the published database.
+
+The research is not an edition update. The official 2019 Battle for Earth FAQ must not be treated as later Dropzone Commander rules, and the 2013 Dust Warfare FAQ changes the earlier interpretation of repeated special actions.
+
 ## Stable IDs
 
 `WG-####` IDs are intended to be stable. Three duplicate IDs discovered during the v15 migration were
