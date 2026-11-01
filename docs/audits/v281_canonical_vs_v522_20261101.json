@@ -1,0 +1,25 @@
+{
+  "frozen_wg_count": 3023,
+  "current_wg_count": 3475,
+  "frozen_identifiers_present": true,
+  "frozen_relative_order_preserved": true,
+  "frozen_prefix_positions_preserved": true,
+  "new_wg_identifiers": 452,
+  "inherited_rows_with_changed_fields": 12,
+  "field_change_counts": {
+    "Plain-English meaning": 7,
+    "Term": 5
+  },
+  "note": "Checks identifier preservation and term/definition drift against the canonical workbook; it does not certify the correctness of later changes.",
+  "historical_sheet": "Mechanics",
+  "comparison_fields": [
+    "ID",
+    "Term",
+    "Plain-English meaning"
+  ],
+  "frozen_sha256": "fa6fa874702627861af960e657c9893b5382ae74e11c9acb86e4f00a81e96a98",
+  "current_sha256": "c12cafd92fe71c1bae433e6b2cecf5c1fcb3d05b1efb3d764db3f32e5f8d1d4b",
+  "reference_source": "wargaming-lexicon-v281-canonical.xlsx, recovered from historical user Library",
+  "parent_v521_comparison": "Historical report from 2026-10-30 records a passed inherited-cell comparison; exact parent not recovered for a fresh 2026-11-01 comparison.",
+  "status": "Canonical frozen ID and original order verification passed."
+}
