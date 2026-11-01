@@ -1,0 +1,50 @@
+{
+  "release": "v522-historical-faq-integration-staged-20261101",
+  "status": "versioned CSV integration; not live database",
+  "master_sha256": "c12cafd92fe71c1bae433e6b2cecf5c1fcb3d05b1efb3d764db3f32e5f8d1d4b",
+  "frozen_v281_sha256": "fa6fa874702627861af960e657c9893b5382ae74e11c9acb86e4f00a81e96a98",
+  "counts": {
+    "canonical_wg": 3475,
+    "registered_sources": 819,
+    "occurrences_total": 601,
+    "original_occurrences": 575,
+    "new_unmapped_research_occurrences": 26,
+    "research_crosswalks": 27,
+    "relationships": 1611,
+    "term_sources": 3948,
+    "review_queue": 102
+  },
+  "published_in_this_repository_directory": [
+    "sources.csv",
+    "rule_occurrences.csv",
+    "review_queue.csv",
+    "historical_faq_crosswalks.csv",
+    "historical_source_roles.csv",
+    "provenance_holds.csv"
+  ],
+  "file_sha256": {
+    "sources.csv": "7153fff348de9e78ed6d2715fd1930fe9b91a58f88b3cd0e81c8d461e4056509",
+    "rule_occurrences.csv": "67dc4549c0065a6187252ec85d39422db9fd82f93613c7c4d2fd42a252270ac0",
+    "review_queue.csv": "1406d59fba8d42a7b913dbc9d7f17a1d3c2a4ae18b1d2b11fbc13717c3381c10",
+    "historical_faq_crosswalks.csv": "3fcd4c955e3bf26482675823c9932e6792f56636da2ff4bf493e9de41cbb4bfc",
+    "historical_source_roles.csv": "c541d6c9416b9e753efa901e574a4988731897e65740a5c38a92c84138264b94",
+    "provenance_holds.csv": "8bf94de4b41866b3a16cc433a744064b12736915aef1a05dba186a12b2a28d9c"
+  },
+  "retained_in_downloadable_integrated_archive": [
+    "terms.csv",
+    "aliases.csv",
+    "relationships.csv",
+    "term_sources.csv",
+    "discoveries.csv",
+    "candidates.csv",
+    "wargaming_lexicon.sqlite",
+    "original v522 workbook",
+    "original v281 workbook",
+    "verification code"
+  ],
+  "integrated_archive_sha256": "b09b93d5e23425f3f361eb772c1eafbb8848abbb3c3e3d5410cce1c8a6f18525",
+  "source_provenance_notes": "Historical official publisher FAQs; Dust 1.3 superseded by 1.4 for repeated special actions; BFE 2019 filename/header conflict.",
+  "no_canonical_changes": true,
+  "no_inferred_term_source_links": true,
+  "parent_v521_fresh_comparison": false
+}
