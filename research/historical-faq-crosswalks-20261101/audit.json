@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-01",
+  "stage": "research-only",
+  "master_version": "v522",
+  "master_sha256": "c12cafd92fe71c1bae433e6b2cecf5c1fcb3d05b1efb3d764db3f32e5f8d1d4b",
+  "v281_sha256": "fa6fa874702627861af960e657c9893b5382ae74e11c9acb86e4f00a81e96a98",
+  "counts_before_after": {
+    "worksheets": [
+      348,
+      348
+    ],
+    "wg": [
+      3475,
+      3475
+    ],
+    "sources": [
+      816,
+      816
+    ],
+    "relationships": [
+      1611,
+      1611
+    ],
+    "rule_occurrences": [
+      575,
+      575
+    ],
+    "discoveries": [
+      616,
+      616
+    ],
+    "candidates": [
+      514,
+      514
+    ]
+  },
+  "staged": {
+    "BFE_crosswalks": 11,
+    "Dust_2013_crosswalks": 15,
+    "Dust_v13_to_v14_correction": 1,
+    "total": 27,
+    "provisional_sources": 3,
+    "held_provenance": 5,
+    "new_canonical_wg": 0
+  },
+  "validation": {
+    "master_hash_passed": true,
+    "duplicate_uploaded_master_matches": true,
+    "v281_hash_and_prefix_order_passed": true,
+    "relationship_endpoints_valid": true,
+    "missing_source_keys": [],
+    "formula_cells": 0,
+    "stored_formula_errors": 0,
+    "directed_hierarchy_cycles": false,
+    "hierarchy_inverse_failures": 0,
+    "structural_failures": []
+  },
+  "review": {
+    "self_aliases": 31,
+    "one_way_symmetric_edges": 610,
+    "active_graph_orphans": 2483,
+    "unmapped_occurrences": 16,
+    "discoveries_without_candidates": 103
+  },
+  "historical_parent_v521_fresh_comparison": "not performed: exact parent unavailable",
+  "source_reports_sha256": {
+    "Dust_FAQ_crosswalk": "6fead29c9eab9e1b96c06b7ec8a7953de59fdbed3a0eec07dcbf9e1f7d9a10f2",
+    "BFE_FAQ_crosswalk": "5bae23cd51a7c4ffc4a820bcafed4e3800f8120620bc60e3ad2f80853ca831f7"
+  },
+  "research_files_sha256": {
+    "research_crosswalk.csv": "3fcd4c955e3bf26482675823c9932e6792f56636da2ff4bf493e9de41cbb4bfc",
+    "staged_sources.csv": "309c63137d9830532752db5c6f8ff136706e74657d0e5beecfc25852",
+    "held_provenance.csv": "8bf94de4b41866b3a16cc433a744064b12736915aef1a05dba186a12b2a28d9c"
+  }
+}
