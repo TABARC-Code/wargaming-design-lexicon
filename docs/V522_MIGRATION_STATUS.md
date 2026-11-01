@@ -9,7 +9,11 @@ The research master and the repository's published database are currently **diff
 - 348 worksheets; 3,475 WG records (3,472 active, three redirects); 816 sources; 1,611 relationships; 575 occurrences; 616 discoveries; 514 candidates
 - Most recent independent structural audit: 31 October 2026; zero reported structural failures
 
-The exact frozen v281 workbook and v521 parent have since been recovered and their SHA-256 hashes checked locally: v281 `fa6fa874702627861af960e657c9893b5382ae74e11c9acb86e4f00a81e96a98`; v521 `7d97a59a05bf11ef73dc4bafacaca07f7fbfe903108488b6f66fd7e90c85c8f3`. The 30 October independent parent-fidelity report records 344 inherited sheets, 163,920 inherited populated cells, three authorised changes, 220 newly populated cells and no unexpected changes or removals. This does not by itself publish the release: the CSV, SQLite and website must still be promoted together after staging checks.
+On 1 November 2026, the v281 canonical workbook was recovered and compared directly with v522. Its SHA-256 is `fa6fa874702627861af960e657c9893b5382ae74e11c9acb86e4f00a81e96a98`. All 3,023 frozen WG identifiers remain present **in the original order and positions**. Five term labels and seven definitions have changed since that reference. See [the canonical ID comparison](audits/v281_canonical_vs_v522_20261101.json) and `tools/verify_frozen_ids.py`.
+
+The additional v281 research master (`d99561e5c3863663badb1cc01565e2a02cf64907fe62e1f830e24414e42449d1`) was compared as well. Its 3,023 IDs remain in order, while 1,370 inherited records have later changes in at least one field, predominantly category classifications. This is an audit of differences, not a determination that all such changes are right or wrong.
+
+The exact v521 parent is **not currently available for a fresh comparison**. Archived independent reports from 28 and 30 October 2026 record a successful earlier v521/v522 comparison against hash `7d97a59a05bf11ef73dc4bafacaca07f7fbfe903108488b6f66fd7e90c85c8f3`: 344 inherited sheets, 163,920 inherited populated cells, three authorised changes, 220 newly populated cells and no unexpected removals. That historical result must not be presented as a freshly rerun check.
 
 ## Repository baseline
 
@@ -24,13 +28,13 @@ The exact frozen v281 workbook and v521 parent have since been recovered and the
 
 `tools/export_master.py` now reads the approved workbook without altering it, checks its SHA-256 and references, and generates a separate CSV/SQLite staging directory with a manifest. Seven standalone tests are in `tools/test_export_master.py` and run during validation. Details and commands: [Export pipeline](EXPORT_PIPELINE.md).
 
-A local staging build completed with 3,475 terms, 3,472 active entries, three redirects, 816 sources, 1,611 relationships, 7,163 aliases and 3,948 source links. SQLite foreign keys and integrity checks passed. These are staging results, **not** a replacement of the live repository database or evidence of a completed v281/v521 comparison.
+A local staging build completed with 3,475 terms, 3,472 active entries, three redirects, 816 sources, 1,611 relationships, 7,163 aliases and 3,948 source links. SQLite foreign keys and integrity checks passed. These are staging results, **not** a replacement of the live repository database. The v281 comparison has now been repeated; the v521 comparison is still supported only by earlier archived reports.
 
 The static browser's CSV path and deployment packaging have been corrected, but repository Pages configuration remains separate from successful data validation.
 
 ## Release requirements
 
-1. Recover the exact frozen v281 reference and v521 parent, verify their hashes, and compare frozen IDs/order and inherited content.
+1. Preserve the verified v281 frozen-ID comparison and recover the exact v521 parent for a fresh inherited-cell comparison.
 2. Verify all source keys and roles, redirects, aliases, relationship endpoints, inverse edges, taxonomy, staging tables and formula errors.
 3. Export v522 into a documented relational model, preserving stable WG IDs and distinguishing active records from redirects.
 4. Build CSV and SQLite outputs from the same validated data, then compare counts, IDs, provenance and relationships against the workbook.
