@@ -1,0 +1,69 @@
+{
+  "date_utc": "2026-11-01",
+  "status": "integrated_research_release; canonical_master_unchanged",
+  "authoritative_master_sha256": "c12cafd92fe71c1bae433e6b2cecf5c1fcb3d05b1efb3d764db3f32e5f8d1d4b",
+  "frozen_v281_sha256": "fa6fa874702627861af960e657c9893b5382ae74e11c9acb86e4f00a81e96a98",
+  "exact_parent_v521_fresh_inherited_comparison": "not performed",
+  "before": {
+    "canonical_wg": 3475,
+    "sources": 816,
+    "relationships": 1611,
+    "occurrences": 575,
+    "term_sources": 3948,
+    "review_queue": 70
+  },
+  "after": {
+    "canonical_wg": 3475,
+    "sources": 819,
+    "relationships": 1611,
+    "occurrences_total": 601,
+    "occurrences_original_mapped": 575,
+    "occurrences_research_unmapped": 26,
+    "term_sources": 3948,
+    "review_queue": 102,
+    "historical_crosswalks": 27,
+    "research_only_nearest_wg_associations": 65,
+    "source_role_records": 3,
+    "provenance_holds": 5
+  },
+  "registered_sources": [
+    {
+      "source_key": "DZC-BFE-2019-FAQ",
+      "role": "OFFICIAL_PUBLISHER_FAQ_HISTORICAL",
+      "publisher": "TTCombat",
+      "document": "Battle for Earth FAQ Errata",
+      "revision_limit": "filename v1.0; printed V1.1; internal date 19 Sep 2019"
+    },
+    {
+      "source_key": "DW-2012-FAQ13",
+      "role": "OFFICIAL_PUBLISHER_FAQ_SUPERSEDED",
+      "publisher": "Fantasy Flight Games",
+      "revision": "FAQ 1.3"
+    },
+    {
+      "source_key": "DW-2013-FAQ14",
+      "role": "OFFICIAL_PUBLISHER_FAQ_SUPERSEDING",
+      "publisher": "Fantasy Flight Games",
+      "revision": "FAQ 1.4"
+    }
+  ],
+  "database_integrity": "PRAGMA integrity_check ok; foreign_key_check empty",
+  "retained_unchanged": [
+    "terms.csv",
+    "relationships.csv",
+    "aliases.csv",
+    "term_sources.csv",
+    "discoveries.csv",
+    "candidates.csv"
+  ],
+  "local_production_artifacts": {
+    "zip_sha256": "b09b93d5e23425f3f361eb772c1eafbb8848abbb3c3e3d5410cce1c8a6f18525",
+    "register_xlsx_sha256": "1c80ec42e64d8e9204de64506c0c41f27a0deea12f2c2720fb8517649ce03beb",
+    "sqlite_sha256": "403968b6586ee9f966431c792ae787b6f67e3a914fc471d1e6d2f75e862b8d03"
+  },
+  "repo_binary_archive_uploaded": false,
+  "repo_code_uploaded": true,
+  "live_database_overwritten": false,
+  "master_workbook_replaced": false,
+  "publication_limit": "Historical research fully integrated into versioned SQLite and CSV staging only. Canonical WG-to-source links are withheld where only nearest-WG comparison exists."
+}
