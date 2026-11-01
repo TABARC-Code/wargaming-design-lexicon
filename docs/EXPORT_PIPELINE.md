@@ -1,6 +1,6 @@
 # Building a staged lexicon release
 
-The source workbook is the record of research. CSV and SQLite are generated outputs. The currently published repository dataset must not be replaced until the staged output has been reconciled and the missing historical comparisons resolved.
+The source workbook is the record of research. CSV and SQLite are generated outputs. The currently published repository dataset must not be replaced until the staged output is reconciled, the remaining historical comparison is completed, and outstanding review decisions are recorded.
 
 ## Requirements
 
@@ -37,6 +37,19 @@ python tools/verify_staged.py /path/to/wargaming_design_lexicon_v376_v522_fantas
 
 This compares every exported CSV record with the workbook, checks the SHA-256 manifest, SQLite integrity and foreign keys, reconciles table rows and full-text index contents, and verifies the research archive payloads. It reads the staged release without changing it.
 
+## Verify the frozen v281 identifiers
+
+The canonical v281 reference is kept separate from the research master. It uses a `Mechanics` worksheet, whereas the current master uses `Lexicon`. Both are supported:
+
+```sh
+python tools/verify_frozen_ids.py /path/to/wargaming-lexicon-v281-canonical.xlsx \
+  /path/to/wargaming_design_lexicon_v376_v522_fantasy_depth_verified.xlsx \
+  --expected-frozen-sha256 fa6fa874702627861af960e657c9893b5382ae74e11c9acb86e4f00a81e96a98 \
+  --expected-current-sha256 c12cafd92fe71c1bae433e6b2cecf5c1fcb3d05b1efb3d764db3f32e5f8d1d4b
+```
+
+The 1 November 2026 check confirmed that all 3,023 original IDs remain in their original positions. Five labels and seven definitions differ from the canonical reference. The comparison deliberately reports those changes without silently restoring old wording. See [the audit record](audits/v281_canonical_vs_v522_20261101.json).
+
 ## Exported data
 
 | File | Contents |
@@ -71,7 +84,7 @@ python -m unittest discover -s tools -p 'test_*.py'
 
 ## Publication requirements
 
-1. Recover and compare the original v281 frozen reference and exact v521 parent.
+1. Retain the verified v281 frozen-ID comparison and recover the exact v521 parent for a fresh inherited-cell comparison.
 2. Reconcile legacy IDs and inherited content.
 3. Review open graph, alias and provenance issues, recording accepted exceptions.
 4. Reconcile staged CSV/SQLite fields and IDs with the approved source workbook.
