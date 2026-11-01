@@ -9,7 +9,7 @@ The research master and the repository's published database are currently **diff
 - 348 worksheets; 3,475 WG records (3,472 active, three redirects); 816 sources; 1,611 relationships; 575 occurrences; 616 discoveries; 514 candidates
 - Most recent independent structural audit: 31 October 2026; zero reported structural failures
 
-The local file hash was checked again on 31 October 2026. The original frozen v281 workbook and exact v521 parent were not available locally for a fresh comparison. Historical checks do not replace that missing verification.
+The exact frozen v281 workbook and v521 parent have since been recovered and their SHA-256 hashes checked locally: v281 `fa6fa874702627861af960e657c9893b5382ae74e11c9acb86e4f00a81e96a98`; v521 `7d97a59a05bf11ef73dc4bafacaca07f7fbfe903108488b6f66fd7e90c85c8f3`. The 30 October independent parent-fidelity report records 344 inherited sheets, 163,920 inherited populated cells, three authorised changes, 220 newly populated cells and no unexpected changes or removals. This does not by itself publish the release: the CSV, SQLite and website must still be promoted together after staging checks.
 
 ## Repository baseline
 
