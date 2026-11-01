@@ -78,6 +78,12 @@ WHERE t.term_id = 'WG-0001';
 
 The research is not an edition update. The official 2019 Battle for Earth FAQ must not be treated as later Dropzone Commander rules, and the 2013 Dust Warfare FAQ changes the earlier interpretation of repeated special actions.
 
+## Historical FAQ integration (1 November 2026)
+
+[The integrated research release](docs/INTEGRATION_HISTORICAL_FAQ_V522.md) adds three historically scoped publisher source records and 26 unmapped rule observations to a separate v522 staging database. A 27th finding records the Dust Warfare FAQ supersession. The 3,475 WG records, 1,611 relationships and 3,948 term-source links are unchanged.
+
+The repository includes [the importer](tools/integrate_historical_faq.py), [the independent verifier](tools/verify_historical_faq.py) and its end-to-end fixture tests. **The live SQLite file and CSV exports are still the earlier publication**, and the v522 research master has not been renamed or overwritten.
+
 ## Stable IDs
 
 `WG-####` IDs are intended to be stable. Three duplicate IDs discovered during the v15 migration were
