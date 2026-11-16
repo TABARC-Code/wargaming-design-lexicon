@@ -1,0 +1,7 @@
+row,expected_source,predicate,expected_target,replacement_source,replacement_target,reason
+327,WG-3129,similar_to,WG-1264,WG-3129,WG-1263,"Both introduce misleading information but differ in object and timing"
+328,WG-3129,contrasts_with,WG-1264,WG-3129,WG-1263,"Dummy Marker concerns presence or location; False Support Commitment concerns resolution of support"
+329,WG-3129,often_confused_with,WG-1264,WG-3129,WG-1263,"Decoy and bluff labels overlap but their game objects differ"
+1736,WG-1264,often_confused_with,WG-3129,WG-1263,WG-3129,"Reciprocal of row 329"
+3082,WG-1264,contrasts_with,WG-3129,WG-1263,WG-3129,"Reciprocal of row 328"
+3083,WG-1264,similar_to,WG-3129,WG-1263,WG-3129,"Reciprocal of row 327"
