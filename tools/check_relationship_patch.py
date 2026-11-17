@@ -2,6 +2,7 @@
 """Check a proposed relationship endpoint patch without changing source data."""
 import csv
 import sys
+import re
 from collections import Counter
 from pathlib import Path
 
@@ -17,6 +18,8 @@ def validate(path):
             raise ValueError("Unexpected patch columns")
         rows = list(reader)
     errors = []
+    if not rows:
+        errors.append("Empty patch")
     old = Counter()
     new = Counter()
     seen_rows = set()
@@ -26,14 +29,22 @@ def validate(path):
         except (ValueError, TypeError):
             errors.append("Invalid worksheet row")
             continue
+        if number < 2:
+            errors.append(f"Invalid data row {number}")
         if number in seen_rows:
             errors.append(f"Duplicate worksheet row {number}")
         seen_rows.add(number)
         for key in ("expected_source", "expected_target",
                     "replacement_source", "replacement_target"):
             value = record[key] or ""
-            if not (value.startswith("WG-") and len(value) == 7 and value[3:].isdigit()):
+            if not re.fullmatch(r"WG-[0-9]{4}", value):
                 errors.append(f"Invalid WG ID at row {number}: {key}")
+        if None in record or any(value is None for value in record.values()):
+            errors.append(f"Malformed CSV record at row {number}")
+        if not (record["reason"] or "").strip():
+            errors.append(f"Missing reason at row {number}")
+        if not (record["predicate"] or "").strip() or record["predicate"] != record["predicate"].strip():
+            errors.append(f"Invalid predicate at row {number}")
         if record["expected_source"] == record["expected_target"]:
             errors.append(f"Old self-link at row {number}")
         if record["replacement_source"] == record["replacement_target"]:
