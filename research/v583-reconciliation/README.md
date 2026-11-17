@@ -4,7 +4,12 @@ Status: UNMERGED. These records are proposed corrections to the later v583 workb
 
 The six endpoint replacements in `relationship-corrections-v669-unmerged.csv` retain their original worksheet row numbers and expected old values. Apply only after verifying the exact source workbook checksum and each expected old tuple. Three predicates are symmetric; both directions must remain present after replacement.
 
-The additional rationale correction is at worksheet row 3185, WG-1908 `contrasts_with` WG-3145. Replace the mistaken reference `Reciprocal of WG-3145 contrasts_with WG-2079` with `Reciprocal of WG-3145 contrasts_with WG-1908`. Preserve the remainder of the rationale.
+The endpoint changes also require two reciprocal rationale repairs in the same worksheet:
+
+- Row 3082, WG-1263 `contrasts_with` WG-3129: change `Reciprocal of WG-3129 contrasts_with WG-1264` to `Reciprocal of WG-3129 contrasts_with WG-1263`.
+- Row 3083, WG-1263 `similar_to` WG-3129: change `Reciprocal of WG-3129 similar_to WG-1264` to `Reciprocal of WG-3129 similar_to WG-1263`.
+
+The third rationale correction is at worksheet row 3185, WG-1908 `contrasts_with` WG-3145. Replace the mistaken reference `Reciprocal of WG-3145 contrasts_with WG-2079` with `Reciprocal of WG-3145 contrasts_with WG-1908`. Preserve the remainder of the rationale.
 
 The previous audit records v583 as 3,486 WG identifiers and 3,851 directed relationships. These figures have not been independently rerun against the exact workbook here. The v583 workbook checksum recorded for recovery is `88417b742523d33800240b393c8f53d176bbe5e55dbcb47ba018ae25a0249b0b`.
 
